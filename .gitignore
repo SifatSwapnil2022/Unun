@@ -1,0 +1,60 @@
+# ── Dependencies ─────────────────────────────
+node_modules/
+vendor/
+.pnp/
+.pnp.js
+
+# ── Build Output ────────────────────────────
+dist/
+build/
+out/
+.next/
+.expo/
+coverage/
+*.tsbuildinfo
+
+# ── Environment / Secrets ───────────────────
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+*.pem
+*.key
+serviceAccountKey.json
+
+# ── Databases / Cache ───────────────────────
+*.sqlite
+*.sqlite3
+*.db
+.cache/
+.tmp/
+temp/
+
+# ── Logs ────────────────────────────────────
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ── OS / Editor Files ───────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Deployment / Hosting ────────────────────
+.firebase/
+.vercel/
+.netlify/
+
+# ── Package Managers (optional: remove if tracking lockfiles)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml

@@ -7,6 +7,8 @@ requires-python = ">=3.11"
 [tool.pytest.ini_options]
 # The examples in text.py's docstrings are run as tests too.
 testpaths = ["tests", "unun_ml/text.py"]
+# So a bare `pytest` finds the package, not only `python -m pytest`.
+pythonpath = ["."]
 addopts = "-q --doctest-modules"
 
 [tool.ruff]

@@ -1,0 +1,1523 @@
+{
+  "photos": {
+    "kacchi-platter": {
+      "src": "https://images.unsplash.com/photo-1633945274405-b6c8069047b0",
+      "credit": "Shourav Sheikh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/j9lowNcnl04",
+      "shows": "A platter of food on a red cloth",
+      "standsFor": "Mutton kacchi biryani, the cover of Dum Ghor and the Kacchi and biryani tile"
+    },
+    "kacchi-plate": {
+      "src": "https://images.unsplash.com/photo-1633945274309-2c16c9682a8c",
+      "credit": "Shourav Sheikh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/iryb5QqdVr4",
+      "shows": "A white plate topped with rice and meat",
+      "standsFor": "Beef kacchi biryani and the cover of Shahi Haari"
+    },
+    "biryani-white-plate": {
+      "src": "https://images.unsplash.com/photo-1716550781939-beb7d7247aae",
+      "credit": "Sarabjeet Singh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/q29oNjt3sEQ",
+      "shows": "A white plate topped with rice and meat",
+      "standsFor": "Chicken biryani and the cover of Dawat"
+    },
+    "polao-plate": {
+      "src": "https://images.unsplash.com/photo-1644677867331-03f28942e35c",
+      "credit": "Shourav Sheikh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/OWnsckZyDAE",
+      "shows": "A white plate topped with rice and vegetables",
+      "standsFor": "Morog polao and the cover of Chinigura"
+    },
+    "biryani-bowl": {
+      "src": "https://images.unsplash.com/photo-1631515243349-e0cb75fb8d3a",
+      "credit": "Mario Raj",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/ysmeQt1dzcw",
+      "shows": "A white bowl filled with rice and meat",
+      "standsFor": "Beef tehari and the cover of Tehari Bari"
+    },
+    "polao-leaf": {
+      "src": "https://images.unsplash.com/photo-1599043513900-ed6fe01d3833",
+      "credit": "Atikah Akhtar",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/DIdQP3HUMXQ",
+      "shows": "A white ceramic plate with rice and green leaves",
+      "standsFor": "Plain polao"
+    },
+    "chicken-curry-white": {
+      "src": "https://images.unsplash.com/photo-1764304733301-3a9f335f0c67",
+      "credit": "Kalindu Waranga",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/VtNLbOAeO68",
+      "shows": "Chicken curry in a white bowl",
+      "standsFor": "Chicken roast"
+    },
+    "red-curry": {
+      "src": "https://images.unsplash.com/photo-1707448829764-9474458021ed",
+      "credit": "shibani Mishra",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/PPgBVHj0ecQ",
+      "shows": "A bowl of red curry next to a bowl of rice and a bowl of soup",
+      "standsFor": "Beef rezala"
+    },
+    "cutlet": {
+      "src": "https://images.unsplash.com/photo-1616077491816-b3b00377a78f",
+      "credit": "Karolina Kołodziejczak",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/tW1kii3cwdc",
+      "shows": "Fried food in a blue and white ceramic bowl",
+      "standsFor": "Jali kabab"
+    },
+    "lassi-cup": {
+      "src": "https://images.unsplash.com/photo-1675064982913-067b64880f5f",
+      "credit": "yasara hansani",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/T6S7L4DoeDY",
+      "shows": "A person holding a cup with a straw in it",
+      "standsFor": "Borhani"
+    },
+    "firni": {
+      "src": "https://images.unsplash.com/photo-1777613112969-d7511ddfbe15",
+      "credit": "Adil Murshed",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/9Gm-wNAaWzg",
+      "shows": "A bowl of creamy rice pudding with a marigold garland",
+      "standsFor": "Firni"
+    },
+    "saffron-rice": {
+      "src": "https://images.unsplash.com/photo-1709004250870-783422d29288",
+      "credit": "Mohammad Salehi",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/gLqQ1w-7Yps",
+      "shows": "A white plate topped with rice on a table",
+      "standsFor": "Jorda"
+    },
+    "salad": {
+      "src": "https://images.unsplash.com/photo-1610192244261-3f33de3f55e4",
+      "credit": "Radowan Nakif Rehan",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/gU6_KA8zCvM",
+      "shows": "Vegetable salad on a white ceramic plate",
+      "standsFor": "Onion and cucumber salad"
+    },
+    "water": {
+      "src": "https://images.unsplash.com/photo-1523362628745-0c100150b504",
+      "credit": "Steve A Johnson",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/N-MqWXXZvNY",
+      "shows": "A clear drinking bottle filled with water",
+      "standsFor": "Mineral water, 500 ml"
+    },
+    "soft-drink": {
+      "src": "https://images.unsplash.com/photo-1629654613528-5d0a2e4166de",
+      "credit": "Qasim Malick",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/i597Mg_WSPw",
+      "shows": "A clear drinking glass with ice and a dark drink",
+      "standsFor": "Soft drink, 250 ml"
+    },
+    "kebab-coals": {
+      "src": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0",
+      "credit": "Hamid Roshaan",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/uIiMSu88RZQ",
+      "shows": "Grilled meat on a charcoal grill",
+      "standsFor": "Beef sheek kabab, the cover of Koylar Aanch and the Kabab and grill tile"
+    },
+    "kebab-stand": {
+      "src": "https://images.unsplash.com/photo-1781332143834-19a40f746cd9",
+      "credit": "Zayed Ahmed Zadu",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/-yFswqcNxXk",
+      "shows": "Four skewers of grilled food served on a wooden stand",
+      "standsFor": "Chicken sheek kabab and the cover of Sheek"
+    },
+    "grill-black": {
+      "src": "https://images.unsplash.com/photo-1605908580297-f3e1c02e64ff",
+      "credit": "aly",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/0dW1rNcbadM",
+      "shows": "Grilled meat on a black grill",
+      "standsFor": "Beef boti kabab"
+    },
+    "kebab-grill": {
+      "src": "https://images.unsplash.com/photo-1705359573325-f2006d5e459f",
+      "credit": "Mihir Sabnis",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/FOZbF67e-DE",
+      "shows": "Several skewers of chicken and vegetables on a grill",
+      "standsFor": "Chicken tikka"
+    },
+    "skewer-close": {
+      "src": "https://images.unsplash.com/photo-1649295948526-fd64e7248754",
+      "credit": "tommao wang",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/BTtg_WtqBvM",
+      "shows": "A close-up of a skewer of food",
+      "standsFor": "Reshmi kabab"
+    },
+    "beef-tray": {
+      "src": "https://images.unsplash.com/photo-1785030994664-701e7bfa7c4d",
+      "credit": "tommao wang",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/msyR4b3rU0g",
+      "shows": "A tray of savoury beef and vegetables with fresh coriander",
+      "standsFor": "Beef chaap and the cover of Chaap Ghor"
+    },
+    "fried-chicken-tray": {
+      "src": "https://images.unsplash.com/photo-1786232461126-e27e970b003b",
+      "credit": "tommao wang",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/FmY02gsUk2M",
+      "shows": "Crisp fried chicken pieces dusted with yellow spice on a tray",
+      "standsFor": "Chicken chaap"
+    },
+    "grilled": {
+      "src": "https://images.unsplash.com/photo-1563310761-f8d8ed164063",
+      "credit": "Yash Bhardwaj",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/jmlVecMgNuc",
+      "shows": "Grilled foods",
+      "standsFor": "Grilled chicken, quarter"
+    },
+    "grill-whole": {
+      "src": "https://images.unsplash.com/photo-1712579733874-c3a79f0f9d12",
+      "credit": "Sven Lippmann",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/hsoJOlqsBeU",
+      "shows": "A whole chicken cooking on a grill",
+      "standsFor": "Grilled chicken, half and the cover of Dhoa"
+    },
+    "tandoori": {
+      "src": "https://images.unsplash.com/photo-1641873933980-fcff60026f50",
+      "credit": "Mayur Sable",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/jyrr5cYKwao",
+      "shows": "A close-up of a chicken on a plate",
+      "standsFor": "Tandoori chicken, half"
+    },
+    "kebab-fries": {
+      "src": "https://images.unsplash.com/photo-1603360946369-dc9bb6258143",
+      "credit": "Markus Winkler",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/WHtVB-RiW2I",
+      "shows": "Three grilled meat skewers with fries, tomatoes, onions and bread",
+      "standsFor": "Mixed kabab platter and the cover of Jhalsano"
+    },
+    "naan": {
+      "src": "https://images.unsplash.com/photo-1640625314547-aee9a7696589",
+      "credit": "Sweetyoga Justine",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/-C93EET79kU",
+      "shows": "A pile of flatbread on a wooden cutting board",
+      "standsFor": "Butter naan"
+    },
+    "naan-bowl": {
+      "src": "https://images.unsplash.com/photo-1697155406014-04dc649b0953",
+      "credit": "Rashpal Singh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/h7cZs0aFicw",
+      "shows": "A bowl filled with flatbread and a fork",
+      "standsFor": "Garlic naan"
+    },
+    "roti-pepper": {
+      "src": "https://images.unsplash.com/photo-1718874635150-85070e62fcf1",
+      "credit": "siddharth vyas",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/Ps9YpWKjT7o",
+      "shows": "A flatbread with a green pepper on top",
+      "standsFor": "Plain naan"
+    },
+    "puri-curry": {
+      "src": "https://images.unsplash.com/photo-1789990642580-58a36f812d11",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/PEaeoEHpKlo",
+      "shows": "A bowl of vegetable curry with two fried poori breads",
+      "standsFor": "Luchi, 4 pieces"
+    },
+    "pudding-white": {
+      "src": "https://images.unsplash.com/photo-1600676626897-eb2fb18a21e0",
+      "credit": "yang louie",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/LC6wR4qdN7E",
+      "shows": "A white ceramic bowl of white pudding",
+      "standsFor": "Raita and Mishti doi, 500 g"
+    },
+    "wrap": {
+      "src": "https://images.unsplash.com/photo-1699728088614-7d1d4277414b",
+      "credit": "Yoad Shejtman",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/sPmF7MNzdnU",
+      "shows": "A person holding a wrap with meat and vegetables",
+      "standsFor": "Chicken kathi roll"
+    },
+    "shawarma": {
+      "src": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783",
+      "credit": "Alexander Mils",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/SNLfVYmL8os",
+      "shows": "Beef shawarma",
+      "standsFor": "Beef kathi roll"
+    },
+    "rice-floral": {
+      "src": "https://images.unsplash.com/photo-1610514000782-b205b70fbe71",
+      "credit": "Rashedul Islam Hridoy",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/T9l-EAbNjc4",
+      "shows": "White rice on a blue and white floral plate",
+      "standsFor": "Plain rice"
+    },
+    "dal-yellow": {
+      "src": "https://images.unsplash.com/photo-1630409349416-24884761a307",
+      "credit": "Mario Raj",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/0ni63gRt4PE",
+      "shows": "A white ceramic bowl with yellow soup",
+      "standsFor": "Masoor dal"
+    },
+    "mashed": {
+      "src": "https://images.unsplash.com/photo-1707616954324-99c89a78a20d",
+      "credit": "You Le",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/l-mqDIEwcKk",
+      "shows": "A bowl of mashed potatoes topped with chives",
+      "standsFor": "Aloo bhorta"
+    },
+    "eggplant-braised": {
+      "src": "https://images.unsplash.com/photo-1789977968890-11b661191e45",
+      "credit": "Arinal Izzah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/y8i5ntRg8KE",
+      "shows": "Braised aubergine in a spicy red sauce in a white bowl",
+      "standsFor": "Begun bhorta"
+    },
+    "condiments": {
+      "src": "https://images.unsplash.com/photo-1678731748138-1eaf7ab4f5d4",
+      "credit": "Pyx Photography",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/5swmjpGIJg4",
+      "shows": "A variety of condiments arranged on a plate",
+      "standsFor": "Tomato bhorta"
+    },
+    "fried-egg": {
+      "src": "https://images.unsplash.com/photo-1605719161691-5d9771fc144f",
+      "credit": "Syed Hussaini",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/r6Y01QzcVdY",
+      "shows": "A fried egg on a white ceramic plate",
+      "standsFor": "Egg bhorta"
+    },
+    "green-chutney": {
+      "src": "https://images.unsplash.com/photo-1580050878264-c4985c8ae8e7",
+      "credit": "Anshu A",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/Fyu8k7U9JnU",
+      "shows": "A green sauce in a white ceramic bowl",
+      "standsFor": "Black cumin bhorta"
+    },
+    "dried-fish": {
+      "src": "https://images.unsplash.com/photo-1578428153977-6b309954a1e2",
+      "credit": "Alex Bell",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/uS3PQYEXZyA",
+      "shows": "Dried fish",
+      "standsFor": "Shutki bhorta"
+    },
+    "prawn-veg": {
+      "src": "https://images.unsplash.com/photo-1761545832792-535fafbad368",
+      "credit": "Zayed Ahmed Zadu",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/cujwrR1zfDI",
+      "shows": "Shrimp in sauce with mixed vegetables and limes",
+      "standsFor": "Prawn bhorta"
+    },
+    "thali-steel": {
+      "src": "https://images.unsplash.com/photo-1589778655375-3e622a9fc91c",
+      "credit": "Barun Ghosh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/wClFKcjhNcI",
+      "shows": "Assorted foods on a stainless steel tray",
+      "standsFor": "Five-bhorta platter with rice and the cover of Shorisha"
+    },
+    "veg-dish": {
+      "src": "https://images.unsplash.com/photo-1587040690786-b091531837a2",
+      "credit": "iMattSmart",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/wgvbmn4d0Wk",
+      "shows": "A vegetable dish on a white ceramic plate",
+      "standsFor": "Mixed vegetable bhaji"
+    },
+    "greens-rice": {
+      "src": "https://images.unsplash.com/photo-1582576163090-09d3b6f8a969",
+      "credit": "Daniela",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/RELOvb0rrCE",
+      "shows": "Rice with green leaf vegetables on a white plate",
+      "standsFor": "Red amaranth bhaji"
+    },
+    "eggplant-grilled": {
+      "src": "https://images.unsplash.com/photo-1677889173788-57b871df7b8a",
+      "credit": "Natalia Gusakova",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/UdsV2iVWVOc",
+      "shows": "A white plate topped with grilled aubergine and potatoes",
+      "standsFor": "Begun bhaja, 2 slices"
+    },
+    "fish-fry": {
+      "src": "https://images.unsplash.com/photo-1652954008429-ce394eacbd7f",
+      "credit": "Qurratul Ayin Sadia",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/Wp4Tb4n6E_Y",
+      "shows": "A piece of food that looks like a fish",
+      "standsFor": "Fried ilish and the cover of Ilish Ghat"
+    },
+    "fish-leaf": {
+      "src": "https://images.unsplash.com/photo-1661939252817-ebb73304f4c7",
+      "credit": "Design4business",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/xnxS_he76E4",
+      "shows": "A fish on a leaf",
+      "standsFor": "Shorshe ilish"
+    },
+    "fish-curry": {
+      "src": "https://images.unsplash.com/photo-1761314036779-84078bec535c",
+      "credit": "Diego Arenas de Rodrigo",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/7v9U94719TE",
+      "shows": "Fish curry with rice, lime and nuts",
+      "standsFor": "Rui fish curry and the cover of Maach Bhaat"
+    },
+    "fish-curry-rice": {
+      "src": "https://images.unsplash.com/photo-1761314036698-a7a6e8514905",
+      "credit": "Diego Arenas de Rodrigo",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/PziK5CfBclg",
+      "shows": "A curry dish with fish, vegetables and rice",
+      "standsFor": "Pabda jhol"
+    },
+    "prawn-curry": {
+      "src": "https://images.unsplash.com/photo-1781332143666-5d02f0fe7865",
+      "credit": "Zayed Ahmed Zadu",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/JcJ5k21tiA0",
+      "shows": "Shrimp curry in a metal bowl surrounded by fresh vegetables",
+      "standsFor": "Prawn malai curry"
+    },
+    "fish-plate": {
+      "src": "https://images.unsplash.com/photo-1665401015549-712c0dc5ef85",
+      "credit": "Keesha's Kitchen",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/KRbF_wsztBE",
+      "shows": "A plate of fish and lemons",
+      "standsFor": "Small fish chorchori"
+    },
+    "chicken-curry-rice": {
+      "src": "https://images.unsplash.com/photo-1708782344490-9026aaa5eec7",
+      "credit": "Rimsha Noor",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/tsQhEvzU6MQ",
+      "shows": "A bowl of chicken curry next to a bowl of rice",
+      "standsFor": "Deshi chicken curry"
+    },
+    "beef-steel": {
+      "src": "https://images.unsplash.com/photo-1545247181-516773cae754",
+      "credit": "Daily Slowdown",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/7-TOCB28rms",
+      "shows": "Cooked food in a stainless steel bowl",
+      "standsFor": "Beef bhuna"
+    },
+    "beef-pot": {
+      "src": "https://images.unsplash.com/photo-1596797038530-2c107229654b",
+      "credit": "Sanket Shah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/eEWlcfydzQ4",
+      "shows": "Cooked food in a black cooking pot",
+      "standsFor": "Kala bhuna"
+    },
+    "egg-curry": {
+      "src": "https://images.unsplash.com/photo-1764315197254-94385571df22",
+      "credit": "Kalindu Waranga",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/h51fYRG2p30",
+      "shows": "Three eggs in a rich, spicy curry",
+      "standsFor": "Egg curry"
+    },
+    "khichuri": {
+      "src": "https://images.unsplash.com/photo-1630409351211-d62ab2d24da4",
+      "credit": "Mario Raj",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/shQwbFhz5tI",
+      "shows": "Yellow rice on a white ceramic plate",
+      "standsFor": "Bhuna khichuri with beef and the cover of Brishti Din"
+    },
+    "rice-egg": {
+      "src": "https://images.unsplash.com/photo-1777312820610-8d5321fd45ad",
+      "credit": "Sujana Rahman",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/DQ8PdUBVMuQ",
+      "shows": "A plate of rice, eggs, tomatoes and meat",
+      "standsFor": "Khichuri with egg and begun bhaja"
+    },
+    "khichuri-round": {
+      "src": "https://images.unsplash.com/photo-1589899476489-2b5e3e2b323f",
+      "credit": "Shreyak Singh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/AOIT4bspbNI",
+      "shows": "A white ceramic round plate with food",
+      "standsFor": "Khichuri with fried ilish"
+    },
+    "rice-clay-bowl": {
+      "src": "https://images.unsplash.com/photo-1752673508949-f4aeeaef75f0",
+      "credit": "ANOOF C",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/tPI0nbTSMJY",
+      "shows": "A rice dish served in a clay bowl",
+      "standsFor": "Panta bhat with fried ilish and the cover of Panta"
+    },
+    "big-plate": {
+      "src": "https://images.unsplash.com/photo-1639664342827-2d68822c55c9",
+      "credit": "Md Shahin",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/r_UUezIShIw",
+      "shows": "A large plate of food on a table",
+      "standsFor": "Panta bhat with three bhortas"
+    },
+    "thali-rice": {
+      "src": "https://images.unsplash.com/photo-1743674453123-93356ade2891",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/_WQ1qARALg4",
+      "shows": "A plate of rice and various South Asian dishes",
+      "standsFor": "Set lunch with chicken, the cover of Haarir Khobor and the Bhorta, fish and rice tile"
+    },
+    "thali-platter": {
+      "src": "https://images.unsplash.com/photo-1742281258189-3b933879867a",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/4pT9e68P_mU",
+      "shows": "A meal served on a platter",
+      "standsFor": "Set lunch with fish and the cover of Kansha"
+    },
+    "thali-leaf": {
+      "src": "https://images.unsplash.com/photo-1789991894901-440c1f00edb3",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/wl8CclyVOVY",
+      "shows": "A thali with dal, rice, roti and okra on a leaf plate",
+      "standsFor": "Vegetable set lunch"
+    },
+    "cream-bowl": {
+      "src": "https://images.unsplash.com/photo-1515544645059-de313dd20a58",
+      "credit": "Deryn Macey",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/IooxyWj2uso",
+      "shows": "A white bowl filled with dessert cream",
+      "standsFor": "Mishti doi, cup"
+    },
+    "paratha-plate": {
+      "src": "https://images.unsplash.com/photo-1708783741187-ff1d081d87da",
+      "credit": "Rimsha Noor",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/uOcFC1NH5h0",
+      "shows": "A plate of flatbread on a wooden table",
+      "standsFor": "Porota, 2 pieces and the cover of Sokal Sokal"
+    },
+    "stew-spoons": {
+      "src": "https://images.unsplash.com/photo-1708782343809-0050c38b3a1a",
+      "credit": "Rimsha Noor",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/ON36i-YCFTM",
+      "shows": "A bowl of stew with spoons next to it",
+      "standsFor": "Dal bhaji"
+    },
+    "omelette": {
+      "src": "https://images.unsplash.com/photo-1510693206972-df098062cb71",
+      "credit": "Eaters Collective",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/6rtm6a_aVyE",
+      "shows": "An omelette on a black plate",
+      "standsFor": "Egg omelette"
+    },
+    "puri-metal": {
+      "src": "https://images.unsplash.com/photo-1789990642068-0840cf55e1cf",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/wumiquDTCOs",
+      "shows": "A metal bowl of vegetable curry with fried bread",
+      "standsFor": "Morning mixed vegetable"
+    },
+    "halwa": {
+      "src": "https://images.unsplash.com/photo-1517244683847-7456b63c5969",
+      "credit": "Nisha Ramesh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/Q5mPPGld5Zk",
+      "shows": "Cooked food and a gold-coloured saucer",
+      "standsFor": "Suji halwa"
+    },
+    "nihari": {
+      "src": "https://images.unsplash.com/photo-1769681375998-1b231dcbe363",
+      "credit": "Kitchen Rumors",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/kujzmLAVKoM",
+      "shows": "Braised meat dish with sauce and mint garnish",
+      "standsFor": "Beef nehari and the cover of Bhor"
+    },
+    "stew": {
+      "src": "https://images.unsplash.com/photo-1764314108477-f026172e32a9",
+      "credit": "Kalindu Waranga",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/a-p0M2ZTlj0",
+      "shows": "Hearty stew with chunks of meat and red chili peppers",
+      "standsFor": "Nolli nehari and the cover of Nolli"
+    },
+    "soup-meat": {
+      "src": "https://images.unsplash.com/photo-1627366422957-3efa9c6df0fc",
+      "credit": "Yubraj Timsina",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/eI_Uk6uGCOQ",
+      "shows": "Soup with meat in a white ceramic bowl",
+      "standsFor": "Paya"
+    },
+    "paratha-stuffed": {
+      "src": "https://images.unsplash.com/photo-1788538397295-41114c76044d",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/PF_bPzw9eBo",
+      "shows": "A stuffed paratha with butter on a serving tray",
+      "standsFor": "Mughlai porota and the Porota and nehari tile"
+    },
+    "crackers-black": {
+      "src": "https://images.unsplash.com/photo-1667185487417-c4ca98eb0352",
+      "credit": "VD Photography",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/P42UTv1kBOs",
+      "shows": "Crackers on a black plate",
+      "standsFor": "Bakorkhani, 6 pieces and the cover of Bakorkhani"
+    },
+    "tray-crackers": {
+      "src": "https://images.unsplash.com/photo-1695568180145-afead1c56095",
+      "credit": "Gaurav Kumar",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/c9N9ahbByIo",
+      "shows": "A tray with crackers and a candle",
+      "standsFor": "Sweet bakorkhani, 6 pieces"
+    },
+    "cookies-cups": {
+      "src": "https://images.unsplash.com/photo-1643553044887-372a1fd164b9",
+      "credit": "VD Photography",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/bSzV4CiyQP0",
+      "shows": "Two cups and some biscuits",
+      "standsFor": "Cheese bakorkhani, 6 pieces"
+    },
+    "roti-cloth": {
+      "src": "https://images.unsplash.com/photo-1600935926387-12d9b03066f0",
+      "credit": "Usman Yousaf",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/4GDW-Rt4BVQ",
+      "shows": "Flatbread on a red and white cloth",
+      "standsFor": "Tandoor ruti"
+    },
+    "fried-rice-bowl": {
+      "src": "https://images.unsplash.com/photo-1512058564366-18510be2db19",
+      "credit": "Annie Spratt",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/oT7_v-I0hHg",
+      "shows": "A bowl of fried rice",
+      "standsFor": "Egg fried rice"
+    },
+    "fried-rice-plate": {
+      "src": "https://images.unsplash.com/photo-1603133872878-684f208fb84b",
+      "credit": "Christopher Alvarenga",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/rQX9eVpSFz8",
+      "shows": "A mound of fried rice with peas and carrots on a white plate",
+      "standsFor": "Chicken fried rice"
+    },
+    "fried-rice-prawn": {
+      "src": "https://images.unsplash.com/photo-1551326844-4df70f78d0e9",
+      "credit": "Mae Mu",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/dTNNDTbZr8I",
+      "shows": "Fried rice with prawn",
+      "standsFor": "Mixed fried rice"
+    },
+    "chicken-noodles": {
+      "src": "https://images.unsplash.com/photo-1781332152753-1199601d73d2",
+      "credit": "Zayed Ahmed Zadu",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/p-uqtfkS0BI",
+      "shows": "Chicken noodles garnished with cucumber and carrots",
+      "standsFor": "Chicken chow mein"
+    },
+    "noodles-plate": {
+      "src": "https://images.unsplash.com/photo-1634864572865-1cf8ff8bd23d",
+      "credit": "Focused on You",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/grDcbeK2MRY",
+      "shows": "A plate of noodles with broccoli and other vegetables",
+      "standsFor": "Vegetable chow mein"
+    },
+    "chili-chicken": {
+      "src": "https://images.unsplash.com/photo-1716535232842-d10da4eb33d5",
+      "credit": "Mustafa Fatemi",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/YTmdwZiuqS4",
+      "shows": "A black bowl filled with food on a white table",
+      "standsFor": "Chili chicken and the cover of Dragon Goli"
+    },
+    "chili-tray": {
+      "src": "https://images.unsplash.com/photo-1603496987351-f84a3ba5ec85",
+      "credit": "Dr Muhammad Amer",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/hEMOwugpjJk",
+      "shows": "Brown and green food on a grey tray",
+      "standsFor": "Szechuan chicken"
+    },
+    "beef-broccoli": {
+      "src": "https://images.unsplash.com/photo-1760504526069-ff0f8bf6e4ca",
+      "credit": "Davis Dai",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/qKPKDb4_W24",
+      "shows": "Beef and broccoli stir-fry with vegetables on a red plate",
+      "standsFor": "Beef chili onion and the cover of Chili Onion"
+    },
+    "prawn-orange": {
+      "src": "https://images.unsplash.com/photo-1781684081404-5c090011b53e",
+      "credit": "67 Digital",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/7n-19fjZZ5Y",
+      "shows": "Prawns in orange sauce with coriander and red chili",
+      "standsFor": "Sweet and sour prawn"
+    },
+    "soup-orange": {
+      "src": "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a",
+      "credit": "Cala",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/w6ftFbPCs9I",
+      "shows": "Bowls of orange soup on a table",
+      "standsFor": "Thai soup and the cover of Lal Lonthon"
+    },
+    "soup-white": {
+      "src": "https://images.unsplash.com/photo-1605909388460-74ec8b204127",
+      "credit": "Jezebel Rose",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/KGw62KtHzxA",
+      "shows": "Soup in a white ceramic bowl",
+      "standsFor": "Chicken corn soup"
+    },
+    "fried-mayo": {
+      "src": "https://images.unsplash.com/photo-1696265498747-efc4c0dd7b98",
+      "credit": "Dynamic Wang",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/WScUzPUGkQQ",
+      "shows": "A bowl of fried food next to a bowl of mayonnaise",
+      "standsFor": "Fried wonton, 6 pieces"
+    },
+    "spring-roll": {
+      "src": "https://images.unsplash.com/photo-1606525437679-037aca74a3e9",
+      "credit": "Alexandra Tran",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/UkudQyyeovs",
+      "shows": "Fried rolls on a white ceramic plate",
+      "standsFor": "Vegetable spring roll, 4 pieces"
+    },
+    "stirfry-veg": {
+      "src": "https://images.unsplash.com/photo-1599297915779-0dadbd376d49",
+      "credit": "Simona Sergi",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/QXzUcPen7QM",
+      "shows": "Sliced carrots and green vegetables in a black ceramic bowl",
+      "standsFor": "Chinese mixed vegetable"
+    },
+    "chicken-seafood": {
+      "src": "https://images.unsplash.com/photo-1761314025701-34795be5f737",
+      "credit": "Diego Arenas de Rodrigo",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/DaBcm5MOBW4",
+      "shows": "Breaded chicken and seafood with vegetables and rice",
+      "standsFor": "Set menu for one"
+    },
+    "burger-classic": {
+      "src": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd",
+      "credit": "amirali mirhashemian",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/sc5sTPMrVfk",
+      "shows": "A burger with lettuce and tomatoes",
+      "standsFor": "Beef burger and the cover of Bun Moshla"
+    },
+    "burger-cheese": {
+      "src": "https://images.unsplash.com/photo-1571091718767-18b5b1457add",
+      "credit": "Ilya Mashkov",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/_qxbJUr9RqI",
+      "shows": "A cheeseburger with lettuce, tomato and onion on a dark wooden surface",
+      "standsFor": "Beef cheeseburger and the Burgers and fried chicken tile"
+    },
+    "burger-double": {
+      "src": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9",
+      "credit": "amirali mirhashemian",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/jh5XyK4Rr3Y",
+      "shows": "A double patty cheeseburger",
+      "standsFor": "Double smash burger and the cover of Smash Goli"
+    },
+    "burger-pickles": {
+      "src": "https://images.unsplash.com/photo-1607013251379-e6eecfffe234",
+      "credit": "Eiliv Aceron",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/pu6b4yIlQF4",
+      "shows": "A double cheeseburger with pickles on a dark surface",
+      "standsFor": "Naga chili burger and the cover of Jhaal Bun"
+    },
+    "burger-lettuce": {
+      "src": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90",
+      "credit": "David Foodphototasty",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/E94j3rMcxlw",
+      "shows": "A burger with lettuce and tomato",
+      "standsFor": "Crispy chicken burger"
+    },
+    "fried-chicken-plate": {
+      "src": "https://images.unsplash.com/photo-1567529854970-ce2c4207e242",
+      "credit": "Pushpak Dsilva",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/xMbtXlkqjt4",
+      "shows": "A fried chicken dish on a plate",
+      "standsFor": "Fried chicken, 2 pieces"
+    },
+    "fried-pile": {
+      "src": "https://images.unsplash.com/photo-1666190091191-0cd0c5c8c5b5",
+      "credit": "Umair Ali Asad",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/aLeMXWQJApY",
+      "shows": "A pile of fried chicken",
+      "standsFor": "Fried chicken, 4 pieces"
+    },
+    "wings-buffalo": {
+      "src": "https://images.unsplash.com/photo-1567620832903-9fc6debc209f",
+      "credit": "Chad Montano",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/gE28aTnlqJA",
+      "shows": "Chicken wings with green onions and a dip",
+      "standsFor": "Hot wings, 6 pieces"
+    },
+    "fries": {
+      "src": "https://images.unsplash.com/photo-1518013431117-eb1465fa5752",
+      "credit": "Pixzolo Photography",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/8YBHgP0WrEo",
+      "shows": "Fries and ketchup",
+      "standsFor": "French fries"
+    },
+    "wedges": {
+      "src": "https://images.unsplash.com/photo-1630431341973-02e1b662ec35",
+      "credit": "Fernanda Martinez",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/H2RzlOijhlQ",
+      "shows": "Potato fries and sliced potato on a white plate",
+      "standsFor": "Masala wedges"
+    },
+    "coleslaw": {
+      "src": "https://images.unsplash.com/photo-1537784969314-05a37106f68e",
+      "credit": "Jonathan Farber",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/J3bbba1mkH8",
+      "shows": "Vegetable salad in a white and black ceramic bowl",
+      "standsFor": "Coleslaw"
+    },
+    "club-sandwich": {
+      "src": "https://images.unsplash.com/photo-1676300184084-de35d56a9a70",
+      "credit": "Orkun Orcan",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/oBWEb-lAI60",
+      "shows": "A sandwich cut in half with fries on a white plate",
+      "standsFor": "Club sandwich"
+    },
+    "milkshake": {
+      "src": "https://images.unsplash.com/photo-1572490122747-3968b75cc699",
+      "credit": "Victor Rutka",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/4FujjkcI40g",
+      "shows": "A chocolate cookie frappe",
+      "standsFor": "Chocolate milkshake"
+    },
+    "burger-fries": {
+      "src": "https://images.unsplash.com/photo-1580554530913-3241d593478d",
+      "credit": "Sebastian Coman Photography",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/R3ZVMFqzbWQ",
+      "shows": "A burger and fries on white paper",
+      "standsFor": "Burger, fries and a drink"
+    },
+    "fuchka-plate": {
+      "src": "https://images.unsplash.com/photo-1708782340380-a1615fb5b250",
+      "credit": "Rimsha Noor",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/ojbPCoo4I20",
+      "shows": "A metal plate of small filled shells next to a bowl of sauce",
+      "standsFor": "Fuchka, 8 pieces and the cover of Tok Jhal"
+    },
+    "dahi-puri": {
+      "src": "https://images.unsplash.com/photo-1647144013544-2617adc86729",
+      "credit": "Sandip Karangiya",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/bLPoclfuyVY",
+      "shows": "A metal plate of small filled shells covered in orange and white toppings",
+      "standsFor": "Doi fuchka, 8 pieces"
+    },
+    "chotpoti": {
+      "src": "https://images.unsplash.com/photo-1789990664839-8dbbb04521fc",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/DHiil-gDSLA",
+      "shows": "A bowl of chana chaat with chickpeas, tomatoes, onions and coriander",
+      "standsFor": "Chotpoti and the cover of Bikel"
+    },
+    "chotpoti-leaf": {
+      "src": "https://images.unsplash.com/photo-1788620473431-df599434a3d3",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/_JvzS0ZX17Q",
+      "shows": "A hand holding a leaf bowl of chana chaat",
+      "standsFor": "Chotpoti with extra egg"
+    },
+    "bhelpuri": {
+      "src": "https://images.unsplash.com/photo-1788618817416-77683bd32819",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/njTRk9XkYPc",
+      "shows": "A serving of bhel puri with puffed rice and sev on newspaper",
+      "standsFor": "Jhalmuri"
+    },
+    "sev-puri": {
+      "src": "https://images.unsplash.com/photo-1788621138170-6854f17c9e2e",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/1DLxX0S8xWM",
+      "shows": "A person holding a foil plate of sev puri",
+      "standsFor": "Bhelpuri"
+    },
+    "papri-chaat": {
+      "src": "https://images.unsplash.com/photo-1788602563638-840d0d1d3ad2",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/vG4rWkykIyk",
+      "shows": "A bowl of papdi chaat topped with yoghurt, pomegranate seeds and sev",
+      "standsFor": "Papri chaat and the cover of Fuchka Mama"
+    },
+    "chaat-bowl": {
+      "src": "https://images.unsplash.com/photo-1653850280260-aa3b9e00b230",
+      "credit": "Kalyani Akella",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/vQwXqWR4Q_E",
+      "shows": "A white bowl filled with food on a wooden cutting board",
+      "standsFor": "Ghugni"
+    },
+    "green-mango": {
+      "src": "https://images.unsplash.com/photo-1685478677113-8c4a58503230",
+      "credit": "Rejaul Karim",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/FVBq1HsVOpY",
+      "shows": "Green fruit hanging from a tree",
+      "standsFor": "Green mango makha"
+    },
+    "iced-tea": {
+      "src": "https://images.unsplash.com/photo-1601390395693-364c0e22031a",
+      "credit": "Crystal Tubens",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/CCowelQ2pLw",
+      "shows": "A clear drinking glass with a brown drink",
+      "standsFor": "Tamarind sherbet"
+    },
+    "lemonade": {
+      "src": "https://images.unsplash.com/photo-1623084921164-4a8c5c37a912",
+      "credit": "Laura Chouette",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/TecD-1MTMiE",
+      "shows": "A clear drinking glass with lemon juice",
+      "standsFor": "Lemon sherbet"
+    },
+    "tea-glass": {
+      "src": "https://images.unsplash.com/photo-1609670438772-9cf3afc5052b",
+      "credit": "Nishaan ahmed",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/8IzWIjcrxLo",
+      "shows": "A clear glass cup with brown liquid inside",
+      "standsFor": "Milk tea"
+    },
+    "tea-clear": {
+      "src": "https://images.unsplash.com/photo-1556679343-c7306c1976bc",
+      "credit": "Mae Mu",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/kbch-i63YTg",
+      "shows": "A clear drinking glass with tea",
+      "standsFor": "Red tea"
+    },
+    "lemon-mug": {
+      "src": "https://images.unsplash.com/photo-1615484477112-677decb29c57",
+      "credit": "Mockup Graphics",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/DJyffTDrXQI",
+      "shows": "A white ceramic mug with a lemon drink",
+      "standsFor": "Lemon tea"
+    },
+    "chai-spice": {
+      "src": "https://images.unsplash.com/photo-1636920272028-c27f1ae474c3",
+      "credit": "blackieshoot",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/hlgKiC9t4N8",
+      "shows": "A cup with cinnamon and star anise on top",
+      "standsFor": "Masala tea"
+    },
+    "tea-pour": {
+      "src": "https://images.unsplash.com/photo-1693302050215-66ae33076745",
+      "credit": "Dhruval Upadhyay",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/K-VJWFkqad0",
+      "shows": "A person pouring liquid into a cup on a table",
+      "standsFor": "Malai tea and the cover of Dudh Cha"
+    },
+    "tea-clay": {
+      "src": "https://images.unsplash.com/photo-1619581073186-5b4ae1b0caad",
+      "credit": "Harsh Pandey",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/dXGl11H1Kbg",
+      "shows": "Brown clay cups on a wooden table",
+      "standsFor": "Tandoori tea and the cover of Kettle"
+    },
+    "shingara-tea": {
+      "src": "https://images.unsplash.com/photo-1786603449553-d94235e87fe5",
+      "credit": "Expressive Capture",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/RfSJjk0NY3o",
+      "shows": "Two fried samosas on a small floral plate with a red teapot behind",
+      "standsFor": "Shingara, 2 pieces, the cover of Tong and the Cha and snacks tile"
+    },
+    "samosa-tray": {
+      "src": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+      "credit": "kabir cheema",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/8T9AVksyt7s",
+      "shows": "Three golden fried samosas on a wooden tray",
+      "standsFor": "Somucha, 2 pieces and the cover of Gorom Shingara"
+    },
+    "pakora": {
+      "src": "https://images.unsplash.com/photo-1765360024331-25b63e85272e",
+      "credit": "Abhijit Biswas",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/inz8vyeEumY",
+      "shows": "A plate of golden brown pakora",
+      "standsFor": "Piyaju, 4 pieces"
+    },
+    "pakora-strainer": {
+      "src": "https://images.unsplash.com/photo-1765360024320-b2ab819c6f75",
+      "credit": "Abhijit Biswas",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/AYMjfwDjePk",
+      "shows": "Crisp pakoras being drained in a metal strainer",
+      "standsFor": "Beguni, 4 pieces"
+    },
+    "fried-two": {
+      "src": "https://images.unsplash.com/photo-1714799263348-41c7245cd714",
+      "credit": "Mustafa Fatemi",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/jvxAN6-DsnQ",
+      "shows": "A white plate topped with two fried food items",
+      "standsFor": "Aloo chop, 2 pieces"
+    },
+    "cutlet-plate": {
+      "src": "https://images.unsplash.com/photo-1610213024737-7620f07db1a2",
+      "credit": "Karolina Kołodziejczak",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/uzQSJ_rSIaI",
+      "shows": "Cooked food on a white ceramic plate",
+      "standsFor": "Egg chop"
+    },
+    "puri-potato": {
+      "src": "https://images.unsplash.com/photo-1789990642036-e10c2df4fc81",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/LBknd0DOoRk",
+      "shows": "A bowl of potato curry with two fried poori breads on a banana leaf",
+      "standsFor": "Dal puri, 2 pieces"
+    },
+    "tea-toast": {
+      "src": "https://images.unsplash.com/photo-1683533699004-7f6b9e5a073f",
+      "credit": "Ananthan Chithiraikani",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/7-PQGUrIGOc",
+      "shows": "A plate with bread and a drink",
+      "standsFor": "Butter toast"
+    },
+    "tea-cookies": {
+      "src": "https://images.unsplash.com/photo-1544787219-7f47ccb76574",
+      "credit": "Rumman Amin",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/bJzJH85Kp7g",
+      "shows": "A white ceramic mug beside cookies",
+      "standsFor": "Toast biscuits"
+    },
+    "chana-box": {
+      "src": "https://images.unsplash.com/photo-1587033649773-5c231faa21e3",
+      "credit": "Rahul Chakraborty",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/owkrXxo5vdA",
+      "shows": "Brown and white food in a blue container",
+      "standsFor": "Chola with muri"
+    },
+    "soup-lemon": {
+      "src": "https://images.unsplash.com/photo-1708782340380-536df8cf6784",
+      "credit": "Rimsha Noor",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/cqP2NBeXf0g",
+      "shows": "A bowl of soup with a spoon and lemon wedges",
+      "standsFor": "Beef halim"
+    },
+    "roshogolla-clay": {
+      "src": "https://images.unsplash.com/photo-1730705511504-9997ee641c99",
+      "credit": "Anindita Barma",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/_-X3B1U9svg",
+      "shows": "A brown bowl filled with white balls of food",
+      "standsFor": "Roshogolla, 4 pieces, the cover of Roshomoy and the Mishti and doi tile"
+    },
+    "kalojam": {
+      "src": "https://images.unsplash.com/photo-1593701461250-d7b22dfd3a77",
+      "credit": "jaikishan patel",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/uwu2ZLDmX8k",
+      "shows": "Round dark-red sweets in a black cooking pan",
+      "standsFor": "Kalojam, 4 pieces"
+    },
+    "sweets-red-cloth": {
+      "src": "https://images.unsplash.com/photo-1695568181158-3428162c46d6",
+      "credit": "Gaurav Kumar",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/b4FlSguMP3I",
+      "shows": "A plate of food on a table with a red cloth",
+      "standsFor": "Chomchom, 4 pieces"
+    },
+    "sweets-nuts": {
+      "src": "https://images.unsplash.com/photo-1695568181558-034b7d3e49eb",
+      "credit": "Gaurav Kumar",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/JnIsuk9c06U",
+      "shows": "A plate of food with nuts on it",
+      "standsFor": "Sondesh, 4 pieces"
+    },
+    "sweets-close": {
+      "src": "https://images.unsplash.com/photo-1695568180842-1fcf31187dd6",
+      "credit": "Gaurav Kumar",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/da36Ez54mf4",
+      "shows": "A close-up of a plate of food on a table",
+      "standsFor": "Kheer kodom, 4 pieces"
+    },
+    "laddu": {
+      "src": "https://images.unsplash.com/photo-1635952346904-95f2ccfcd029",
+      "credit": "Prchi Palwe",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/wwgulilpmlg",
+      "shows": "A plate of sweets on a table next to a candle",
+      "standsFor": "Motichur laddu, 4 pieces"
+    },
+    "sweets-tray": {
+      "src": "https://images.unsplash.com/photo-1695568181117-c91fe299acc3",
+      "credit": "Gaurav Kumar",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/VdIx-tKiIQg",
+      "shows": "A white tray of assorted sweets next to a candle",
+      "standsFor": "Mixed mishti box, 1 kg and the cover of Sondesh"
+    },
+    "roshogolla-bowl": {
+      "src": "https://images.unsplash.com/photo-1714799263412-2e0c1f875959",
+      "credit": "Mustafa Fatemi",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/XH0XpbicHAo",
+      "shows": "A wooden bowl filled with white balls of food",
+      "standsFor": "Roshmalai, 250 g"
+    },
+    "payesh": {
+      "src": "https://images.unsplash.com/photo-1606728099646-68d5a0a4d423",
+      "credit": "Claudio Schwarz",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/tkwJCGUdsnU",
+      "shows": "A white ceramic bowl of rice pudding",
+      "standsFor": "Chhanar payesh and Payesh with date-palm jaggery"
+    },
+    "jilapi-plate": {
+      "src": "https://images.unsplash.com/photo-1778448806852-db6a837fa98f",
+      "credit": "Shoeib Abolhassani",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/NsFJOFvAt2I",
+      "shows": "Golden jalebi and other fried sweets arranged on a plate",
+      "standsFor": "Jilapi, 250 g"
+    },
+    "jilapi-stack": {
+      "src": "https://images.unsplash.com/photo-1778448806221-d203c81c0b69",
+      "credit": "Shoeib Abolhassani",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/XIhn0hjmoPg",
+      "shows": "A stack of golden jalebi with rose and pistachio garnish",
+      "standsFor": "Amriti, 4 pieces"
+    },
+    "crackers-bowl": {
+      "src": "https://images.unsplash.com/photo-1697155836253-9e957b4d01b1",
+      "credit": "Rashpal Singh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/1a1wFqMQea8",
+      "shows": "A bowl of crackers with a fork in it",
+      "standsFor": "Nimki, 200 g"
+    },
+    "dimsum-white": {
+      "src": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c",
+      "credit": "charlesdeluvio",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/D-vDQMTfAAU",
+      "shows": "Three white steamed dumplings in a brown bowl",
+      "standsFor": "Bhapa pitha, 2 pieces and the cover of Bhapa"
+    },
+    "pot-dumplings": {
+      "src": "https://images.unsplash.com/photo-1716176270219-566ed0b41ef7",
+      "credit": "PyperA Flow",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/Za2oMYb5PYU",
+      "shows": "Dumplings being cooked in a pot",
+      "standsFor": "Dudh puli"
+    },
+    "kheer-bowl": {
+      "src": "https://images.unsplash.com/photo-1616995797463-9e67aa01bc7a",
+      "credit": "Anjali Singh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/W50inNOVUdU",
+      "shows": "A spoon on a black ceramic bowl",
+      "standsFor": "Dudh chitoi"
+    },
+    "pancakes": {
+      "src": "https://images.unsplash.com/photo-1731173432456-03df445fad64",
+      "credit": "Anastasia Meraki",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/9La5V_VYzwE",
+      "shows": "A white plate topped with pancakes",
+      "standsFor": "Chitoi pitha with bhorta, 2 pieces"
+    },
+    "crepe": {
+      "src": "https://images.unsplash.com/photo-1656057205408-4a0a62cf2dfb",
+      "credit": "Svitlana",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/0MuOPAOFjrc",
+      "shows": "A plate of crepes",
+      "standsFor": "Patishapta, 2 pieces and the Pitha tile"
+    },
+    "fried-black": {
+      "src": "https://images.unsplash.com/photo-1610432589024-5f02f76549cf",
+      "credit": "Neetu Laddha",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/ih9M_EzL14w",
+      "shows": "Fried food on a black plate",
+      "standsFor": "Teler pitha, 2 pieces"
+    },
+    "sweet-sugar": {
+      "src": "https://images.unsplash.com/photo-1685265186439-9f1f2f566eda",
+      "credit": "Jayasahan Hansana",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/K6UZhMcRaa0",
+      "shows": "A close-up of a plate of food covered in sugar",
+      "standsFor": "Nokshi pitha, 4 pieces and the cover of Nokshi"
+    },
+    "golden-pastry": {
+      "src": "https://images.unsplash.com/photo-1778448806503-f01d2971ccfe",
+      "credit": "Shoeib Abolhassani",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/Gf7BRlAgw5c",
+      "shows": "A golden sweet pastry topped with a rosebud",
+      "standsFor": "Malpoa, 2 pieces"
+    },
+    "biryani-pot": {
+      "src": "https://images.unsplash.com/photo-1719239885399-f87d992e0f18",
+      "credit": "Circle Digital Marketing Agency",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/n7kqI1mISOY",
+      "shows": "A white plate topped with rice and meat",
+      "standsFor": "The cover of Boro Deg"
+    },
+    "biryani-feast": {
+      "src": "https://images.unsplash.com/photo-1589302168068-964664d93dc0",
+      "credit": "Shreyak Singh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/0j4bisyPo3M",
+      "shows": "Cooked food on a white ceramic plate",
+      "standsFor": "The cover of Aloo Bukhara"
+    },
+    "biryani-two-plates": {
+      "src": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8",
+      "credit": "Omkar Jadhav",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/o5XB6XwTb1I",
+      "shows": "Two plates of food on a black table",
+      "standsFor": "The cover of Jafrani Haat"
+    },
+    "polao-pan": {
+      "src": "https://images.unsplash.com/photo-1697155406055-2db32d47ca07",
+      "credit": "Rashpal Singh",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/3tpobXvtAEw",
+      "shows": "A pan filled with rice and vegetables on a stove",
+      "standsFor": "The cover of Polao Para"
+    },
+    "table-feast": {
+      "src": "https://images.unsplash.com/photo-1698751963561-f567afae288e",
+      "credit": "Dad hotel",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/YXmpqr07CDw",
+      "shows": "A table topped with many different types of food",
+      "standsFor": "The cover of Biye Bari"
+    },
+    "grill-person": {
+      "src": "https://images.unsplash.com/photo-1632158929962-a929c9e87570",
+      "credit": "Marek Mucha",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/a74X5kHDs20",
+      "shows": "A person cooking food on a grill",
+      "standsFor": "The cover of Angar"
+    },
+    "naan-cooking": {
+      "src": "https://images.unsplash.com/photo-1725483990188-41d4fb0d1e5a",
+      "credit": "fuseviews",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/q79YhuRk9Pk",
+      "shows": "A person cooking flatbread on a stove",
+      "standsFor": "The cover of Lal Tondur"
+    },
+    "grill-table": {
+      "src": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+      "credit": "Victoria Shes",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/UC0HZdUitWY",
+      "shows": "Grilled meat and vegetables on a table",
+      "standsFor": "The cover of Boti"
+    },
+    "bowls-table": {
+      "src": "https://images.unsplash.com/photo-1631515242808-497c3fbd3972",
+      "credit": "Mario Raj",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/vsnAIYA9bms",
+      "shows": "A table topped with bowls of food and sauces",
+      "standsFor": "The cover of Baro Bhorta"
+    },
+    "dal-rice": {
+      "src": "https://images.unsplash.com/photo-1788603092417-a01e665e0ab2",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/t-OO1RUgvt4",
+      "shows": "A bowl of basmati rice and a bowl of dal on a wooden table",
+      "standsFor": "The cover of Dupur"
+    },
+    "bowls-blue": {
+      "src": "https://images.unsplash.com/photo-1727280213367-ecca818ba188",
+      "credit": "Madhurima Basak",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/m4qFAcCB3wI",
+      "shows": "A blue table topped with bowls of food",
+      "standsFor": "The cover of Uthan"
+    },
+    "paratha-cup": {
+      "src": "https://images.unsplash.com/photo-1786622495454-209ab74183c1",
+      "credit": "Jayesh Aherwal",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/ngCSE7hy7vY",
+      "shows": "Paratha and a metal cup on a ledge",
+      "standsFor": "The cover of Bhaji Porota"
+    },
+    "noodles-platter": {
+      "src": "https://images.unsplash.com/photo-1585032226651-759b368d7246",
+      "credit": "Orijit Chatterjee",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/wEBg_pYtynw",
+      "shows": "Stir-fried noodles with vegetables on a wooden platter",
+      "standsFor": "The cover of Chow Para and the Bangla Chinese tile"
+    },
+    "wok": {
+      "src": "https://images.unsplash.com/photo-1464500542410-1396074bf230",
+      "credit": "Clem Onojeghuo",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/r8lDTtSWGUc",
+      "shows": "A black steel wok",
+      "standsFor": "The cover of Wok Ghor"
+    },
+    "chinese-table": {
+      "src": "https://images.unsplash.com/photo-1634864572872-a01c21e388d4",
+      "credit": "Focused on You",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/e2-SLgEmzyg",
+      "shows": "Three plates of food on a wooden table",
+      "standsFor": "The cover of Soup Bari"
+    },
+    "burger-board": {
+      "src": "https://images.unsplash.com/photo-1713330801172-03f8d1c0dde7",
+      "credit": "amirali mirhashemian",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/MNHQqLNEvow",
+      "shows": "A hamburger on a wooden cutting board",
+      "standsFor": "The cover of Patty Para"
+    },
+    "fried-chicken-bag": {
+      "src": "https://images.unsplash.com/photo-1426869981800-95ebf51ce900",
+      "credit": "Brian Chan",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/NbXjZomyNEM",
+      "shows": "Fried chicken on a brown paper bag",
+      "standsFor": "The cover of Murgi Bhaja"
+    },
+    "fried-chicken-black": {
+      "src": "https://images.unsplash.com/photo-1608039755401-742074f0548d",
+      "credit": "Scott Eckersley",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/R-7_ErUOLxw",
+      "shows": "Fried chicken on a black plate",
+      "standsFor": "The cover of Mochmoche"
+    },
+    "burger-tray": {
+      "src": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+      "credit": "Mae Mu",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/I7A_pHLcQK8",
+      "shows": "A burger with vegetables on a wooden tray",
+      "standsFor": "The cover of Naga"
+    },
+    "fuchka-tray": {
+      "src": "https://images.unsplash.com/photo-1708782340355-78977df48202",
+      "credit": "Rimsha Noor",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/KBuVsILCKQk",
+      "shows": "A tray of food on a table with dipping sauces",
+      "standsFor": "The cover of Tetul"
+    },
+    "vendor-umbrella": {
+      "src": "https://images.unsplash.com/photo-1748215446244-febeda3ee15c",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/3CgFJUoPGwg",
+      "shows": "A street vendor selling snacks under a red umbrella",
+      "standsFor": "The cover of Chotpoti Chottor"
+    },
+    "jhalmuri-cart": {
+      "src": "https://images.unsplash.com/photo-1788620644598-58fe1354bf2a",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/ZAYgCcPoetQ",
+      "shows": "A street food cart with puffed rice, lentils, peanuts, tomatoes and onions",
+      "standsFor": "The cover of Muri Makha"
+    },
+    "tea-crowd": {
+      "src": "https://images.unsplash.com/photo-1696694136794-a334d4d1ae9d",
+      "credit": "Shakib Uzzaman",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/taKkibU3-UI",
+      "shows": "A group of people standing around a wooden table",
+      "standsFor": "The cover of Adda"
+    },
+    "street-fry": {
+      "src": "https://images.unsplash.com/photo-1760263051331-0e4d3dafc9ff",
+      "credit": "Zoshua Colah",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/W9VmXWsrr1s",
+      "shows": "A street vendor selling fried snacks in a basket",
+      "standsFor": "The cover of Piyaju"
+    },
+    "tea-shop": {
+      "src": "https://images.unsplash.com/photo-1665891118442-7857f0158b39",
+      "credit": "Abdullah AL IMRAN",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/TDHW5kAmoj0",
+      "shows": "A small shop with a blue awning",
+      "standsFor": "The cover of Sondhya"
+    },
+    "sweets-shop": {
+      "src": "https://images.unsplash.com/photo-1758910536889-43ce7b3199fd",
+      "credit": "Sadia Alam",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/3zgia9k593w",
+      "shows": "An assortment of colourful sweets displayed in a shop",
+      "standsFor": "The cover of Mishti Mukh"
+    },
+    "sweets-case": {
+      "src": "https://images.unsplash.com/photo-1782033032439-a2c656ca2f59",
+      "credit": "Bonala Yellender",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/wMPs7gJCNdc",
+      "shows": "A display case filled with pastries and sweets",
+      "standsFor": "The cover of Doi Ghor"
+    },
+    "sweets-plate": {
+      "src": "https://images.unsplash.com/photo-1695568181363-af5c78f4d059",
+      "credit": "Gaurav Kumar",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/UEtHJ8lSuwY",
+      "shows": "A plate of assorted desserts on a table",
+      "standsFor": "The cover of Chhana"
+    },
+    "jilapi-fry": {
+      "src": "https://images.unsplash.com/photo-1721174233280-c55186b7cabc",
+      "credit": "fuseviews",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/RWdMRDLAccs",
+      "shows": "A man standing over a pan of food on a stove",
+      "standsFor": "The cover of Jilapi Goli"
+    },
+    "pancake-pan": {
+      "src": "https://images.unsplash.com/photo-1723691802547-b79f65c16b5f",
+      "credit": "Hanxiao Xu",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/465ZLD7Ia2s",
+      "shows": "A person cooking pancakes in a pan on a stove",
+      "standsFor": "The cover of Pitha Puli"
+    },
+    "jaggery": {
+      "src": "https://images.unsplash.com/photo-1788238025855-55581a2ed354",
+      "credit": "Lavanya Beeraboina",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/uTMRZExOjbs",
+      "shows": "Four pieces of jaggery on a small metal plate",
+      "standsFor": "The cover of Shiter Sokal"
+    },
+    "fuchka-bowl": {
+      "src": "https://images.unsplash.com/photo-1586357507341-3fbe59f2a5d9",
+      "credit": "Yashaswita Bhoir",
+      "source": "Unsplash",
+      "page": "https://unsplash.com/photos/oC63RhtykAw",
+      "shows": "Brown and white food in a white ceramic bowl",
+      "standsFor": "The Fuchka and chotpoti tile"
+    }
+  },
+  "videos": {
+    "cook": {
+      "src": "https://assets.mixkit.co/videos/4678/4678-720.mp4",
+      "credit": "Mixkit",
+      "source": "Mixkit",
+      "page": "https://mixkit.co/free-stock-video/chef-cooking-on-a-large-grill-4678/",
+      "shows": "A chef cooking on a large grill"
+    },
+    "ride": {
+      "src": "https://videos.pexels.com/video-files/7362582/7362582-hd_1920_1080_24fps.mp4",
+      "credit": "RDNE Stock project",
+      "source": "Pexels",
+      "page": "https://www.pexels.com/video/video-of-a-food-delivery-rider-7362582/",
+      "shows": "A food delivery rider on a scooter in a city street"
+    },
+    "door": {
+      "src": "https://assets.mixkit.co/videos/31155/31155-720.mp4",
+      "credit": "Mixkit",
+      "source": "Mixkit",
+      "page": "https://mixkit.co/free-stock-video/delivering-a-package-to-the-door-of-a-house-31155/",
+      "shows": "A courier ringing a doorbell and handing over a box"
+    }
+  }
+}

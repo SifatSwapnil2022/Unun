@@ -1,0 +1,17 @@
+[project]
+name = "unun-ml"
+version = "0.4.0"
+description = "Unun's learning service: arrival times, search and suggestions."
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+# The examples in text.py's docstrings are run as tests too.
+testpaths = ["tests", "unun_ml/text.py"]
+addopts = "-q --doctest-modules"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]

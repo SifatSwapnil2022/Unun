@@ -1,0 +1,1 @@
+ALTER TABLE "kitchens" ADD COLUMN "profile_photo" text;

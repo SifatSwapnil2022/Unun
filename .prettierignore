@@ -1,0 +1,18 @@
+node_modules
+.next
+dist
+.data
+pnpm-lock.yaml
+apps/api/drizzle
+next-env.d.ts
+
+# Python and its generated files are formatted by ruff, or not at all.
+services/ml/.venv
+services/ml/data
+services/ml/reports
+services/ml/models
+e2e/test-results
+e2e/.data
+
+services/ml/.pytest_cache
+services/ml/.ruff_cache

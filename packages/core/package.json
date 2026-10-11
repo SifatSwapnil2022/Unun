@@ -1,0 +1,23 @@
+{
+  "name": "@unun/core",
+  "private": true,
+  "version": "0.4.0",
+  "description": "Unun domain rules shared by the API and the web app: money, pricing, delivery, promotions, order states.",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./contracts": "./src/contracts.ts"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "typescript": "~6.0.3",
+    "vitest": "^5.0.3"
+  }
+}

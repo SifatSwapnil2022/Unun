@@ -1,0 +1,202 @@
+/**
+ * Delivery areas of Dhaka. The coordinates are the approximate centre of each area and
+ * are used to work out delivery distance. `priceLevel` scales menu prices: the same
+ * plate costs more in Gulshan than in Old Dhaka.
+ */
+export type AreaSeed = {
+  id: string;
+  en: string;
+  bn: string;
+  lat: number;
+  lng: number;
+  priceLevel: number;
+  /** Neighbourhoods and landmarks people type instead of the area name. */
+  aliases: string[];
+};
+
+export const areaSeeds: AreaSeed[] = [
+  {
+    id: 'dhanmondi',
+    en: 'Dhanmondi',
+    bn: 'ধানমন্ডি',
+    lat: 23.7461,
+    lng: 90.3742,
+    priceLevel: 1.1,
+    aliases: ['Jigatola', 'জিগাতলা', 'Kalabagan', 'কলাবাগান', 'Lalmatia', 'লালমাটিয়া'],
+  },
+  {
+    id: 'mohammadpur',
+    en: 'Mohammadpur',
+    bn: 'মোহাম্মদপুর',
+    lat: 23.7662,
+    lng: 90.3589,
+    priceLevel: 0.95,
+    aliases: ['Shyamoli', 'শ্যামলী', 'Adabor', 'আদাবর', 'Tajmahal Road'],
+  },
+  {
+    id: 'mirpur',
+    en: 'Mirpur',
+    bn: 'মিরপুর',
+    lat: 23.8069,
+    lng: 90.3687,
+    priceLevel: 0.95,
+    aliases: ['Pallabi', 'পল্লবী', 'Kazipara', 'কাজীপাড়া', 'Shewrapara', 'শেওড়াপাড়া'],
+  },
+  {
+    id: 'uttara',
+    en: 'Uttara',
+    bn: 'উত্তরা',
+    lat: 23.8759,
+    lng: 90.3795,
+    priceLevel: 1.05,
+    aliases: ['Azampur', 'আজমপুর', 'Diabari', 'দিয়াবাড়ি', 'House Building'],
+  },
+  {
+    id: 'gulshan',
+    en: 'Gulshan',
+    bn: 'গুলশান',
+    lat: 23.788,
+    lng: 90.4155,
+    priceLevel: 1.2,
+    aliases: ['Niketan', 'নিকেতন', 'Gulshan 1', 'Gulshan 2'],
+  },
+  {
+    id: 'banani',
+    en: 'Banani',
+    bn: 'বনানী',
+    lat: 23.7937,
+    lng: 90.4043,
+    priceLevel: 1.15,
+    aliases: ['Kakoli', 'কাকলী', 'Banani DOHS'],
+  },
+  {
+    id: 'bashundhara',
+    en: 'Bashundhara',
+    bn: 'বসুন্ধরা',
+    lat: 23.8151,
+    lng: 90.429,
+    priceLevel: 1.1,
+    aliases: [
+      'Bashundhara R/A',
+      'Jamuna Future Park',
+      'যমুনা ফিউচার পার্ক',
+      'Kuril',
+      'কুড়িল',
+      'Baridhara',
+      'বারিধারা',
+    ],
+  },
+  {
+    id: 'mohakhali',
+    en: 'Mohakhali',
+    bn: 'মহাখালী',
+    lat: 23.7778,
+    lng: 90.4005,
+    priceLevel: 1,
+    aliases: [
+      'Mohakhali DOHS',
+      'Wireless Gate',
+      'ওয়্যারলেস গেট',
+      'Nakhalpara',
+      'নাখালপাড়া',
+    ],
+  },
+  {
+    id: 'tejgaon',
+    en: 'Tejgaon',
+    bn: 'তেজগাঁও',
+    lat: 23.759,
+    lng: 90.3926,
+    priceLevel: 1,
+    aliases: [
+      'Farmgate',
+      'ফার্মগেট',
+      'Karwan Bazar',
+      'কারওয়ান বাজার',
+      'Panthapath',
+      'পান্থপথ',
+    ],
+  },
+  {
+    id: 'shahbag',
+    en: 'Shahbag',
+    bn: 'শাহবাগ',
+    lat: 23.7385,
+    lng: 90.3958,
+    priceLevel: 0.9,
+    aliases: [
+      'TSC',
+      'টিএসসি',
+      'Dhaka University',
+      'ঢাকা বিশ্ববিদ্যালয়',
+      'Nilkhet',
+      'নীলক্ষেত',
+      'Paribagh',
+      'পরীবাগ',
+    ],
+  },
+  {
+    id: 'motijheel',
+    en: 'Motijheel',
+    bn: 'মতিঝিল',
+    lat: 23.733,
+    lng: 90.4172,
+    priceLevel: 0.95,
+    aliases: ['Dilkusha', 'দিলকুশা', 'Paltan', 'পল্টন', 'Kakrail', 'কাকরাইল'],
+  },
+  {
+    id: 'khilgaon',
+    en: 'Khilgaon',
+    bn: 'খিলগাঁও',
+    lat: 23.7515,
+    lng: 90.4254,
+    priceLevel: 0.9,
+    aliases: [
+      'Taltola',
+      'তালতলা',
+      'Bashabo',
+      'বাসাবো',
+      'Malibagh',
+      'মালিবাগ',
+      'Rampura',
+      'রামপুরা',
+    ],
+  },
+  {
+    id: 'wari',
+    en: 'Wari',
+    bn: 'ওয়ারী',
+    lat: 23.7186,
+    lng: 90.417,
+    priceLevel: 0.9,
+    aliases: [
+      'Tikatuli',
+      'টিকাটুলি',
+      'Narinda',
+      'নারিন্দা',
+      'Gendaria',
+      'গেন্ডারিয়া',
+      'Sutrapur',
+      'সূত্রাপুর',
+    ],
+  },
+  {
+    id: 'old-dhaka',
+    en: 'Old Dhaka',
+    bn: 'পুরান ঢাকা',
+    lat: 23.7169,
+    lng: 90.3958,
+    priceLevel: 0.9,
+    aliases: [
+      'Puran Dhaka',
+      'Lalbagh',
+      'লালবাগ',
+      'Chawkbazar',
+      'চকবাজার',
+      'Nazira Bazar',
+      'নাজিরা বাজার',
+      'Bangshal',
+      'বংশাল',
+    ],
+  },
+];

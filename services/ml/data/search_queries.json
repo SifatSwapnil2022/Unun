@@ -1,0 +1,924 @@
+{
+ "note": "Written by hand for this project. There are no real search logs to draw on.",
+ "queries": [
+  {
+   "query": "kacchi",
+   "kind": "exact",
+   "expect": [
+    "kacchi"
+   ]
+  },
+  {
+   "query": "biryani",
+   "kind": "exact",
+   "expect": [
+    "biryani"
+   ]
+  },
+  {
+   "query": "fuchka",
+   "kind": "exact",
+   "expect": [
+    "fuchka"
+   ]
+  },
+  {
+   "query": "burger",
+   "kind": "exact",
+   "expect": [
+    "burger"
+   ]
+  },
+  {
+   "query": "nehari",
+   "kind": "exact",
+   "expect": [
+    "nehari"
+   ]
+  },
+  {
+   "query": "bhorta",
+   "kind": "exact",
+   "expect": [
+    "bhorta"
+   ]
+  },
+  {
+   "query": "tehari",
+   "kind": "exact",
+   "expect": [
+    "tehari"
+   ]
+  },
+  {
+   "query": "halim",
+   "kind": "exact",
+   "expect": [
+    "halim"
+   ]
+  },
+  {
+   "query": "jilapi",
+   "kind": "exact",
+   "expect": [
+    "jilapi"
+   ]
+  },
+  {
+   "query": "roshogolla",
+   "kind": "exact",
+   "expect": [
+    "roshogolla"
+   ]
+  },
+  {
+   "query": "naan",
+   "kind": "exact",
+   "expect": [
+    "naan"
+   ]
+  },
+  {
+   "query": "khichuri",
+   "kind": "exact",
+   "expect": [
+    "khichuri"
+   ]
+  },
+  {
+   "query": "ilish",
+   "kind": "exact",
+   "expect": [
+    "ilish"
+   ]
+  },
+  {
+   "query": "chow mein",
+   "kind": "exact",
+   "expect": [
+    "chow mein"
+   ]
+  },
+  {
+   "query": "thai soup",
+   "kind": "exact",
+   "expect": [
+    "thai soup"
+   ]
+  },
+  {
+   "query": "milk tea",
+   "kind": "exact",
+   "expect": [
+    "milk tea"
+   ]
+  },
+  {
+   "query": "mishti doi",
+   "kind": "exact",
+   "expect": [
+    "mishti doi"
+   ]
+  },
+  {
+   "query": "shingara",
+   "kind": "exact",
+   "expect": [
+    "shingara"
+   ]
+  },
+  {
+   "query": "chotpoti",
+   "kind": "exact",
+   "expect": [
+    "chotpoti"
+   ]
+  },
+  {
+   "query": "kala bhuna",
+   "kind": "exact",
+   "expect": [
+    "kala bhuna"
+   ]
+  },
+  {
+   "query": "fried rice",
+   "kind": "exact",
+   "expect": [
+    "fried rice"
+   ]
+  },
+  {
+   "query": "borhani",
+   "kind": "exact",
+   "expect": [
+    "borhani"
+   ]
+  },
+  {
+   "query": "pitha",
+   "kind": "exact",
+   "expect": [
+    "pitha"
+   ]
+  },
+  {
+   "query": "porota",
+   "kind": "exact",
+   "expect": [
+    "porota"
+   ]
+  },
+  {
+   "query": "kabab",
+   "kind": "exact",
+   "expect": [
+    "kabab"
+   ]
+  },
+  {
+   "query": "kachchi",
+   "kind": "spelling",
+   "expect": [
+    "kacchi"
+   ]
+  },
+  {
+   "query": "kachi",
+   "kind": "spelling",
+   "expect": [
+    "kacchi"
+   ]
+  },
+  {
+   "query": "kacci biriyani",
+   "kind": "spelling",
+   "expect": [
+    "kacchi"
+   ]
+  },
+  {
+   "query": "biriyani",
+   "kind": "spelling",
+   "expect": [
+    "biryani"
+   ]
+  },
+  {
+   "query": "biriani",
+   "kind": "spelling",
+   "expect": [
+    "biryani"
+   ]
+  },
+  {
+   "query": "briyani",
+   "kind": "spelling",
+   "expect": [
+    "biryani"
+   ]
+  },
+  {
+   "query": "phuchka",
+   "kind": "spelling",
+   "expect": [
+    "fuchka"
+   ]
+  },
+  {
+   "query": "fuska",
+   "kind": "spelling",
+   "expect": [
+    "fuchka"
+   ]
+  },
+  {
+   "query": "puchka",
+   "kind": "spelling",
+   "expect": [
+    "fuchka"
+   ]
+  },
+  {
+   "query": "nihari",
+   "kind": "spelling",
+   "expect": [
+    "nehari"
+   ]
+  },
+  {
+   "query": "vorta",
+   "kind": "spelling",
+   "expect": [
+    "bhorta"
+   ]
+  },
+  {
+   "query": "bharta",
+   "kind": "spelling",
+   "expect": [
+    "bhorta"
+   ]
+  },
+  {
+   "query": "aloo vorta",
+   "kind": "spelling",
+   "expect": [
+    "aloo bhorta"
+   ]
+  },
+  {
+   "query": "tehri",
+   "kind": "spelling",
+   "expect": [
+    "tehari"
+   ]
+  },
+  {
+   "query": "haleem",
+   "kind": "spelling",
+   "expect": [
+    "halim"
+   ]
+  },
+  {
+   "query": "jilebi",
+   "kind": "spelling",
+   "expect": [
+    "jilapi"
+   ]
+  },
+  {
+   "query": "rosogolla",
+   "kind": "spelling",
+   "expect": [
+    "roshogolla"
+   ]
+  },
+  {
+   "query": "rasgulla",
+   "kind": "spelling",
+   "expect": [
+    "roshogolla"
+   ]
+  },
+  {
+   "query": "nan",
+   "kind": "spelling",
+   "expect": [
+    "naan"
+   ]
+  },
+  {
+   "query": "khichdi",
+   "kind": "spelling",
+   "expect": [
+    "khichuri"
+   ]
+  },
+  {
+   "query": "elish",
+   "kind": "spelling",
+   "expect": [
+    "ilish"
+   ]
+  },
+  {
+   "query": "chowmein",
+   "kind": "spelling",
+   "expect": [
+    "chow mein"
+   ]
+  },
+  {
+   "query": "chaumin",
+   "kind": "spelling",
+   "expect": [
+    "chow mein"
+   ]
+  },
+  {
+   "query": "misti doi",
+   "kind": "spelling",
+   "expect": [
+    "mishti doi"
+   ]
+  },
+  {
+   "query": "singara",
+   "kind": "spelling",
+   "expect": [
+    "shingara"
+   ]
+  },
+  {
+   "query": "chatpati",
+   "kind": "spelling",
+   "expect": [
+    "chotpoti"
+   ]
+  },
+  {
+   "query": "chotpotti",
+   "kind": "spelling",
+   "expect": [
+    "chotpoti"
+   ]
+  },
+  {
+   "query": "kalabhuna",
+   "kind": "spelling",
+   "expect": [
+    "kala bhuna"
+   ]
+  },
+  {
+   "query": "roshmalai",
+   "kind": "spelling",
+   "expect": [
+    "roshmalai"
+   ]
+  },
+  {
+   "query": "rasmalai",
+   "kind": "spelling",
+   "expect": [
+    "roshmalai"
+   ]
+  },
+  {
+   "query": "bakarkhani",
+   "kind": "spelling",
+   "expect": [
+    "bakorkhani"
+   ]
+  },
+  {
+   "query": "burhani",
+   "kind": "spelling",
+   "expect": [
+    "borhani"
+   ]
+  },
+  {
+   "query": "paratha",
+   "kind": "spelling",
+   "expect": [
+    "porota"
+   ]
+  },
+  {
+   "query": "parota",
+   "kind": "spelling",
+   "expect": [
+    "porota"
+   ]
+  },
+  {
+   "query": "kebab",
+   "kind": "spelling",
+   "expect": [
+    "kabab"
+   ]
+  },
+  {
+   "query": "seekh kabab",
+   "kind": "spelling",
+   "expect": [
+    "sheek kabab"
+   ]
+  },
+  {
+   "query": "shik kabab",
+   "kind": "spelling",
+   "expect": [
+    "sheek kabab"
+   ]
+  },
+  {
+   "query": "morog pulao",
+   "kind": "spelling",
+   "expect": [
+    "morog polao"
+   ]
+  },
+  {
+   "query": "murog polao",
+   "kind": "spelling",
+   "expect": [
+    "morog polao"
+   ]
+  },
+  {
+   "query": "payesh",
+   "kind": "spelling",
+   "expect": [
+    "payesh"
+   ]
+  },
+  {
+   "query": "payes",
+   "kind": "spelling",
+   "expect": [
+    "payesh"
+   ]
+  },
+  {
+   "query": "jhal muri",
+   "kind": "spelling",
+   "expect": [
+    "jhalmuri"
+   ]
+  },
+  {
+   "query": "loochi",
+   "kind": "spelling",
+   "expect": [
+    "luchi"
+   ]
+  },
+  {
+   "query": "tikka",
+   "kind": "spelling",
+   "expect": [
+    "tikka"
+   ]
+  },
+  {
+   "query": "mughlai paratha",
+   "kind": "spelling",
+   "expect": [
+    "mughlai"
+   ]
+  },
+  {
+   "query": "barger",
+   "kind": "typo",
+   "expect": [
+    "burger"
+   ]
+  },
+  {
+   "query": "burgar",
+   "kind": "typo",
+   "expect": [
+    "burger"
+   ]
+  },
+  {
+   "query": "chiken biryani",
+   "kind": "typo",
+   "expect": [
+    "chicken biryani"
+   ]
+  },
+  {
+   "query": "fride rice",
+   "kind": "typo",
+   "expect": [
+    "fried rice"
+   ]
+  },
+  {
+   "query": "fried rise",
+   "kind": "typo",
+   "expect": [
+    "fried rice"
+   ]
+  },
+  {
+   "query": "frnch fries",
+   "kind": "typo",
+   "expect": [
+    "french fries"
+   ]
+  },
+  {
+   "query": "milkshak",
+   "kind": "typo",
+   "expect": [
+    "milkshake"
+   ]
+  },
+  {
+   "query": "chese burger",
+   "kind": "typo",
+   "expect": [
+    "cheeseburger"
+   ]
+  },
+  {
+   "query": "wngs",
+   "kind": "typo",
+   "expect": [
+    "wings"
+   ]
+  },
+  {
+   "query": "spring rol",
+   "kind": "typo",
+   "expect": [
+    "spring roll"
+   ]
+  },
+  {
+   "query": "thai sup",
+   "kind": "typo",
+   "expect": [
+    "thai soup"
+   ]
+  },
+  {
+   "query": "tanduri chicken",
+   "kind": "typo",
+   "expect": [
+    "tandoori chicken"
+   ]
+  },
+  {
+   "query": "কাচ্চি",
+   "kind": "bangla",
+   "expect": [
+    "kacchi"
+   ]
+  },
+  {
+   "query": "বিরিয়ানি",
+   "kind": "bangla",
+   "expect": [
+    "biryani"
+   ]
+  },
+  {
+   "query": "ফুচকা",
+   "kind": "bangla",
+   "expect": [
+    "fuchka"
+   ]
+  },
+  {
+   "query": "ভর্তা",
+   "kind": "bangla",
+   "expect": [
+    "bhorta"
+   ]
+  },
+  {
+   "query": "নেহারি",
+   "kind": "bangla",
+   "expect": [
+    "nehari"
+   ]
+  },
+  {
+   "query": "খিচুড়ি",
+   "kind": "bangla",
+   "expect": [
+    "khichuri"
+   ]
+  },
+  {
+   "query": "ইলিশ",
+   "kind": "bangla",
+   "expect": [
+    "ilish"
+   ]
+  },
+  {
+   "query": "মিষ্টি দই",
+   "kind": "bangla",
+   "expect": [
+    "mishti doi"
+   ]
+  },
+  {
+   "query": "বার্গার",
+   "kind": "bangla",
+   "expect": [
+    "burger"
+   ]
+  },
+  {
+   "query": "জিলাপি",
+   "kind": "bangla",
+   "expect": [
+    "jilapi"
+   ]
+  },
+  {
+   "query": "হালিম",
+   "kind": "bangla",
+   "expect": [
+    "halim"
+   ]
+  },
+  {
+   "query": "কাবাব",
+   "kind": "bangla",
+   "expect": [
+    "kabab"
+   ]
+  },
+  {
+   "query": "চটপটি",
+   "kind": "bangla",
+   "expect": [
+    "chotpoti"
+   ]
+  },
+  {
+   "query": "রসগোল্লা",
+   "kind": "bangla",
+   "expect": [
+    "roshogolla"
+   ]
+  },
+  {
+   "query": "দুধ চা",
+   "kind": "bangla",
+   "expect": [
+    "milk tea"
+   ]
+  },
+  {
+   "query": "নান",
+   "kind": "bangla",
+   "expect": [
+    "naan"
+   ]
+  },
+  {
+   "query": "dudh cha",
+   "kind": "other-language",
+   "expect": [
+    "milk tea"
+   ]
+  },
+  {
+   "query": "doodh cha",
+   "kind": "other-language",
+   "expect": [
+    "milk tea"
+   ]
+  },
+  {
+   "query": "dim bhorta",
+   "kind": "other-language",
+   "expect": [
+    "egg bhorta"
+   ]
+  },
+  {
+   "query": "chingri",
+   "kind": "other-language",
+   "expect": [
+    "prawn"
+   ]
+  },
+  {
+   "query": "shrimp",
+   "kind": "other-language",
+   "expect": [
+    "prawn"
+   ]
+  },
+  {
+   "query": "hilsa",
+   "kind": "other-language",
+   "expect": [
+    "ilish"
+   ]
+  },
+  {
+   "query": "jalebi",
+   "kind": "other-language",
+   "expect": [
+    "jilapi"
+   ]
+  },
+  {
+   "query": "samosa",
+   "kind": "other-language",
+   "expect": [
+    "somucha",
+    "shingara"
+   ]
+  },
+  {
+   "query": "eggplant",
+   "kind": "other-language",
+   "expect": [
+    "begun"
+   ]
+  },
+  {
+   "query": "yogurt",
+   "kind": "other-language",
+   "expect": [
+    "doi"
+   ]
+  },
+  {
+   "query": "murgi",
+   "kind": "other-language",
+   "expect": [
+    "chicken"
+   ]
+  },
+  {
+   "query": "goru",
+   "kind": "other-language",
+   "expect": [
+    "beef"
+   ]
+  },
+  {
+   "query": "rong cha",
+   "kind": "other-language",
+   "expect": [
+    "red tea"
+   ]
+  },
+  {
+   "query": "panipuri",
+   "kind": "other-language",
+   "expect": [
+    "fuchka"
+   ]
+  },
+  {
+   "query": "cola",
+   "kind": "other-language",
+   "expect": [
+    "soft drink"
+   ]
+  },
+  {
+   "query": "mishti",
+   "kind": "other-language",
+   "expect": [
+    "mishti"
+   ]
+  },
+  {
+   "query": "pizza",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "sushi",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "pasta",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "tacos",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "ramen",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "asdfgh",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "qwerty",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "xyzzy",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "momo",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "shawarma",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "coffee",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "ice cream",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "kofta",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "dosa",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "idli",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "steak",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "lasagna",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "donut",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "waffle",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "hot dog",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "nachos",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "falafel",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "hummus",
+   "kind": "not-sold",
+   "expect": []
+  },
+  {
+   "query": "croissant",
+   "kind": "not-sold",
+   "expect": []
+  }
+ ]
+}

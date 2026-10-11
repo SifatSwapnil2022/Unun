@@ -1,0 +1,4176 @@
+{
+ "kitchens": [
+  {
+   "slug": "dum-ghor",
+   "name": {
+    "en": "Dum Ghor",
+    "bn": "দম ঘর"
+   },
+   "tagline": {
+    "en": "Kacchi cooked under a sealed lid since morning.",
+    "bn": "সকাল থেকে দমে বসানো কাচ্চি।"
+   },
+   "areaId": "old-dhaka",
+   "cuisines": [
+    {
+     "en": "Kacchi and biryani",
+     "bn": "কাচ্চি ও বিরিয়ানি"
+    }
+   ],
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Beef kacchi biryani",
+    "Beef tehari",
+    "Plain polao",
+    "Chicken roast",
+    "Beef rezala",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Firni",
+    "Jorda",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Mutton kacchi biryani",
+    "Borhani"
+   ]
+  },
+  {
+   "slug": "boro-deg",
+   "name": {
+    "en": "Boro Deg",
+    "bn": "বড় ডেগ"
+   },
+   "tagline": {
+    "en": "One big pot of kacchi, twice a day.",
+    "bn": "দিনে দুইবার, এক বড় ডেগ কাচ্চি।"
+   },
+   "areaId": "mirpur",
+   "cuisines": [
+    {
+     "en": "Kacchi and biryani",
+     "bn": "কাচ্চি ও বিরিয়ানি"
+    }
+   ],
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Beef kacchi biryani",
+    "Chicken biryani",
+    "Morog polao",
+    "Beef tehari",
+    "Plain polao",
+    "Chicken roast",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Firni",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Mutton kacchi biryani",
+    "Beef kacchi biryani"
+   ]
+  },
+  {
+   "slug": "aloo-bukhara",
+   "name": {
+    "en": "Aloo Bukhara",
+    "bn": "আলুবোখারা"
+   },
+   "tagline": {
+    "en": "Kacchi with the plum left in.",
+    "bn": "আলুবোখারা দেওয়া কাচ্চি।"
+   },
+   "areaId": "dhanmondi",
+   "cuisines": [
+    {
+     "en": "Kacchi and biryani",
+     "bn": "কাচ্চি ও বিরিয়ানি"
+    }
+   ],
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Beef kacchi biryani",
+    "Chicken biryani",
+    "Morog polao",
+    "Plain polao",
+    "Chicken roast",
+    "Beef rezala",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Firni",
+    "Jorda",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Mutton kacchi biryani",
+    "Jorda"
+   ]
+  },
+  {
+   "slug": "jafrani-haat",
+   "name": {
+    "en": "Jafrani Haat",
+    "bn": "জাফরানি হাট"
+   },
+   "tagline": {
+    "en": "Saffron rice and slow-cooked mutton.",
+    "bn": "জাফরানি ভাত আর ধীরে রান্না খাসি।"
+   },
+   "areaId": "gulshan",
+   "cuisines": [
+    {
+     "en": "Kacchi and biryani",
+     "bn": "কাচ্চি ও বিরিয়ানি"
+    }
+   ],
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Chicken biryani",
+    "Beef tehari",
+    "Plain polao",
+    "Chicken roast",
+    "Beef rezala",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Firni",
+    "Jorda",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Mutton kacchi biryani",
+    "Beef rezala"
+   ]
+  },
+  {
+   "slug": "chinigura",
+   "name": {
+    "en": "Chinigura",
+    "bn": "চিনিগুঁড়া"
+   },
+   "tagline": {
+    "en": "Morog polao made with chinigura rice.",
+    "bn": "চিনিগুঁড়া চালের মোরগ পোলাও।"
+   },
+   "areaId": "bashundhara",
+   "cuisines": [
+    {
+     "en": "Kacchi and biryani",
+     "bn": "কাচ্চি ও বিরিয়ানি"
+    }
+   ],
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Beef kacchi biryani",
+    "Chicken biryani",
+    "Morog polao",
+    "Plain polao",
+    "Chicken roast",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Firni",
+    "Jorda",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Morog polao"
+   ]
+  },
+  {
+   "slug": "tehari-bari",
+   "name": {
+    "en": "Tehari Bari",
+    "bn": "তেহারি বাড়ি"
+   },
+   "tagline": {
+    "en": "Mustard-oil beef tehari, served by the plate.",
+    "bn": "সরিষার তেলে গরুর তেহারি, প্লেট হিসেবে।"
+   },
+   "areaId": "mohammadpur",
+   "cuisines": [
+    {
+     "en": "Kacchi and biryani",
+     "bn": "কাচ্চি ও বিরিয়ানি"
+    }
+   ],
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Chicken biryani",
+    "Beef tehari",
+    "Plain polao",
+    "Chicken roast",
+    "Beef rezala",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Firni",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Beef tehari"
+   ]
+  },
+  {
+   "slug": "polao-para",
+   "name": {
+    "en": "Polao Para",
+    "bn": "পোলাও পাড়া"
+   },
+   "tagline": {
+    "en": "Polao, roast and rezala for the whole table.",
+    "bn": "পুরো টেবিলের জন্য পোলাও, রোস্ট আর রেজালা।"
+   },
+   "areaId": "khilgaon",
+   "cuisines": [
+    {
+     "en": "Kacchi and biryani",
+     "bn": "কাচ্চি ও বিরিয়ানি"
+    }
+   ],
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Beef kacchi biryani",
+    "Chicken biryani",
+    "Morog polao",
+    "Beef tehari",
+    "Plain polao",
+    "Chicken roast",
+    "Beef rezala",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Firni",
+    "Jorda",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Morog polao",
+    "Chicken roast",
+    "Beef rezala"
+   ]
+  },
+  {
+   "slug": "shahi-haari",
+   "name": {
+    "en": "Shahi Haari",
+    "bn": "শাহি হাঁড়ি"
+   },
+   "tagline": {
+    "en": "Kacchi from a clay pot, sealed with dough.",
+    "bn": "আটা দিয়ে মুখ বন্ধ করা মাটির হাঁড়ির কাচ্চি।"
+   },
+   "areaId": "banani",
+   "cuisines": [
+    {
+     "en": "Kacchi and biryani",
+     "bn": "কাচ্চি ও বিরিয়ানি"
+    }
+   ],
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Chicken biryani",
+    "Beef tehari",
+    "Plain polao",
+    "Chicken roast",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Firni",
+    "Jorda",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Mutton kacchi biryani",
+    "Firni"
+   ]
+  },
+  {
+   "slug": "biye-bari",
+   "name": {
+    "en": "Biye Bari",
+    "bn": "বিয়ে বাড়ি"
+   },
+   "tagline": {
+    "en": "Wedding-house kacchi without the wedding.",
+    "bn": "বিয়ে ছাড়াই বিয়ে বাড়ির কাচ্চি।"
+   },
+   "areaId": "wari",
+   "cuisines": [
+    {
+     "en": "Kacchi and biryani",
+     "bn": "কাচ্চি ও বিরিয়ানি"
+    }
+   ],
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Chicken biryani",
+    "Morog polao",
+    "Beef tehari",
+    "Plain polao",
+    "Chicken roast",
+    "Beef rezala",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Firni",
+    "Jorda",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Mutton kacchi biryani",
+    "Chicken roast",
+    "Jorda"
+   ]
+  },
+  {
+   "slug": "dawat",
+   "name": {
+    "en": "Dawat",
+    "bn": "দাওয়াত"
+   },
+   "tagline": {
+    "en": "Biryani and roast, cooked for guests.",
+    "bn": "মেহমানের জন্য রান্না বিরিয়ানি আর রোস্ট।"
+   },
+   "areaId": "uttara",
+   "cuisines": [
+    {
+     "en": "Kacchi and biryani",
+     "bn": "কাচ্চি ও বিরিয়ানি"
+    }
+   ],
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Beef kacchi biryani",
+    "Chicken biryani",
+    "Morog polao",
+    "Plain polao",
+    "Chicken roast",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Firni",
+    "Jorda",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Chicken biryani",
+    "Chicken roast"
+   ]
+  },
+  {
+   "slug": "koylar-aanch",
+   "name": {
+    "en": "Koylar Aanch",
+    "bn": "কয়লার আঁচ"
+   },
+   "tagline": {
+    "en": "Kababs grilled over charcoal, not gas.",
+    "bn": "গ্যাসে নয়, কয়লার আঁচে সেঁকা কাবাব।"
+   },
+   "areaId": "gulshan",
+   "cuisines": [
+    {
+     "en": "Kabab and grill",
+     "bn": "কাবাব ও গ্রিল"
+    }
+   ],
+   "dishes": [
+    "Beef sheek kabab",
+    "Beef boti kabab",
+    "Chicken tikka",
+    "Beef chaap",
+    "Grilled chicken, quarter",
+    "Tandoori chicken, half",
+    "Mixed kabab platter",
+    "Butter naan",
+    "Garlic naan",
+    "Plain naan",
+    "Luchi, 4 pieces",
+    "Chicken kathi roll",
+    "Beef kathi roll",
+    "Raita",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Beef sheek kabab",
+    "Beef boti kabab"
+   ]
+  },
+  {
+   "slug": "sheek",
+   "name": {
+    "en": "Sheek",
+    "bn": "শিক"
+   },
+   "tagline": {
+    "en": "Sheek kabab off the skewer and onto naan.",
+    "bn": "শিক থেকে নামিয়ে সরাসরি নানে।"
+   },
+   "areaId": "bashundhara",
+   "cuisines": [
+    {
+     "en": "Kabab and grill",
+     "bn": "কাবাব ও গ্রিল"
+    }
+   ],
+   "dishes": [
+    "Beef sheek kabab",
+    "Chicken sheek kabab",
+    "Beef boti kabab",
+    "Chicken tikka",
+    "Grilled chicken, quarter",
+    "Tandoori chicken, half",
+    "Mixed kabab platter",
+    "Butter naan",
+    "Garlic naan",
+    "Plain naan",
+    "Beef kathi roll",
+    "Raita",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Beef sheek kabab",
+    "Chicken sheek kabab",
+    "Garlic naan"
+   ]
+  },
+  {
+   "slug": "dhoa",
+   "name": {
+    "en": "Dhoa",
+    "bn": "ধোঁয়া"
+   },
+   "tagline": {
+    "en": "Smoky grilled chicken and soft naan.",
+    "bn": "ধোঁয়া ওঠা গ্রিল চিকেন আর নরম নান।"
+   },
+   "areaId": "dhanmondi",
+   "cuisines": [
+    {
+     "en": "Kabab and grill",
+     "bn": "কাবাব ও গ্রিল"
+    }
+   ],
+   "dishes": [
+    "Beef sheek kabab",
+    "Chicken sheek kabab",
+    "Chicken tikka",
+    "Reshmi kabab",
+    "Beef chaap",
+    "Chicken chaap",
+    "Grilled chicken, quarter",
+    "Grilled chicken, half",
+    "Mixed kabab platter",
+    "Butter naan",
+    "Garlic naan",
+    "Plain naan",
+    "Luchi, 4 pieces",
+    "Chicken kathi roll",
+    "Beef kathi roll",
+    "Raita",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Grilled chicken, quarter",
+    "Grilled chicken, half"
+   ]
+  },
+  {
+   "slug": "angar",
+   "name": {
+    "en": "Angar",
+    "bn": "অঙ্গার"
+   },
+   "tagline": {
+    "en": "Tikka and boti from a bed of live coals.",
+    "bn": "জ্বলন্ত অঙ্গারে টিক্কা আর বটি।"
+   },
+   "areaId": "uttara",
+   "cuisines": [
+    {
+     "en": "Kabab and grill",
+     "bn": "কাবাব ও গ্রিল"
+    }
+   ],
+   "dishes": [
+    "Beef sheek kabab",
+    "Chicken sheek kabab",
+    "Beef boti kabab",
+    "Chicken tikka",
+    "Beef chaap",
+    "Chicken chaap",
+    "Grilled chicken, quarter",
+    "Grilled chicken, half",
+    "Tandoori chicken, half",
+    "Mixed kabab platter",
+    "Butter naan",
+    "Plain naan",
+    "Luchi, 4 pieces",
+    "Raita",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Beef boti kabab",
+    "Chicken tikka"
+   ]
+  },
+  {
+   "slug": "lal-tondur",
+   "name": {
+    "en": "Lal Tondur",
+    "bn": "লাল তন্দুর"
+   },
+   "tagline": {
+    "en": "Tandoori chicken and bread from one clay oven.",
+    "bn": "একই তন্দুরে চিকেন আর রুটি।"
+   },
+   "areaId": "mirpur",
+   "cuisines": [
+    {
+     "en": "Kabab and grill",
+     "bn": "কাবাব ও গ্রিল"
+    }
+   ],
+   "dishes": [
+    "Beef sheek kabab",
+    "Chicken tikka",
+    "Reshmi kabab",
+    "Tandoori chicken, half",
+    "Mixed kabab platter",
+    "Butter naan",
+    "Garlic naan",
+    "Plain naan",
+    "Luchi, 4 pieces",
+    "Chicken kathi roll",
+    "Beef kathi roll",
+    "Raita",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Tandoori chicken, half",
+    "Garlic naan"
+   ]
+  },
+  {
+   "slug": "chaap-ghor",
+   "name": {
+    "en": "Chaap Ghor",
+    "bn": "চাপ ঘর"
+   },
+   "tagline": {
+    "en": "Beef chaap and luchi, the Mohammadpur way.",
+    "bn": "মোহাম্মদপুরের ধাঁচে গরুর চাপ আর লুচি।"
+   },
+   "areaId": "mohammadpur",
+   "cuisines": [
+    {
+     "en": "Kabab and grill",
+     "bn": "কাবাব ও গ্রিল"
+    }
+   ],
+   "dishes": [
+    "Beef sheek kabab",
+    "Beef boti kabab",
+    "Chicken tikka",
+    "Beef chaap",
+    "Chicken chaap",
+    "Grilled chicken, quarter",
+    "Tandoori chicken, half",
+    "Mixed kabab platter",
+    "Butter naan",
+    "Garlic naan",
+    "Plain naan",
+    "Luchi, 4 pieces",
+    "Chicken kathi roll",
+    "Beef kathi roll",
+    "Raita",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Beef chaap",
+    "Chicken chaap",
+    "Luchi, 4 pieces"
+   ]
+  },
+  {
+   "slug": "boti",
+   "name": {
+    "en": "Boti",
+    "bn": "বটি"
+   },
+   "tagline": {
+    "en": "Boti kabab cut small and cooked fast.",
+    "bn": "ছোট করে কাটা, চটজলদি সেঁকা বটি কাবাব।"
+   },
+   "areaId": "old-dhaka",
+   "cuisines": [
+    {
+     "en": "Kabab and grill",
+     "bn": "কাবাব ও গ্রিল"
+    }
+   ],
+   "dishes": [
+    "Beef sheek kabab",
+    "Chicken sheek kabab",
+    "Beef boti kabab",
+    "Chicken tikka",
+    "Beef chaap",
+    "Chicken chaap",
+    "Grilled chicken, quarter",
+    "Grilled chicken, half",
+    "Mixed kabab platter",
+    "Butter naan",
+    "Garlic naan",
+    "Plain naan",
+    "Luchi, 4 pieces",
+    "Beef kathi roll",
+    "Raita",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Beef boti kabab",
+    "Beef kathi roll"
+   ]
+  },
+  {
+   "slug": "jhalsano",
+   "name": {
+    "en": "Jhalsano",
+    "bn": "ঝলসানো"
+   },
+   "tagline": {
+    "en": "Grill platters for two or for six.",
+    "bn": "দুজন বা ছয়জনের গ্রিল প্লাটার।"
+   },
+   "areaId": "banani",
+   "cuisines": [
+    {
+     "en": "Kabab and grill",
+     "bn": "কাবাব ও গ্রিল"
+    }
+   ],
+   "dishes": [
+    "Beef sheek kabab",
+    "Beef boti kabab",
+    "Chicken tikka",
+    "Reshmi kabab",
+    "Chicken chaap",
+    "Grilled chicken, quarter",
+    "Grilled chicken, half",
+    "Tandoori chicken, half",
+    "Mixed kabab platter",
+    "Butter naan",
+    "Plain naan",
+    "Luchi, 4 pieces",
+    "Chicken kathi roll",
+    "Raita",
+    "Onion and cucumber salad",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Reshmi kabab",
+    "Mixed kabab platter"
+   ]
+  },
+  {
+   "slug": "shorisha",
+   "name": {
+    "en": "Shorisha",
+    "bn": "সরিষা"
+   },
+   "tagline": {
+    "en": "Bhorta mashed by hand with mustard oil.",
+    "bn": "সরিষার তেলে হাতে মাখা ভর্তা।"
+   },
+   "areaId": "dhanmondi",
+   "cuisines": [
+    {
+     "en": "Bhorta, fish and rice",
+     "bn": "ভর্তা, মাছ ও ভাত"
+    }
+   ],
+   "dishes": [
+    "Set lunch with chicken",
+    "Set lunch with fish",
+    "Vegetable set lunch",
+    "Five-bhorta platter with rice",
+    "Aloo bhorta",
+    "Begun bhorta",
+    "Black cumin bhorta",
+    "Shutki bhorta",
+    "Mixed vegetable bhaji",
+    "Rui fish curry",
+    "Fried ilish",
+    "Pabda jhol",
+    "Prawn malai curry",
+    "Small fish chorchori",
+    "Deshi chicken curry",
+    "Beef bhuna",
+    "Egg curry",
+    "Plain rice",
+    "Masoor dal",
+    "Mishti doi, cup",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Five-bhorta platter with rice",
+    "Black cumin bhorta",
+    "Shutki bhorta"
+   ]
+  },
+  {
+   "slug": "haarir-khobor",
+   "name": {
+    "en": "Haarir Khobor",
+    "bn": "হাঁড়ির খবর"
+   },
+   "tagline": {
+    "en": "Home-style rice, fish and dal.",
+    "bn": "ঘরের মতো ভাত, মাছ আর ডাল।"
+   },
+   "areaId": "mirpur",
+   "cuisines": [
+    {
+     "en": "Bhorta, fish and rice",
+     "bn": "ভর্তা, মাছ ও ভাত"
+    }
+   ],
+   "dishes": [
+    "Set lunch with chicken",
+    "Set lunch with fish",
+    "Vegetable set lunch",
+    "Five-bhorta platter with rice",
+    "Aloo bhorta",
+    "Begun bhorta",
+    "Tomato bhorta",
+    "Black cumin bhorta",
+    "Shutki bhorta",
+    "Prawn bhorta",
+    "Mixed vegetable bhaji",
+    "Red amaranth bhaji",
+    "Begun bhaja, 2 slices",
+    "Rui fish curry",
+    "Pabda jhol",
+    "Prawn malai curry",
+    "Small fish chorchori",
+    "Deshi chicken curry",
+    "Kala bhuna",
+    "Egg curry",
+    "Plain rice",
+    "Masoor dal",
+    "Mishti doi, cup",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Set lunch with fish",
+    "Rui fish curry"
+   ]
+  },
+  {
+   "slug": "baro-bhorta",
+   "name": {
+    "en": "Baro Bhorta",
+    "bn": "বারো ভর্তা"
+   },
+   "tagline": {
+    "en": "Twelve bhortas every day. Pick five.",
+    "bn": "প্রতিদিন বারো পদের ভর্তা। পাঁচটি বেছে নিন।"
+   },
+   "areaId": "tejgaon",
+   "cuisines": [
+    {
+     "en": "Bhorta, fish and rice",
+     "bn": "ভর্তা, মাছ ও ভাত"
+    }
+   ],
+   "dishes": [
+    "Set lunch with chicken",
+    "Set lunch with fish",
+    "Five-bhorta platter with rice",
+    "Aloo bhorta",
+    "Begun bhorta",
+    "Tomato bhorta",
+    "Egg bhorta",
+    "Shutki bhorta",
+    "Prawn bhorta",
+    "Mixed vegetable bhaji",
+    "Red amaranth bhaji",
+    "Begun bhaja, 2 slices",
+    "Rui fish curry",
+    "Shorshe ilish",
+    "Pabda jhol",
+    "Prawn malai curry",
+    "Small fish chorchori",
+    "Deshi chicken curry",
+    "Kala bhuna",
+    "Egg curry",
+    "Plain rice",
+    "Masoor dal",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Five-bhorta platter with rice",
+    "Tomato bhorta",
+    "Egg bhorta",
+    "Prawn bhorta"
+   ]
+  },
+  {
+   "slug": "maach-bhaat",
+   "name": {
+    "en": "Maach Bhaat",
+    "bn": "মাছ ভাত"
+   },
+   "tagline": {
+    "en": "River fish, cooked the day it is bought.",
+    "bn": "যেদিন কেনা, সেদিনই রান্না নদীর মাছ।"
+   },
+   "areaId": "motijheel",
+   "cuisines": [
+    {
+     "en": "Bhorta, fish and rice",
+     "bn": "ভর্তা, মাছ ও ভাত"
+    }
+   ],
+   "dishes": [
+    "Set lunch with chicken",
+    "Set lunch with fish",
+    "Vegetable set lunch",
+    "Five-bhorta platter with rice",
+    "Aloo bhorta",
+    "Begun bhorta",
+    "Egg bhorta",
+    "Mixed vegetable bhaji",
+    "Red amaranth bhaji",
+    "Begun bhaja, 2 slices",
+    "Rui fish curry",
+    "Fried ilish",
+    "Shorshe ilish",
+    "Pabda jhol",
+    "Small fish chorchori",
+    "Deshi chicken curry",
+    "Beef bhuna",
+    "Egg curry",
+    "Plain rice",
+    "Masoor dal",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Rui fish curry",
+    "Pabda jhol",
+    "Small fish chorchori"
+   ]
+  },
+  {
+   "slug": "kansha",
+   "name": {
+    "en": "Kansha",
+    "bn": "কাঁসা"
+   },
+   "tagline": {
+    "en": "Bengali meals served on bell-metal plates.",
+    "bn": "কাঁসার থালায় বাঙালি খাবার।"
+   },
+   "areaId": "gulshan",
+   "cuisines": [
+    {
+     "en": "Bhorta, fish and rice",
+     "bn": "ভর্তা, মাছ ও ভাত"
+    }
+   ],
+   "dishes": [
+    "Set lunch with chicken",
+    "Set lunch with fish",
+    "Vegetable set lunch",
+    "Five-bhorta platter with rice",
+    "Aloo bhorta",
+    "Begun bhorta",
+    "Tomato bhorta",
+    "Black cumin bhorta",
+    "Shutki bhorta",
+    "Prawn bhorta",
+    "Mixed vegetable bhaji",
+    "Red amaranth bhaji",
+    "Begun bhaja, 2 slices",
+    "Rui fish curry",
+    "Shorshe ilish",
+    "Pabda jhol",
+    "Prawn malai curry",
+    "Small fish chorchori",
+    "Deshi chicken curry",
+    "Kala bhuna",
+    "Egg curry",
+    "Plain rice",
+    "Masoor dal",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Prawn malai curry",
+    "Kala bhuna"
+   ]
+  },
+  {
+   "slug": "dupur",
+   "name": {
+    "en": "Dupur",
+    "bn": "দুপুর"
+   },
+   "tagline": {
+    "en": "Rice, dal and one good curry for the office.",
+    "bn": "অফিসের জন্য ভাত, ডাল আর একটা ভালো তরকারি।"
+   },
+   "areaId": "motijheel",
+   "cuisines": [
+    {
+     "en": "Bhorta, fish and rice",
+     "bn": "ভর্তা, মাছ ও ভাত"
+    }
+   ],
+   "dishes": [
+    "Set lunch with chicken",
+    "Set lunch with fish",
+    "Vegetable set lunch",
+    "Aloo bhorta",
+    "Begun bhorta",
+    "Prawn bhorta",
+    "Mixed vegetable bhaji",
+    "Red amaranth bhaji",
+    "Begun bhaja, 2 slices",
+    "Rui fish curry",
+    "Shorshe ilish",
+    "Pabda jhol",
+    "Prawn malai curry",
+    "Small fish chorchori",
+    "Deshi chicken curry",
+    "Beef bhuna",
+    "Kala bhuna",
+    "Egg curry",
+    "Plain rice",
+    "Masoor dal",
+    "Mishti doi, cup",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Set lunch with chicken",
+    "Vegetable set lunch"
+   ]
+  },
+  {
+   "slug": "ilish-ghat",
+   "name": {
+    "en": "Ilish Ghat",
+    "bn": "ইলিশ ঘাট"
+   },
+   "tagline": {
+    "en": "Ilish fried, steamed in mustard, or with khichuri.",
+    "bn": "ইলিশ ভাজা, সরষে ইলিশ কিংবা খিচুড়ির সঙ্গে।"
+   },
+   "areaId": "uttara",
+   "cuisines": [
+    {
+     "en": "Bhorta, fish and rice",
+     "bn": "ভর্তা, মাছ ও ভাত"
+    }
+   ],
+   "dishes": [
+    "Set lunch with chicken",
+    "Set lunch with fish",
+    "Five-bhorta platter with rice",
+    "Aloo bhorta",
+    "Begun bhorta",
+    "Egg bhorta",
+    "Black cumin bhorta",
+    "Prawn bhorta",
+    "Mixed vegetable bhaji",
+    "Rui fish curry",
+    "Fried ilish",
+    "Shorshe ilish",
+    "Small fish chorchori",
+    "Deshi chicken curry",
+    "Beef bhuna",
+    "Kala bhuna",
+    "Egg curry",
+    "Plain rice",
+    "Masoor dal",
+    "Mishti doi, cup",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Fried ilish",
+    "Shorshe ilish"
+   ]
+  },
+  {
+   "slug": "uthan",
+   "name": {
+    "en": "Uthan",
+    "bn": "উঠান"
+   },
+   "tagline": {
+    "en": "Village cooking: shutki, shak and small fish.",
+    "bn": "গ্রামের রান্না: শুঁটকি, শাক আর ছোট মাছ।"
+   },
+   "areaId": "bashundhara",
+   "cuisines": [
+    {
+     "en": "Bhorta, fish and rice",
+     "bn": "ভর্তা, মাছ ও ভাত"
+    }
+   ],
+   "dishes": [
+    "Set lunch with chicken",
+    "Set lunch with fish",
+    "Five-bhorta platter with rice",
+    "Aloo bhorta",
+    "Begun bhorta",
+    "Black cumin bhorta",
+    "Shutki bhorta",
+    "Prawn bhorta",
+    "Mixed vegetable bhaji",
+    "Red amaranth bhaji",
+    "Begun bhaja, 2 slices",
+    "Rui fish curry",
+    "Shorshe ilish",
+    "Pabda jhol",
+    "Small fish chorchori",
+    "Deshi chicken curry",
+    "Beef bhuna",
+    "Kala bhuna",
+    "Egg curry",
+    "Plain rice",
+    "Masoor dal",
+    "Mishti doi, cup",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Shutki bhorta",
+    "Red amaranth bhaji",
+    "Small fish chorchori"
+   ]
+  },
+  {
+   "slug": "panta",
+   "name": {
+    "en": "Panta",
+    "bn": "পান্তা"
+   },
+   "tagline": {
+    "en": "Panta bhat with bhorta, all year round.",
+    "bn": "সারা বছর পান্তা ভাত আর ভর্তা।"
+   },
+   "areaId": "khilgaon",
+   "cuisines": [
+    {
+     "en": "Bhorta, fish and rice",
+     "bn": "ভর্তা, মাছ ও ভাত"
+    }
+   ],
+   "dishes": [
+    "Panta bhat with fried ilish",
+    "Panta bhat with three bhortas",
+    "Aloo bhorta",
+    "Begun bhorta",
+    "Shutki bhorta",
+    "Tomato bhorta",
+    "Red amaranth bhaji",
+    "Begun bhaja, 2 slices",
+    "Fried ilish",
+    "Small fish chorchori",
+    "Plain rice",
+    "Masoor dal",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Panta bhat with fried ilish",
+    "Panta bhat with three bhortas"
+   ]
+  },
+  {
+   "slug": "brishti-din",
+   "name": {
+    "en": "Brishti Din",
+    "bn": "বৃষ্টি দিন"
+   },
+   "tagline": {
+    "en": "Bhuna khichuri for rainy days and dry ones.",
+    "bn": "বৃষ্টির দিন হোক বা রোদের, ভুনা খিচুড়ি।"
+   },
+   "areaId": "mohammadpur",
+   "cuisines": [
+    {
+     "en": "Bhorta, fish and rice",
+     "bn": "ভর্তা, মাছ ও ভাত"
+    }
+   ],
+   "dishes": [
+    "Bhuna khichuri with beef",
+    "Khichuri with egg and begun bhaja",
+    "Khichuri with fried ilish",
+    "Beef bhuna",
+    "Begun bhaja, 2 slices",
+    "Egg curry",
+    "Aloo bhorta",
+    "Onion and cucumber salad",
+    "Borhani",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Bhuna khichuri with beef"
+   ]
+  },
+  {
+   "slug": "bhor",
+   "name": {
+    "en": "Bhor",
+    "bn": "ভোর"
+   },
+   "tagline": {
+    "en": "Nehari and porota from six in the morning.",
+    "bn": "ভোর ছয়টা থেকে নেহারি আর পরোটা।"
+   },
+   "areaId": "old-dhaka",
+   "cuisines": [
+    {
+     "en": "Porota and nehari",
+     "bn": "পরোটা ও নেহারি"
+    }
+   ],
+   "dishes": [
+    "Porota, 2 pieces",
+    "Dal bhaji",
+    "Egg omelette",
+    "Morning mixed vegetable",
+    "Suji halwa",
+    "Tandoor ruti",
+    "Beef nehari",
+    "Paya",
+    "Milk tea",
+    "Red tea"
+   ],
+   "popular": [
+    "Beef nehari",
+    "Paya"
+   ]
+  },
+  {
+   "slug": "sokal-sokal",
+   "name": {
+    "en": "Sokal Sokal",
+    "bn": "সকাল সকাল"
+   },
+   "tagline": {
+    "en": "Porota, bhaji and egg before work.",
+    "bn": "কাজে যাওয়ার আগে পরোটা, ভাজি আর ডিম।"
+   },
+   "areaId": "mirpur",
+   "cuisines": [
+    {
+     "en": "Porota and nehari",
+     "bn": "পরোটা ও নেহারি"
+    }
+   ],
+   "dishes": [
+    "Porota, 2 pieces",
+    "Dal bhaji",
+    "Egg omelette",
+    "Suji halwa",
+    "Mughlai porota",
+    "Tandoor ruti",
+    "Beef nehari",
+    "Milk tea",
+    "Red tea"
+   ],
+   "popular": [
+    "Porota, 2 pieces",
+    "Dal bhaji"
+   ]
+  },
+  {
+   "slug": "bhaji-porota",
+   "name": {
+    "en": "Bhaji Porota",
+    "bn": "ভাজি পরোটা"
+   },
+   "tagline": {
+    "en": "Flaky porota with dal bhaji, all day.",
+    "bn": "সারাদিন খাস্তা পরোটা আর ডাল ভাজি।"
+   },
+   "areaId": "dhanmondi",
+   "cuisines": [
+    {
+     "en": "Porota and nehari",
+     "bn": "পরোটা ও নেহারি"
+    }
+   ],
+   "dishes": [
+    "Porota, 2 pieces",
+    "Dal bhaji",
+    "Egg omelette",
+    "Morning mixed vegetable",
+    "Suji halwa",
+    "Mughlai porota",
+    "Beef nehari",
+    "Nolli nehari",
+    "Paya",
+    "Milk tea",
+    "Red tea"
+   ],
+   "popular": [
+    "Porota, 2 pieces",
+    "Mughlai porota"
+   ]
+  },
+  {
+   "slug": "nolli",
+   "name": {
+    "en": "Nolli",
+    "bn": "নল্লি"
+   },
+   "tagline": {
+    "en": "Nolli nehari simmered through the night.",
+    "bn": "সারারাত জ্বাল দেওয়া নল্লি নেহারি।"
+   },
+   "areaId": "mohammadpur",
+   "cuisines": [
+    {
+     "en": "Porota and nehari",
+     "bn": "পরোটা ও নেহারি"
+    }
+   ],
+   "dishes": [
+    "Porota, 2 pieces",
+    "Dal bhaji",
+    "Egg omelette",
+    "Morning mixed vegetable",
+    "Tandoor ruti",
+    "Beef nehari",
+    "Nolli nehari",
+    "Paya",
+    "Milk tea",
+    "Red tea"
+   ],
+   "popular": [
+    "Tandoor ruti",
+    "Nolli nehari"
+   ]
+  },
+  {
+   "slug": "bakorkhani",
+   "name": {
+    "en": "Bakorkhani",
+    "bn": "বাকরখানি"
+   },
+   "tagline": {
+    "en": "Bakorkhani baked in a tandoor each morning.",
+    "bn": "প্রতিদিন সকালে তন্দুরে সেঁকা বাকরখানি।"
+   },
+   "areaId": "wari",
+   "cuisines": [
+    {
+     "en": "Porota and nehari",
+     "bn": "পরোটা ও নেহারি"
+    }
+   ],
+   "dishes": [
+    "Bakorkhani, 6 pieces",
+    "Sweet bakorkhani, 6 pieces",
+    "Cheese bakorkhani, 6 pieces",
+    "Milk tea",
+    "Red tea",
+    "Malai tea"
+   ],
+   "popular": [
+    "Bakorkhani, 6 pieces"
+   ]
+  },
+  {
+   "slug": "lal-lonthon",
+   "name": {
+    "en": "Lal Lonthon",
+    "bn": "লাল লণ্ঠন"
+   },
+   "tagline": {
+    "en": "Dhaka-style Chinese: thick soup, fried rice, chili chicken.",
+    "bn": "ঢাকাই চাইনিজ: ঘন স্যুপ, ফ্রাইড রাইস, চিলি চিকেন।"
+   },
+   "areaId": "dhanmondi",
+   "cuisines": [
+    {
+     "en": "Bangla Chinese",
+     "bn": "বাংলা চাইনিজ"
+    }
+   ],
+   "dishes": [
+    "Thai soup",
+    "Vegetable spring roll, 4 pieces",
+    "Chicken fried rice",
+    "Egg fried rice",
+    "Chicken chow mein",
+    "Vegetable chow mein",
+    "Chili chicken",
+    "Chinese mixed vegetable",
+    "Set menu for one",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Thai soup",
+    "Chili chicken"
+   ]
+  },
+  {
+   "slug": "chow-para",
+   "name": {
+    "en": "Chow Para",
+    "bn": "চাও পাড়া"
+   },
+   "tagline": {
+    "en": "Chow mein tossed to order.",
+    "bn": "অর্ডার পেলে তবেই ভাজা চাওমিন।"
+   },
+   "areaId": "uttara",
+   "cuisines": [
+    {
+     "en": "Bangla Chinese",
+     "bn": "বাংলা চাইনিজ"
+    }
+   ],
+   "dishes": [
+    "Thai soup",
+    "Chicken corn soup",
+    "Fried wonton, 6 pieces",
+    "Chicken fried rice",
+    "Egg fried rice",
+    "Mixed fried rice",
+    "Chicken chow mein",
+    "Vegetable chow mein",
+    "Chili chicken",
+    "Szechuan chicken",
+    "Beef chili onion",
+    "Sweet and sour prawn",
+    "Chinese mixed vegetable",
+    "Set menu for one",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Chicken chow mein",
+    "Vegetable chow mein"
+   ]
+  },
+  {
+   "slug": "wok-ghor",
+   "name": {
+    "en": "Wok Ghor",
+    "bn": "ওক ঘর"
+   },
+   "tagline": {
+    "en": "High-flame wok cooking and set menus for the office.",
+    "bn": "চড়া আঁচে ওকের রান্না, অফিসের জন্য সেট মেনু।"
+   },
+   "areaId": "gulshan",
+   "cuisines": [
+    {
+     "en": "Bangla Chinese",
+     "bn": "বাংলা চাইনিজ"
+    }
+   ],
+   "dishes": [
+    "Thai soup",
+    "Chicken corn soup",
+    "Fried wonton, 6 pieces",
+    "Vegetable spring roll, 4 pieces",
+    "Chicken fried rice",
+    "Egg fried rice",
+    "Mixed fried rice",
+    "Chicken chow mein",
+    "Vegetable chow mein",
+    "Chili chicken",
+    "Beef chili onion",
+    "Set menu for one",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Beef chili onion",
+    "Set menu for one"
+   ]
+  },
+  {
+   "slug": "soup-bari",
+   "name": {
+    "en": "Soup Bari",
+    "bn": "স্যুপ বাড়ি"
+   },
+   "tagline": {
+    "en": "Thai soup and wonton, the Mirpur favourite.",
+    "bn": "মিরপুরের প্রিয় থাই স্যুপ আর ওয়ানটন।"
+   },
+   "areaId": "mirpur",
+   "cuisines": [
+    {
+     "en": "Bangla Chinese",
+     "bn": "বাংলা চাইনিজ"
+    }
+   ],
+   "dishes": [
+    "Thai soup",
+    "Fried wonton, 6 pieces",
+    "Vegetable spring roll, 4 pieces",
+    "Chicken fried rice",
+    "Egg fried rice",
+    "Mixed fried rice",
+    "Chicken chow mein",
+    "Chili chicken",
+    "Set menu for one",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Thai soup",
+    "Fried wonton, 6 pieces"
+   ]
+  },
+  {
+   "slug": "dragon-goli",
+   "name": {
+    "en": "Dragon Goli",
+    "bn": "ড্রাগন গলি"
+   },
+   "tagline": {
+    "en": "Szechuan chicken with real heat.",
+    "bn": "সত্যিকারের ঝাল সেজুয়ান চিকেন।"
+   },
+   "areaId": "banani",
+   "cuisines": [
+    {
+     "en": "Bangla Chinese",
+     "bn": "বাংলা চাইনিজ"
+    }
+   ],
+   "dishes": [
+    "Thai soup",
+    "Vegetable spring roll, 4 pieces",
+    "Chicken fried rice",
+    "Egg fried rice",
+    "Mixed fried rice",
+    "Chicken chow mein",
+    "Vegetable chow mein",
+    "Chili chicken",
+    "Szechuan chicken",
+    "Beef chili onion",
+    "Sweet and sour prawn",
+    "Set menu for one",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Szechuan chicken"
+   ]
+  },
+  {
+   "slug": "chili-onion",
+   "name": {
+    "en": "Chili Onion",
+    "bn": "চিলি অনিয়ন"
+   },
+   "tagline": {
+    "en": "Beef chili onion and mixed fried rice.",
+    "bn": "বিফ চিলি অনিয়ন আর মিক্সড ফ্রাইড রাইস।"
+   },
+   "areaId": "bashundhara",
+   "cuisines": [
+    {
+     "en": "Bangla Chinese",
+     "bn": "বাংলা চাইনিজ"
+    }
+   ],
+   "dishes": [
+    "Thai soup",
+    "Fried wonton, 6 pieces",
+    "Vegetable spring roll, 4 pieces",
+    "Chicken fried rice",
+    "Egg fried rice",
+    "Mixed fried rice",
+    "Chicken chow mein",
+    "Vegetable chow mein",
+    "Chili chicken",
+    "Szechuan chicken",
+    "Beef chili onion",
+    "Set menu for one",
+    "Mineral water, 500 ml",
+    "Soft drink, 250 ml"
+   ],
+   "popular": [
+    "Mixed fried rice",
+    "Beef chili onion"
+   ]
+  },
+  {
+   "slug": "bun-moshla",
+   "name": {
+    "en": "Bun Moshla",
+    "bn": "বান মশলা"
+   },
+   "tagline": {
+    "en": "Beef burgers with a deshi spice mix.",
+    "bn": "দেশি মশলায় বিফ বার্গার।"
+   },
+   "areaId": "dhanmondi",
+   "cuisines": [
+    {
+     "en": "Burgers and fried chicken",
+     "bn": "বার্গার ও ফ্রাইড চিকেন"
+    }
+   ],
+   "dishes": [
+    "Beef burger",
+    "Beef cheeseburger",
+    "Naga chili burger",
+    "Crispy chicken burger",
+    "Burger, fries and a drink",
+    "Hot wings, 6 pieces",
+    "French fries",
+    "Coleslaw",
+    "Soft drink, 250 ml",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Beef burger"
+   ]
+  },
+  {
+   "slug": "patty-para",
+   "name": {
+    "en": "Patty Para",
+    "bn": "প্যাটি পাড়া"
+   },
+   "tagline": {
+    "en": "Hand-pressed patties and toasted buns.",
+    "bn": "হাতে গড়া প্যাটি, সেঁকা বান।"
+   },
+   "areaId": "mirpur",
+   "cuisines": [
+    {
+     "en": "Burgers and fried chicken",
+     "bn": "বার্গার ও ফ্রাইড চিকেন"
+    }
+   ],
+   "dishes": [
+    "Beef burger",
+    "Beef cheeseburger",
+    "Double smash burger",
+    "Naga chili burger",
+    "Crispy chicken burger",
+    "Burger, fries and a drink",
+    "Fried chicken, 2 pieces",
+    "Fried chicken, 4 pieces",
+    "Hot wings, 6 pieces",
+    "French fries",
+    "Masala wedges",
+    "Coleslaw",
+    "Chocolate milkshake",
+    "Soft drink, 250 ml",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Beef cheeseburger"
+   ]
+  },
+  {
+   "slug": "murgi-bhaja",
+   "name": {
+    "en": "Murgi Bhaja",
+    "bn": "মুরগি ভাজা"
+   },
+   "tagline": {
+    "en": "Fried chicken, marinated overnight.",
+    "bn": "সারারাত মেরিনেট করা ফ্রাইড চিকেন।"
+   },
+   "areaId": "uttara",
+   "cuisines": [
+    {
+     "en": "Burgers and fried chicken",
+     "bn": "বার্গার ও ফ্রাইড চিকেন"
+    }
+   ],
+   "dishes": [
+    "Beef burger",
+    "Beef cheeseburger",
+    "Double smash burger",
+    "Naga chili burger",
+    "Crispy chicken burger",
+    "Burger, fries and a drink",
+    "Fried chicken, 2 pieces",
+    "Fried chicken, 4 pieces",
+    "Hot wings, 6 pieces",
+    "French fries",
+    "Masala wedges",
+    "Coleslaw",
+    "Chocolate milkshake",
+    "Soft drink, 250 ml",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Fried chicken, 2 pieces",
+    "Fried chicken, 4 pieces"
+   ]
+  },
+  {
+   "slug": "jhaal-bun",
+   "name": {
+    "en": "Jhaal Bun",
+    "bn": "ঝাল বান"
+   },
+   "tagline": {
+    "en": "Burgers that take their chili seriously.",
+    "bn": "ঝালের ব্যাপারে আপসহীন বার্গার।"
+   },
+   "areaId": "bashundhara",
+   "cuisines": [
+    {
+     "en": "Burgers and fried chicken",
+     "bn": "বার্গার ও ফ্রাইড চিকেন"
+    }
+   ],
+   "dishes": [
+    "Beef burger",
+    "Beef cheeseburger",
+    "Double smash burger",
+    "Naga chili burger",
+    "Crispy chicken burger",
+    "Burger, fries and a drink",
+    "Hot wings, 6 pieces",
+    "French fries",
+    "Coleslaw",
+    "Chocolate milkshake",
+    "Soft drink, 250 ml",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Naga chili burger"
+   ]
+  },
+  {
+   "slug": "smash-goli",
+   "name": {
+    "en": "Smash Goli",
+    "bn": "স্ম্যাশ গলি"
+   },
+   "tagline": {
+    "en": "Smash burgers, thin and crisp at the edge.",
+    "bn": "পাতলা, কিনারায় মুচমুচে স্ম্যাশ বার্গার।"
+   },
+   "areaId": "banani",
+   "cuisines": [
+    {
+     "en": "Burgers and fried chicken",
+     "bn": "বার্গার ও ফ্রাইড চিকেন"
+    }
+   ],
+   "dishes": [
+    "Beef burger",
+    "Beef cheeseburger",
+    "Double smash burger",
+    "Naga chili burger",
+    "Crispy chicken burger",
+    "Burger, fries and a drink",
+    "Fried chicken, 4 pieces",
+    "Hot wings, 6 pieces",
+    "French fries",
+    "Coleslaw",
+    "Chocolate milkshake",
+    "Soft drink, 250 ml",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Double smash burger"
+   ]
+  },
+  {
+   "slug": "mochmoche",
+   "name": {
+    "en": "Mochmoche",
+    "bn": "মচমচে"
+   },
+   "tagline": {
+    "en": "Crisp chicken, wings and wedges.",
+    "bn": "মচমচে চিকেন, উইংস আর ওয়েজেস।"
+   },
+   "areaId": "mohakhali",
+   "cuisines": [
+    {
+     "en": "Burgers and fried chicken",
+     "bn": "বার্গার ও ফ্রাইড চিকেন"
+    }
+   ],
+   "dishes": [
+    "Beef burger",
+    "Beef cheeseburger",
+    "Double smash burger",
+    "Naga chili burger",
+    "Crispy chicken burger",
+    "Burger, fries and a drink",
+    "Fried chicken, 2 pieces",
+    "Hot wings, 6 pieces",
+    "French fries",
+    "Masala wedges",
+    "Coleslaw",
+    "Chocolate milkshake",
+    "Soft drink, 250 ml",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Fried chicken, 2 pieces",
+    "Hot wings, 6 pieces",
+    "Masala wedges"
+   ]
+  },
+  {
+   "slug": "naga",
+   "name": {
+    "en": "Naga",
+    "bn": "নাগা"
+   },
+   "tagline": {
+    "en": "Naga chili burgers. A milkshake is recommended.",
+    "bn": "নাগা মরিচের বার্গার। সঙ্গে মিল্কশেক নিলে ভালো।"
+   },
+   "areaId": "gulshan",
+   "cuisines": [
+    {
+     "en": "Burgers and fried chicken",
+     "bn": "বার্গার ও ফ্রাইড চিকেন"
+    }
+   ],
+   "dishes": [
+    "Beef burger",
+    "Beef cheeseburger",
+    "Naga chili burger",
+    "Crispy chicken burger",
+    "Burger, fries and a drink",
+    "Fried chicken, 2 pieces",
+    "Fried chicken, 4 pieces",
+    "Hot wings, 6 pieces",
+    "French fries",
+    "Coleslaw",
+    "Club sandwich",
+    "Chocolate milkshake",
+    "Soft drink, 250 ml",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Naga chili burger",
+    "Chocolate milkshake"
+   ]
+  },
+  {
+   "slug": "tok-jhal",
+   "name": {
+    "en": "Tok Jhal",
+    "bn": "টক ঝাল"
+   },
+   "tagline": {
+    "en": "Fuchka filled when you order, not before.",
+    "bn": "অর্ডার পেলে তবেই ভরা ফুচকা।"
+   },
+   "areaId": "dhanmondi",
+   "cuisines": [
+    {
+     "en": "Fuchka and chotpoti",
+     "bn": "ফুচকা ও চটপটি"
+    }
+   ],
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Chotpoti",
+    "Jhalmuri",
+    "Papri chaat",
+    "Green mango makha",
+    "Tamarind sherbet",
+    "Lemon sherbet",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Fuchka, 8 pieces"
+   ]
+  },
+  {
+   "slug": "bikel",
+   "name": {
+    "en": "Bikel",
+    "bn": "বিকেল"
+   },
+   "tagline": {
+    "en": "Afternoon chotpoti and sherbet.",
+    "bn": "বিকেলের চটপটি আর শরবত।"
+   },
+   "areaId": "mohammadpur",
+   "cuisines": [
+    {
+     "en": "Fuchka and chotpoti",
+     "bn": "ফুচকা ও চটপটি"
+    }
+   ],
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Chotpoti",
+    "Chotpoti with extra egg",
+    "Bhelpuri",
+    "Green mango makha",
+    "Tamarind sherbet",
+    "Lemon sherbet",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Chotpoti",
+    "Tamarind sherbet"
+   ]
+  },
+  {
+   "slug": "tetul",
+   "name": {
+    "en": "Tetul",
+    "bn": "তেঁতুল"
+   },
+   "tagline": {
+    "en": "Tamarind water made fresh each afternoon.",
+    "bn": "প্রতিদিন বিকেলে নতুন করে বানানো তেঁতুল জল।"
+   },
+   "areaId": "mirpur",
+   "cuisines": [
+    {
+     "en": "Fuchka and chotpoti",
+     "bn": "ফুচকা ও চটপটি"
+    }
+   ],
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Chotpoti",
+    "Chotpoti with extra egg",
+    "Jhalmuri",
+    "Bhelpuri",
+    "Papri chaat",
+    "Green mango makha",
+    "Tamarind sherbet",
+    "Lemon sherbet",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Fuchka, 8 pieces",
+    "Green mango makha"
+   ]
+  },
+  {
+   "slug": "fuchka-mama",
+   "name": {
+    "en": "Fuchka Mama",
+    "bn": "ফুচকা মামা"
+   },
+   "tagline": {
+    "en": "Doi fuchka and papri chaat.",
+    "bn": "দই ফুচকা আর পাপড়ি চাট।"
+   },
+   "areaId": "uttara",
+   "cuisines": [
+    {
+     "en": "Fuchka and chotpoti",
+     "bn": "ফুচকা ও চটপটি"
+    }
+   ],
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Doi fuchka, 8 pieces",
+    "Chotpoti",
+    "Chotpoti with extra egg",
+    "Papri chaat",
+    "Ghugni",
+    "Tamarind sherbet",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Doi fuchka, 8 pieces",
+    "Papri chaat"
+   ]
+  },
+  {
+   "slug": "chotpoti-chottor",
+   "name": {
+    "en": "Chotpoti Chottor",
+    "bn": "চটপটি চত্বর"
+   },
+   "tagline": {
+    "en": "Campus chotpoti, with extra tamarind if you ask.",
+    "bn": "ক্যাম্পাসের চটপটি, চাইলে বাড়তি তেঁতুল।"
+   },
+   "areaId": "shahbag",
+   "cuisines": [
+    {
+     "en": "Fuchka and chotpoti",
+     "bn": "ফুচকা ও চটপটি"
+    }
+   ],
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Chotpoti",
+    "Chotpoti with extra egg",
+    "Bhelpuri",
+    "Green mango makha",
+    "Tamarind sherbet",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Chotpoti",
+    "Chotpoti with extra egg"
+   ]
+  },
+  {
+   "slug": "muri-makha",
+   "name": {
+    "en": "Muri Makha",
+    "bn": "মুড়ি মাখা"
+   },
+   "tagline": {
+    "en": "Jhalmuri mixed with mustard oil and green chili.",
+    "bn": "সরিষার তেল আর কাঁচা মরিচে মাখা ঝালমুড়ি।"
+   },
+   "areaId": "old-dhaka",
+   "cuisines": [
+    {
+     "en": "Fuchka and chotpoti",
+     "bn": "ফুচকা ও চটপটি"
+    }
+   ],
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Doi fuchka, 8 pieces",
+    "Chotpoti",
+    "Chotpoti with extra egg",
+    "Jhalmuri",
+    "Papri chaat",
+    "Ghugni",
+    "Green mango makha",
+    "Tamarind sherbet",
+    "Mineral water, 500 ml"
+   ],
+   "popular": [
+    "Jhalmuri",
+    "Ghugni"
+   ]
+  },
+  {
+   "slug": "tong",
+   "name": {
+    "en": "Tong",
+    "bn": "টং"
+   },
+   "tagline": {
+    "en": "Milk tea and shingara, like the stall on your street.",
+    "bn": "পাড়ার টংয়ের মতো দুধ চা আর শিঙাড়া।"
+   },
+   "areaId": "banani",
+   "cuisines": [
+    {
+     "en": "Cha and snacks",
+     "bn": "চা ও নাশতা"
+    }
+   ],
+   "dishes": [
+    "Milk tea",
+    "Red tea",
+    "Lemon tea",
+    "Masala tea",
+    "Malai tea",
+    "Shingara, 2 pieces",
+    "Somucha, 2 pieces",
+    "Beguni, 4 pieces",
+    "Dal puri, 2 pieces",
+    "Butter toast",
+    "Toast biscuits",
+    "Chola with muri"
+   ],
+   "popular": [
+    "Milk tea",
+    "Shingara, 2 pieces"
+   ]
+  },
+  {
+   "slug": "dudh-cha",
+   "name": {
+    "en": "Dudh Cha",
+    "bn": "দুধ চা"
+   },
+   "tagline": {
+    "en": "Strong milk tea, poured from a height.",
+    "bn": "উঁচু থেকে ঢালা কড়া দুধ চা।"
+   },
+   "areaId": "tejgaon",
+   "cuisines": [
+    {
+     "en": "Cha and snacks",
+     "bn": "চা ও নাশতা"
+    }
+   ],
+   "dishes": [
+    "Milk tea",
+    "Red tea",
+    "Lemon tea",
+    "Malai tea",
+    "Tandoori tea",
+    "Shingara, 2 pieces",
+    "Aloo chop, 2 pieces",
+    "Egg chop",
+    "Dal puri, 2 pieces",
+    "Butter toast",
+    "Toast biscuits"
+   ],
+   "popular": [
+    "Milk tea"
+   ]
+  },
+  {
+   "slug": "adda",
+   "name": {
+    "en": "Adda",
+    "bn": "আড্ডা"
+   },
+   "tagline": {
+    "en": "Tea, toast and somewhere to argue.",
+    "bn": "চা, টোস্ট আর তর্ক করার জায়গা।"
+   },
+   "areaId": "shahbag",
+   "cuisines": [
+    {
+     "en": "Cha and snacks",
+     "bn": "চা ও নাশতা"
+    }
+   ],
+   "dishes": [
+    "Milk tea",
+    "Red tea",
+    "Lemon tea",
+    "Masala tea",
+    "Malai tea",
+    "Tandoori tea",
+    "Shingara, 2 pieces",
+    "Piyaju, 4 pieces",
+    "Beguni, 4 pieces",
+    "Egg chop",
+    "Dal puri, 2 pieces",
+    "Butter toast",
+    "Toast biscuits",
+    "Chola with muri"
+   ],
+   "popular": [
+    "Lemon tea",
+    "Butter toast"
+   ]
+  },
+  {
+   "slug": "gorom-shingara",
+   "name": {
+    "en": "Gorom Shingara",
+    "bn": "গরম শিঙাড়া"
+   },
+   "tagline": {
+    "en": "Shingara out of the oil every twenty minutes.",
+    "bn": "বিশ মিনিট পরপর তেল থেকে নামানো শিঙাড়া।"
+   },
+   "areaId": "motijheel",
+   "cuisines": [
+    {
+     "en": "Cha and snacks",
+     "bn": "চা ও নাশতা"
+    }
+   ],
+   "dishes": [
+    "Milk tea",
+    "Red tea",
+    "Lemon tea",
+    "Masala tea",
+    "Tandoori tea",
+    "Shingara, 2 pieces",
+    "Somucha, 2 pieces",
+    "Aloo chop, 2 pieces",
+    "Dal puri, 2 pieces",
+    "Butter toast",
+    "Toast biscuits",
+    "Chola with muri"
+   ],
+   "popular": [
+    "Shingara, 2 pieces",
+    "Somucha, 2 pieces"
+   ]
+  },
+  {
+   "slug": "kettle",
+   "name": {
+    "en": "Kettle",
+    "bn": "কেটলি"
+   },
+   "tagline": {
+    "en": "Masala tea and tandoori tea, by the cup or the flask.",
+    "bn": "কাপ বা ফ্লাস্কে মশলা চা আর তন্দুরি চা।"
+   },
+   "areaId": "mohakhali",
+   "cuisines": [
+    {
+     "en": "Cha and snacks",
+     "bn": "চা ও নাশতা"
+    }
+   ],
+   "dishes": [
+    "Milk tea",
+    "Red tea",
+    "Lemon tea",
+    "Masala tea",
+    "Malai tea",
+    "Tandoori tea",
+    "Shingara, 2 pieces",
+    "Somucha, 2 pieces",
+    "Piyaju, 4 pieces",
+    "Beguni, 4 pieces",
+    "Dal puri, 2 pieces",
+    "Butter toast",
+    "Toast biscuits",
+    "Beef halim"
+   ],
+   "popular": [
+    "Masala tea",
+    "Tandoori tea"
+   ]
+  },
+  {
+   "slug": "piyaju",
+   "name": {
+    "en": "Piyaju",
+    "bn": "পিঁয়াজু"
+   },
+   "tagline": {
+    "en": "Piyaju, beguni and halim for the evening.",
+    "bn": "সন্ধ্যার পিঁয়াজু, বেগুনি আর হালিম।"
+   },
+   "areaId": "khilgaon",
+   "cuisines": [
+    {
+     "en": "Cha and snacks",
+     "bn": "চা ও নাশতা"
+    }
+   ],
+   "dishes": [
+    "Milk tea",
+    "Red tea",
+    "Lemon tea",
+    "Masala tea",
+    "Tandoori tea",
+    "Shingara, 2 pieces",
+    "Somucha, 2 pieces",
+    "Piyaju, 4 pieces",
+    "Beguni, 4 pieces",
+    "Aloo chop, 2 pieces",
+    "Egg chop",
+    "Dal puri, 2 pieces",
+    "Butter toast",
+    "Chola with muri",
+    "Beef halim"
+   ],
+   "popular": [
+    "Piyaju, 4 pieces",
+    "Beguni, 4 pieces",
+    "Beef halim"
+   ]
+  },
+  {
+   "slug": "sondhya",
+   "name": {
+    "en": "Sondhya",
+    "bn": "সন্ধ্যা"
+   },
+   "tagline": {
+    "en": "Evening snacks with malai tea.",
+    "bn": "মালাই চায়ের সঙ্গে সন্ধ্যার নাশতা।"
+   },
+   "areaId": "uttara",
+   "cuisines": [
+    {
+     "en": "Cha and snacks",
+     "bn": "চা ও নাশতা"
+    }
+   ],
+   "dishes": [
+    "Milk tea",
+    "Red tea",
+    "Lemon tea",
+    "Malai tea",
+    "Tandoori tea",
+    "Shingara, 2 pieces",
+    "Piyaju, 4 pieces",
+    "Beguni, 4 pieces",
+    "Aloo chop, 2 pieces",
+    "Egg chop",
+    "Dal puri, 2 pieces",
+    "Butter toast",
+    "Toast biscuits",
+    "Chola with muri",
+    "Beef halim"
+   ],
+   "popular": [
+    "Malai tea",
+    "Aloo chop, 2 pieces"
+   ]
+  },
+  {
+   "slug": "mishti-mukh",
+   "name": {
+    "en": "Mishti Mukh",
+    "bn": "মিষ্টি মুখ"
+   },
+   "tagline": {
+    "en": "Sweets made from the morning's chhana.",
+    "bn": "সকালের ছানায় বানানো মিষ্টি।"
+   },
+   "areaId": "uttara",
+   "cuisines": [
+    {
+     "en": "Mishti and doi",
+     "bn": "মিষ্টি ও দই"
+    }
+   ],
+   "dishes": [
+    "Roshogolla, 4 pieces",
+    "Kalojam, 4 pieces",
+    "Chomchom, 4 pieces",
+    "Sondesh, 4 pieces",
+    "Kheer kodom, 4 pieces",
+    "Motichur laddu, 4 pieces",
+    "Mixed mishti box, 1 kg",
+    "Mishti doi, 500 g",
+    "Mishti doi, cup",
+    "Roshmalai, 250 g",
+    "Firni",
+    "Amriti, 4 pieces"
+   ],
+   "popular": [
+    "Roshogolla, 4 pieces",
+    "Mixed mishti box, 1 kg"
+   ]
+  },
+  {
+   "slug": "roshomoy",
+   "name": {
+    "en": "Roshomoy",
+    "bn": "রসময়"
+   },
+   "tagline": {
+    "en": "Roshogolla and roshmalai, light on the syrup.",
+    "bn": "হালকা রসের রসগোল্লা আর রসমালাই।"
+   },
+   "areaId": "dhanmondi",
+   "cuisines": [
+    {
+     "en": "Mishti and doi",
+     "bn": "মিষ্টি ও দই"
+    }
+   ],
+   "dishes": [
+    "Roshogolla, 4 pieces",
+    "Kalojam, 4 pieces",
+    "Chomchom, 4 pieces",
+    "Sondesh, 4 pieces",
+    "Motichur laddu, 4 pieces",
+    "Mishti doi, 500 g",
+    "Mishti doi, cup",
+    "Roshmalai, 250 g",
+    "Chhanar payesh",
+    "Firni",
+    "Jilapi, 250 g",
+    "Amriti, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "popular": [
+    "Roshogolla, 4 pieces",
+    "Roshmalai, 250 g"
+   ]
+  },
+  {
+   "slug": "doi-ghor",
+   "name": {
+    "en": "Doi Ghor",
+    "bn": "দই ঘর"
+   },
+   "tagline": {
+    "en": "Mishti doi set in clay pots.",
+    "bn": "মাটির সরায় পাতা মিষ্টি দই।"
+   },
+   "areaId": "old-dhaka",
+   "cuisines": [
+    {
+     "en": "Mishti and doi",
+     "bn": "মিষ্টি ও দই"
+    }
+   ],
+   "dishes": [
+    "Roshogolla, 4 pieces",
+    "Kalojam, 4 pieces",
+    "Chomchom, 4 pieces",
+    "Kheer kodom, 4 pieces",
+    "Motichur laddu, 4 pieces",
+    "Mixed mishti box, 1 kg",
+    "Mishti doi, 500 g",
+    "Mishti doi, cup",
+    "Firni",
+    "Nimki, 200 g"
+   ],
+   "popular": [
+    "Mishti doi, 500 g"
+   ]
+  },
+  {
+   "slug": "chhana",
+   "name": {
+    "en": "Chhana",
+    "bn": "ছানা"
+   },
+   "tagline": {
+    "en": "Sondesh and chomchom from fresh chhana.",
+    "bn": "টাটকা ছানার সন্দেশ আর চমচম।"
+   },
+   "areaId": "mirpur",
+   "cuisines": [
+    {
+     "en": "Mishti and doi",
+     "bn": "মিষ্টি ও দই"
+    }
+   ],
+   "dishes": [
+    "Roshogolla, 4 pieces",
+    "Kalojam, 4 pieces",
+    "Chomchom, 4 pieces",
+    "Sondesh, 4 pieces",
+    "Kheer kodom, 4 pieces",
+    "Motichur laddu, 4 pieces",
+    "Mishti doi, 500 g",
+    "Mishti doi, cup",
+    "Roshmalai, 250 g",
+    "Firni",
+    "Jilapi, 250 g",
+    "Amriti, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "popular": [
+    "Chomchom, 4 pieces",
+    "Sondesh, 4 pieces"
+   ]
+  },
+  {
+   "slug": "sondesh",
+   "name": {
+    "en": "Sondesh",
+    "bn": "সন্দেশ"
+   },
+   "tagline": {
+    "en": "Small-batch sondesh and kheer kodom.",
+    "bn": "অল্প করে বানানো সন্দেশ আর ক্ষীর কদম।"
+   },
+   "areaId": "gulshan",
+   "cuisines": [
+    {
+     "en": "Mishti and doi",
+     "bn": "মিষ্টি ও দই"
+    }
+   ],
+   "dishes": [
+    "Roshogolla, 4 pieces",
+    "Kalojam, 4 pieces",
+    "Sondesh, 4 pieces",
+    "Kheer kodom, 4 pieces",
+    "Motichur laddu, 4 pieces",
+    "Mixed mishti box, 1 kg",
+    "Mishti doi, 500 g",
+    "Mishti doi, cup",
+    "Roshmalai, 250 g",
+    "Firni",
+    "Jilapi, 250 g",
+    "Nimki, 200 g"
+   ],
+   "popular": [
+    "Sondesh, 4 pieces",
+    "Kheer kodom, 4 pieces"
+   ]
+  },
+  {
+   "slug": "jilapi-goli",
+   "name": {
+    "en": "Jilapi Goli",
+    "bn": "জিলাপি গলি"
+   },
+   "tagline": {
+    "en": "Hot jilapi and amriti, fried through the day.",
+    "bn": "সারাদিন গরম গরম ভাজা জিলাপি আর আমৃত্তি।"
+   },
+   "areaId": "wari",
+   "cuisines": [
+    {
+     "en": "Mishti and doi",
+     "bn": "মিষ্টি ও দই"
+    }
+   ],
+   "dishes": [
+    "Roshogolla, 4 pieces",
+    "Kalojam, 4 pieces",
+    "Sondesh, 4 pieces",
+    "Kheer kodom, 4 pieces",
+    "Mishti doi, 500 g",
+    "Mishti doi, cup",
+    "Roshmalai, 250 g",
+    "Firni",
+    "Jilapi, 250 g",
+    "Amriti, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "popular": [
+    "Jilapi, 250 g",
+    "Amriti, 4 pieces"
+   ]
+  },
+  {
+   "slug": "pitha-puli",
+   "name": {
+    "en": "Pitha Puli",
+    "bn": "পিঠা পুলি"
+   },
+   "tagline": {
+    "en": "Winter pitha, made all year.",
+    "bn": "শীতের পিঠা, সারা বছর।"
+   },
+   "areaId": "shahbag",
+   "cuisines": [
+    {
+     "en": "Pitha",
+     "bn": "পিঠা"
+    }
+   ],
+   "dishes": [
+    "Bhapa pitha, 2 pieces",
+    "Dudh puli",
+    "Dudh chitoi",
+    "Payesh with date-palm jaggery",
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Patishapta, 2 pieces",
+    "Malpoa, 2 pieces",
+    "Milk tea",
+    "Red tea"
+   ],
+   "popular": [
+    "Bhapa pitha, 2 pieces",
+    "Dudh puli"
+   ]
+  },
+  {
+   "slug": "shiter-sokal",
+   "name": {
+    "en": "Shiter Sokal",
+    "bn": "শীতের সকাল"
+   },
+   "tagline": {
+    "en": "Bhapa and chitoi with date-palm jaggery.",
+    "bn": "খেজুর গুড় দিয়ে ভাপা আর চিতই।"
+   },
+   "areaId": "mohakhali",
+   "cuisines": [
+    {
+     "en": "Pitha",
+     "bn": "পিঠা"
+    }
+   ],
+   "dishes": [
+    "Bhapa pitha, 2 pieces",
+    "Dudh puli",
+    "Dudh chitoi",
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Teler pitha, 2 pieces",
+    "Milk tea",
+    "Red tea"
+   ],
+   "popular": [
+    "Bhapa pitha, 2 pieces",
+    "Chitoi pitha with bhorta, 2 pieces"
+   ]
+  },
+  {
+   "slug": "bhapa",
+   "name": {
+    "en": "Bhapa",
+    "bn": "ভাপা"
+   },
+   "tagline": {
+    "en": "Steamed pitha, still warm when it leaves.",
+    "bn": "ভাপ ওঠা পিঠা, গরম থাকতেই রওনা।"
+   },
+   "areaId": "wari",
+   "cuisines": [
+    {
+     "en": "Pitha",
+     "bn": "পিঠা"
+    }
+   ],
+   "dishes": [
+    "Bhapa pitha, 2 pieces",
+    "Dudh puli",
+    "Dudh chitoi",
+    "Payesh with date-palm jaggery",
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Patishapta, 2 pieces",
+    "Teler pitha, 2 pieces",
+    "Malpoa, 2 pieces",
+    "Milk tea",
+    "Red tea"
+   ],
+   "popular": [
+    "Bhapa pitha, 2 pieces"
+   ]
+  },
+  {
+   "slug": "nokshi",
+   "name": {
+    "en": "Nokshi",
+    "bn": "নকশি"
+   },
+   "tagline": {
+    "en": "Nokshi pitha, patterned by hand.",
+    "bn": "হাতে নকশা তোলা নকশি পিঠা।"
+   },
+   "areaId": "uttara",
+   "cuisines": [
+    {
+     "en": "Pitha",
+     "bn": "পিঠা"
+    }
+   ],
+   "dishes": [
+    "Bhapa pitha, 2 pieces",
+    "Dudh puli",
+    "Payesh with date-palm jaggery",
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Teler pitha, 2 pieces",
+    "Nokshi pitha, 4 pieces",
+    "Malpoa, 2 pieces",
+    "Milk tea",
+    "Red tea"
+   ],
+   "popular": [
+    "Nokshi pitha, 4 pieces"
+   ]
+  }
+ ],
+ "dishes": [
+  {
+   "name": {
+    "en": "Mutton kacchi biryani",
+    "bn": "খাসির কাচ্চি বিরিয়ানি"
+   },
+   "description": {
+    "en": "Basmati rice, mutton and potato cooked together under a sealed lid.",
+    "bn": "বাসমতী চাল, খাসির মাংস আর আলু একসঙ্গে দমে রান্না।"
+   }
+  },
+  {
+   "name": {
+    "en": "Beef kacchi biryani",
+    "bn": "গরুর কাচ্চি বিরিয়ানি"
+   },
+   "description": {
+    "en": "The same slow method, with beef on the bone.",
+    "bn": "একই দমের রান্না, হাড়সহ গরুর মাংসে।"
+   }
+  },
+  {
+   "name": {
+    "en": "Beef tehari",
+    "bn": "গরুর তেহারি"
+   },
+   "description": {
+    "en": "Small pieces of beef and rice cooked in mustard oil with green chili.",
+    "bn": "সরিষার তেল আর কাঁচা মরিচে ছোট টুকরো গরুর মাংস ও চাল।"
+   }
+  },
+  {
+   "name": {
+    "en": "Plain polao",
+    "bn": "সাদা পোলাও"
+   },
+   "description": {
+    "en": "Ghee rice with whole spices.",
+    "bn": "ঘি আর গোটা মশলায় রান্না পোলাও।"
+   }
+  },
+  {
+   "name": {
+    "en": "Chicken roast",
+    "bn": "চিকেন রোস্ট"
+   },
+   "description": {
+    "en": "Wedding-style chicken in a sweet, thick gravy.",
+    "bn": "বিয়ে বাড়ির ধাঁচে মিষ্টি ঘন ঝোলের মুরগি।"
+   }
+  },
+  {
+   "name": {
+    "en": "Beef rezala",
+    "bn": "গরুর রেজালা"
+   },
+   "description": {
+    "en": "Beef in a yoghurt gravy with whole green chili.",
+    "bn": "টক দইয়ের ঝোলে গরুর মাংস, সঙ্গে আস্ত কাঁচা মরিচ।"
+   }
+  },
+  {
+   "name": {
+    "en": "Jali kabab",
+    "bn": "জালি কাবাব"
+   },
+   "description": {
+    "en": "Minced beef patty in a lacy egg crust.",
+    "bn": "ডিমের জালি মোড়ানো গরুর কিমার কাবাব।"
+   }
+  },
+  {
+   "name": {
+    "en": "Onion and cucumber salad",
+    "bn": "পেঁয়াজ-শসার সালাদ"
+   },
+   "description": {
+    "en": "With lemon and green chili.",
+    "bn": "লেবু আর কাঁচা মরিচসহ।"
+   }
+  },
+  {
+   "name": {
+    "en": "Borhani",
+    "bn": "বোরহানি"
+   },
+   "description": {
+    "en": "Spiced yoghurt drink with mint and black salt.",
+    "bn": "পুদিনা আর বিট লবণ দেওয়া মশলাদার দইয়ের পানীয়।"
+   }
+  },
+  {
+   "name": {
+    "en": "Firni",
+    "bn": "ফিরনি"
+   },
+   "description": {
+    "en": "Ground rice pudding set in a clay cup.",
+    "bn": "মাটির খুরিতে জমানো চালের গুঁড়ার পায়েস।"
+   }
+  },
+  {
+   "name": {
+    "en": "Jorda",
+    "bn": "জর্দা"
+   },
+   "description": {
+    "en": "Sweet saffron-coloured rice with raisins and nuts.",
+    "bn": "কিশমিশ আর বাদাম দেওয়া মিষ্টি জর্দা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Mineral water, 500 ml",
+    "bn": "পানি, ৫০০ মিলি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Soft drink, 250 ml",
+    "bn": "কোমল পানীয়, ২৫০ মিলি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Chicken biryani",
+    "bn": "চিকেন বিরিয়ানি"
+   },
+   "description": {
+    "en": "Chicken, fragrant rice and a boiled egg.",
+    "bn": "মুরগি, সুগন্ধি চাল আর একটি সেদ্ধ ডিম।"
+   }
+  },
+  {
+   "name": {
+    "en": "Morog polao",
+    "bn": "মোরগ পোলাও"
+   },
+   "description": {
+    "en": "Chinigura rice with chicken in a mild, milky gravy.",
+    "bn": "চিনিগুঁড়া চালে মুরগি, হালকা দুধেল ঝোলে।"
+   }
+  },
+  {
+   "name": {
+    "en": "Beef sheek kabab",
+    "bn": "গরুর শিক কাবাব"
+   },
+   "description": {
+    "en": "Two skewers of minced beef, grilled over charcoal.",
+    "bn": "কয়লায় সেঁকা গরুর কিমার দুই শিক।"
+   }
+  },
+  {
+   "name": {
+    "en": "Beef boti kabab",
+    "bn": "গরুর বটি কাবাব"
+   },
+   "description": {
+    "en": "Cubes of beef marinated in papaya and spices.",
+    "bn": "পেঁপে আর মশলায় মাখানো গরুর মাংসের টুকরো।"
+   }
+  },
+  {
+   "name": {
+    "en": "Chicken tikka",
+    "bn": "চিকেন টিক্কা"
+   },
+   "description": {
+    "en": "Boneless chicken in a yoghurt marinade.",
+    "bn": "দইয়ের মশলায় মাখানো হাড়ছাড়া মুরগি।"
+   }
+  },
+  {
+   "name": {
+    "en": "Beef chaap",
+    "bn": "গরুর চাপ"
+   },
+   "description": {
+    "en": "Flattened beef fried on a wide tawa.",
+    "bn": "চওড়া তাওয়ায় ভাজা পাতলা করে পেটানো গরুর মাংস।"
+   }
+  },
+  {
+   "name": {
+    "en": "Grilled chicken, quarter",
+    "bn": "গ্রিল চিকেন, কোয়ার্টার"
+   },
+   "description": {
+    "en": "With naan sauce and salad.",
+    "bn": "নানের সস আর সালাদসহ।"
+   }
+  },
+  {
+   "name": {
+    "en": "Tandoori chicken, half",
+    "bn": "তন্দুরি চিকেন, হাফ"
+   },
+   "description": {
+    "en": "Cooked in a clay oven until the edges char.",
+    "bn": "মাটির তন্দুরে কিনারা পোড়া পোড়া হওয়া পর্যন্ত সেঁকা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Mixed kabab platter",
+    "bn": "মিক্সড কাবাব প্লাটার"
+   },
+   "description": {
+    "en": "Sheek, boti, tikka and reshmi with two naan. For two.",
+    "bn": "শিক, বটি, টিক্কা আর রেশমি, সঙ্গে দুটি নান। দুজনের জন্য।"
+   }
+  },
+  {
+   "name": {
+    "en": "Butter naan",
+    "bn": "বাটার নান"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Garlic naan",
+    "bn": "গার্লিক নান"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Plain naan",
+    "bn": "সাদা নান"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Luchi, 4 pieces",
+    "bn": "লুচি, ৪টি"
+   },
+   "description": {
+    "en": "Puffed fried bread, for the chaap.",
+    "bn": "চাপের সঙ্গে খাওয়ার ফুলকো লুচি।"
+   }
+  },
+  {
+   "name": {
+    "en": "Chicken kathi roll",
+    "bn": "চিকেন কাঠি রোল"
+   },
+   "description": {
+    "en": "Chicken tikka rolled in a porota with onion.",
+    "bn": "পেঁয়াজসহ পরোটায় মোড়ানো চিকেন টিক্কা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Beef kathi roll",
+    "bn": "বিফ কাঠি রোল"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Raita",
+    "bn": "রায়তা"
+   },
+   "description": {
+    "en": "Yoghurt with cucumber and roasted cumin.",
+    "bn": "শসা আর ভাজা জিরা দেওয়া দই।"
+   }
+  },
+  {
+   "name": {
+    "en": "Chicken sheek kabab",
+    "bn": "চিকেন শিক কাবাব"
+   },
+   "description": {
+    "en": "Two skewers, lighter and milder than the beef.",
+    "bn": "দুই শিক, গরুর চেয়ে হালকা আর কম ঝাল।"
+   }
+  },
+  {
+   "name": {
+    "en": "Reshmi kabab",
+    "bn": "রেশমি কাবাব"
+   },
+   "description": {
+    "en": "Soft chicken kabab with cream and cashew.",
+    "bn": "ক্রিম আর কাজু দেওয়া নরম চিকেন কাবাব।"
+   }
+  },
+  {
+   "name": {
+    "en": "Chicken chaap",
+    "bn": "চিকেন চাপ"
+   },
+   "description": {
+    "en": "A quarter chicken, pressed and fried in spices.",
+    "bn": "মশলায় চেপে ভাজা কোয়ার্টার মুরগি।"
+   }
+  },
+  {
+   "name": {
+    "en": "Grilled chicken, half",
+    "bn": "গ্রিল চিকেন, হাফ"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Set lunch with chicken",
+    "bn": "মুরগির সেট লাঞ্চ"
+   },
+   "description": {
+    "en": "Rice, dal, vegetable bhaji and chicken curry.",
+    "bn": "ভাত, ডাল, সবজি ভাজি আর মুরগির ঝোল।"
+   }
+  },
+  {
+   "name": {
+    "en": "Set lunch with fish",
+    "bn": "মাছের সেট লাঞ্চ"
+   },
+   "description": {
+    "en": "Rice, dal, vegetable bhaji and rui curry.",
+    "bn": "ভাত, ডাল, সবজি ভাজি আর রুই মাছের ঝোল।"
+   }
+  },
+  {
+   "name": {
+    "en": "Vegetable set lunch",
+    "bn": "সবজির সেট লাঞ্চ"
+   },
+   "description": {
+    "en": "Rice, dal, two bhortas and a bhaji.",
+    "bn": "ভাত, ডাল, দুই পদের ভর্তা আর একটি ভাজি।"
+   }
+  },
+  {
+   "name": {
+    "en": "Five-bhorta platter with rice",
+    "bn": "পাঁচ ভর্তার থালি, ভাতসহ"
+   },
+   "description": {
+    "en": "Five bhortas of the day, rice and dal.",
+    "bn": "দিনের পাঁচ পদের ভর্তা, ভাত আর ডাল।"
+   }
+  },
+  {
+   "name": {
+    "en": "Aloo bhorta",
+    "bn": "আলু ভর্তা"
+   },
+   "description": {
+    "en": "Mashed potato with mustard oil, onion and dried chili.",
+    "bn": "সরিষার তেল, পেঁয়াজ আর শুকনা মরিচে মাখা আলু।"
+   }
+  },
+  {
+   "name": {
+    "en": "Begun bhorta",
+    "bn": "বেগুন ভর্তা"
+   },
+   "description": {
+    "en": "Fire-roasted aubergine, mashed.",
+    "bn": "আগুনে পোড়ানো বেগুনের ভর্তা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Black cumin bhorta",
+    "bn": "কালোজিরা ভর্তা"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Shutki bhorta",
+    "bn": "শুঁটকি ভর্তা"
+   },
+   "description": {
+    "en": "Dried fish pounded with garlic and a lot of chili.",
+    "bn": "রসুন আর প্রচুর মরিচে বাটা শুঁটকি।"
+   }
+  },
+  {
+   "name": {
+    "en": "Mixed vegetable bhaji",
+    "bn": "মিক্সড সবজি ভাজি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Rui fish curry",
+    "bn": "রুই মাছের ঝোল"
+   },
+   "description": {
+    "en": "With potato and tomato.",
+    "bn": "আলু আর টমেটো দিয়ে।"
+   }
+  },
+  {
+   "name": {
+    "en": "Fried ilish",
+    "bn": "ইলিশ ভাজা"
+   },
+   "description": {
+    "en": "One piece, fried in its own oil.",
+    "bn": "এক টুকরা, নিজের তেলেই ভাজা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Pabda jhol",
+    "bn": "পাবদা মাছের ঝোল"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Prawn malai curry",
+    "bn": "চিংড়ি মালাইকারি"
+   },
+   "description": {
+    "en": "Prawns in coconut milk.",
+    "bn": "নারকেলের দুধে চিংড়ি।"
+   }
+  },
+  {
+   "name": {
+    "en": "Small fish chorchori",
+    "bn": "ছোট মাছের চচ্চড়ি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Deshi chicken curry",
+    "bn": "দেশি মুরগির ঝোল"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Beef bhuna",
+    "bn": "গরুর ভুনা"
+   },
+   "description": {
+    "en": "Cooked down until the gravy clings.",
+    "bn": "ঝোল শুকিয়ে মাখা মাখা করে রান্না।"
+   }
+  },
+  {
+   "name": {
+    "en": "Egg curry",
+    "bn": "ডিমের ঝোল"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Plain rice",
+    "bn": "সাদা ভাত"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Masoor dal",
+    "bn": "মসুর ডাল"
+   },
+   "description": {
+    "en": "Thin red lentil dal with fried garlic.",
+    "bn": "রসুন ফোড়ন দেওয়া পাতলা মসুর ডাল।"
+   }
+  },
+  {
+   "name": {
+    "en": "Mishti doi, cup",
+    "bn": "মিষ্টি দই, কাপ"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Tomato bhorta",
+    "bn": "টমেটো ভর্তা"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Prawn bhorta",
+    "bn": "চিংড়ি ভর্তা"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Red amaranth bhaji",
+    "bn": "লাল শাক ভাজি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Begun bhaja, 2 slices",
+    "bn": "বেগুন ভাজা, ২ টুকরা"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Kala bhuna",
+    "bn": "কালা ভুনা"
+   },
+   "description": {
+    "en": "Chattogram-style beef, cooked dark over hours.",
+    "bn": "চট্টগ্রামের ধাঁচে ঘণ্টার পর ঘণ্টা কষানো গরুর মাংস।"
+   }
+  },
+  {
+   "name": {
+    "en": "Egg bhorta",
+    "bn": "ডিম ভর্তা"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Shorshe ilish",
+    "bn": "সরষে ইলিশ"
+   },
+   "description": {
+    "en": "Ilish steamed in mustard paste.",
+    "bn": "সরষে বাটায় ভাপানো ইলিশ।"
+   }
+  },
+  {
+   "name": {
+    "en": "Panta bhat with fried ilish",
+    "bn": "পান্তা ইলিশ"
+   },
+   "description": {
+    "en": "Fermented rice, fried ilish, onion and green chili.",
+    "bn": "পান্তা ভাত, ইলিশ ভাজা, পেঁয়াজ আর কাঁচা মরিচ।"
+   }
+  },
+  {
+   "name": {
+    "en": "Panta bhat with three bhortas",
+    "bn": "পান্তা ভাত ও তিন পদের ভর্তা"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Bhuna khichuri with beef",
+    "bn": "গরুর মাংসের ভুনা খিচুড়ি"
+   },
+   "description": {
+    "en": "Rice and lentils cooked dry, with beef bhuna on top.",
+    "bn": "ঝরঝরে ভুনা খিচুড়ি, ওপরে গরুর ভুনা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Khichuri with egg and begun bhaja",
+    "bn": "ডিম ও বেগুন ভাজাসহ খিচুড়ি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Khichuri with fried ilish",
+    "bn": "ইলিশ ভাজাসহ খিচুড়ি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Porota, 2 pieces",
+    "bn": "পরোটা, ২টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Dal bhaji",
+    "bn": "ডাল ভাজি"
+   },
+   "description": {
+    "en": "Thick chana dal for dipping porota.",
+    "bn": "পরোটা দিয়ে খাওয়ার ঘন বুটের ডাল।"
+   }
+  },
+  {
+   "name": {
+    "en": "Egg omelette",
+    "bn": "ডিম অমলেট"
+   },
+   "description": {
+    "en": "With onion and green chili.",
+    "bn": "পেঁয়াজ আর কাঁচা মরিচ দিয়ে।"
+   }
+  },
+  {
+   "name": {
+    "en": "Morning mixed vegetable",
+    "bn": "সকালের মিক্সড সবজি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Suji halwa",
+    "bn": "সুজির হালুয়া"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Tandoor ruti",
+    "bn": "তন্দুর রুটি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Beef nehari",
+    "bn": "গরুর নেহারি"
+   },
+   "description": {
+    "en": "Shank simmered overnight, eaten with porota or naan.",
+    "bn": "সারারাত জ্বাল দেওয়া গরুর পায়ের মাংস, পরোটা বা নানের সঙ্গে।"
+   }
+  },
+  {
+   "name": {
+    "en": "Paya",
+    "bn": "পায়া"
+   },
+   "description": {
+    "en": "Trotter soup, thin and peppery.",
+    "bn": "পাতলা, গোলমরিচের ঝাঁজওয়ালা পায়ার স্যুপ।"
+   }
+  },
+  {
+   "name": {
+    "en": "Milk tea",
+    "bn": "দুধ চা"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Red tea",
+    "bn": "রং চা"
+   },
+   "description": {
+    "en": "Black tea with ginger.",
+    "bn": "আদা দেওয়া লাল চা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Mughlai porota",
+    "bn": "মোগলাই পরোটা"
+   },
+   "description": {
+    "en": "Porota folded around egg and minced beef.",
+    "bn": "ডিম আর গরুর কিমা ভরা ভাঁজ করা পরোটা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Nolli nehari",
+    "bn": "নল্লি নেহারি"
+   },
+   "description": {
+    "en": "With a marrow bone.",
+    "bn": "মজ্জাসহ নল্লি হাড় দিয়ে।"
+   }
+  },
+  {
+   "name": {
+    "en": "Bakorkhani, 6 pieces",
+    "bn": "বাকরখানি, ৬টি"
+   },
+   "description": {
+    "en": "Crisp, layered and salty. For tea.",
+    "bn": "খাস্তা, পরতে পরতে, নোনতা। চায়ের সঙ্গে।"
+   }
+  },
+  {
+   "name": {
+    "en": "Sweet bakorkhani, 6 pieces",
+    "bn": "মিষ্টি বাকরখানি, ৬টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Cheese bakorkhani, 6 pieces",
+    "bn": "পনির বাকরখানি, ৬টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Malai tea",
+    "bn": "মালাই চা"
+   },
+   "description": {
+    "en": "Milk tea with a layer of cream on top.",
+    "bn": "ওপরে মালাইয়ের সর ভাসানো দুধ চা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Thai soup",
+    "bn": "থাই স্যুপ"
+   },
+   "description": {
+    "en": "The thick, red, sweet-and-sour soup that Dhaka calls Thai.",
+    "bn": "ঢাকায় যাকে থাই স্যুপ বলে: ঘন, লালচে, টক-মিষ্টি।"
+   }
+  },
+  {
+   "name": {
+    "en": "Vegetable spring roll, 4 pieces",
+    "bn": "ভেজিটেবল স্প্রিং রোল, ৪টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Chicken fried rice",
+    "bn": "চিকেন ফ্রাইড রাইস"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Egg fried rice",
+    "bn": "এগ ফ্রাইড রাইস"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Chicken chow mein",
+    "bn": "চিকেন চাওমিন"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Vegetable chow mein",
+    "bn": "ভেজিটেবল চাওমিন"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Chili chicken",
+    "bn": "চিলি চিকেন"
+   },
+   "description": {
+    "en": "Fried chicken tossed with capsicum, onion and green chili.",
+    "bn": "ক্যাপসিকাম, পেঁয়াজ আর কাঁচা মরিচে নাড়া ভাজা মুরগি।"
+   }
+  },
+  {
+   "name": {
+    "en": "Chinese mixed vegetable",
+    "bn": "চাইনিজ মিক্সড ভেজিটেবল"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Set menu for one",
+    "bn": "একজনের সেট মেনু"
+   },
+   "description": {
+    "en": "Fried rice, chili chicken and mixed vegetable.",
+    "bn": "ফ্রাইড রাইস, চিলি চিকেন আর মিক্সড ভেজিটেবল।"
+   }
+  },
+  {
+   "name": {
+    "en": "Chicken corn soup",
+    "bn": "চিকেন কর্ন স্যুপ"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Fried wonton, 6 pieces",
+    "bn": "ফ্রাইড ওয়ানটন, ৬টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Mixed fried rice",
+    "bn": "মিক্সড ফ্রাইড রাইস"
+   },
+   "description": {
+    "en": "Chicken, prawn and egg.",
+    "bn": "মুরগি, চিংড়ি আর ডিম দিয়ে।"
+   }
+  },
+  {
+   "name": {
+    "en": "Szechuan chicken",
+    "bn": "সেজুয়ান চিকেন"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Beef chili onion",
+    "bn": "বিফ চিলি অনিয়ন"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Sweet and sour prawn",
+    "bn": "সুইট অ্যান্ড সাওয়ার প্রন"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Beef burger",
+    "bn": "বিফ বার্গার"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Beef cheeseburger",
+    "bn": "বিফ চিজবার্গার"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Naga chili burger",
+    "bn": "নাগা বার্গার"
+   },
+   "description": {
+    "en": "Made with naga morich. It is very hot.",
+    "bn": "নাগা মরিচ দিয়ে তৈরি। খুবই ঝাল।"
+   }
+  },
+  {
+   "name": {
+    "en": "Crispy chicken burger",
+    "bn": "ক্রিস্পি চিকেন বার্গার"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Burger, fries and a drink",
+    "bn": "বার্গার, ফ্রাই আর পানীয়"
+   },
+   "description": {
+    "en": "Beef burger with fries and a soft drink.",
+    "bn": "বিফ বার্গারের সঙ্গে ফ্রাই আর কোমল পানীয়।"
+   }
+  },
+  {
+   "name": {
+    "en": "Hot wings, 6 pieces",
+    "bn": "হট উইংস, ৬টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "French fries",
+    "bn": "ফ্রেঞ্চ ফ্রাই"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Coleslaw",
+    "bn": "কোলস্ল"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Double smash burger",
+    "bn": "ডাবল স্ম্যাশ বার্গার"
+   },
+   "description": {
+    "en": "Two thin patties, cheese and pickles.",
+    "bn": "দুটি পাতলা প্যাটি, চিজ আর আচার।"
+   }
+  },
+  {
+   "name": {
+    "en": "Fried chicken, 2 pieces",
+    "bn": "ফ্রাইড চিকেন, ২ পিস"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Fried chicken, 4 pieces",
+    "bn": "ফ্রাইড চিকেন, ৪ পিস"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Masala wedges",
+    "bn": "মশলা ওয়েজেস"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Chocolate milkshake",
+    "bn": "চকলেট মিল্কশেক"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Club sandwich",
+    "bn": "ক্লাব স্যান্ডউইচ"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Fuchka, 8 pieces",
+    "bn": "ফুচকা, ৮টি"
+   },
+   "description": {
+    "en": "Crisp shells, spiced peas and potato, tamarind water.",
+    "bn": "মুচমুচে খোলে মশলাদার ডাবলি আর আলু, সঙ্গে তেঁতুল জল।"
+   }
+  },
+  {
+   "name": {
+    "en": "Chotpoti",
+    "bn": "চটপটি"
+   },
+   "description": {
+    "en": "Stewed white peas with egg, onion and tamarind.",
+    "bn": "সেদ্ধ ডাবলি, ডিম, পেঁয়াজ আর তেঁতুল।"
+   }
+  },
+  {
+   "name": {
+    "en": "Jhalmuri",
+    "bn": "ঝালমুড়ি"
+   },
+   "description": {
+    "en": "Puffed rice with mustard oil, onion and green chili.",
+    "bn": "সরিষার তেল, পেঁয়াজ আর কাঁচা মরিচে মাখা মুড়ি।"
+   }
+  },
+  {
+   "name": {
+    "en": "Papri chaat",
+    "bn": "পাপড়ি চাট"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Green mango makha",
+    "bn": "কাঁচা আম মাখা"
+   },
+   "description": {
+    "en": "Green mango with chili, salt and mustard.",
+    "bn": "মরিচ, লবণ আর কাসুন্দিতে মাখা কাঁচা আম।"
+   }
+  },
+  {
+   "name": {
+    "en": "Tamarind sherbet",
+    "bn": "তেঁতুলের শরবত"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Lemon sherbet",
+    "bn": "লেবুর শরবত"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Chotpoti with extra egg",
+    "bn": "বাড়তি ডিমসহ চটপটি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Bhelpuri",
+    "bn": "ভেলপুরি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Doi fuchka, 8 pieces",
+    "bn": "দই ফুচকা, ৮টি"
+   },
+   "description": {
+    "en": "Topped with sweet yoghurt.",
+    "bn": "ওপরে মিষ্টি দই।"
+   }
+  },
+  {
+   "name": {
+    "en": "Ghugni",
+    "bn": "ঘুগনি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Lemon tea",
+    "bn": "লেবু চা"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Masala tea",
+    "bn": "মশলা চা"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Shingara, 2 pieces",
+    "bn": "শিঙাড়া, ২টি"
+   },
+   "description": {
+    "en": "Potato filling with peanuts.",
+    "bn": "বাদাম দেওয়া আলুর পুর।"
+   }
+  },
+  {
+   "name": {
+    "en": "Somucha, 2 pieces",
+    "bn": "সমুচা, ২টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Beguni, 4 pieces",
+    "bn": "বেগুনি, ৪টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Dal puri, 2 pieces",
+    "bn": "ডাল পুরি, ২টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Butter toast",
+    "bn": "বাটার টোস্ট"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Toast biscuits",
+    "bn": "টোস্ট বিস্কুট"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Chola with muri",
+    "bn": "ছোলা মুড়ি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Tandoori tea",
+    "bn": "তন্দুরি চা"
+   },
+   "description": {
+    "en": "Poured into a heated clay cup.",
+    "bn": "গরম মাটির ভাঁড়ে ঢালা চা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Aloo chop, 2 pieces",
+    "bn": "আলুর চপ, ২টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Egg chop",
+    "bn": "ডিমের চপ"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Piyaju, 4 pieces",
+    "bn": "পিঁয়াজু, ৪টি"
+   },
+   "description": {
+    "en": "Lentil and onion fritters.",
+    "bn": "ডাল আর পেঁয়াজের বড়া।"
+   }
+  },
+  {
+   "name": {
+    "en": "Beef halim",
+    "bn": "গরুর হালিম"
+   },
+   "description": {
+    "en": "Lentils, wheat and beef cooked down to a porridge.",
+    "bn": "ডাল, গম আর গরুর মাংস ঘুঁটে রান্না।"
+   }
+  },
+  {
+   "name": {
+    "en": "Roshogolla, 4 pieces",
+    "bn": "রসগোল্লা, ৪টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Kalojam, 4 pieces",
+    "bn": "কালোজাম, ৪টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Chomchom, 4 pieces",
+    "bn": "চমচম, ৪টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Sondesh, 4 pieces",
+    "bn": "সন্দেশ, ৪টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Kheer kodom, 4 pieces",
+    "bn": "ক্ষীর কদম, ৪টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Motichur laddu, 4 pieces",
+    "bn": "মতিচুর লাড্ডু, ৪টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Mixed mishti box, 1 kg",
+    "bn": "মিক্সড মিষ্টির বক্স, ১ কেজি"
+   },
+   "description": {
+    "en": "Roshogolla, kalojam, chomchom and sondesh.",
+    "bn": "রসগোল্লা, কালোজাম, চমচম আর সন্দেশ।"
+   }
+  },
+  {
+   "name": {
+    "en": "Mishti doi, 500 g",
+    "bn": "মিষ্টি দই, ৫০০ গ্রাম"
+   },
+   "description": {
+    "en": "Set in a clay pot.",
+    "bn": "মাটির সরায় পাতা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Roshmalai, 250 g",
+    "bn": "রসমালাই, ২৫০ গ্রাম"
+   },
+   "description": {
+    "en": "Small chhana balls in thickened milk.",
+    "bn": "ঘন দুধে ছোট ছোট ছানার গোল্লা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Amriti, 4 pieces",
+    "bn": "আমৃত্তি, ৪টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Chhanar payesh",
+    "bn": "ছানার পায়েস"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Jilapi, 250 g",
+    "bn": "জিলাপি, ২৫০ গ্রাম"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Nimki, 200 g",
+    "bn": "নিমকি, ২০০ গ্রাম"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Bhapa pitha, 2 pieces",
+    "bn": "ভাপা পিঠা, ২টি"
+   },
+   "description": {
+    "en": "Steamed rice cake with coconut and date-palm jaggery.",
+    "bn": "নারকেল আর খেজুর গুড় দেওয়া ভাপানো চালের পিঠা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Dudh puli",
+    "bn": "দুধ পুলি"
+   },
+   "description": {
+    "en": "Coconut dumplings in sweet milk.",
+    "bn": "মিষ্টি দুধে নারকেলের পুলি।"
+   }
+  },
+  {
+   "name": {
+    "en": "Dudh chitoi",
+    "bn": "দুধ চিতই"
+   },
+   "description": {
+    "en": "Chitoi soaked overnight in jaggery milk.",
+    "bn": "গুড়ের দুধে সারারাত ভেজানো চিতই।"
+   }
+  },
+  {
+   "name": {
+    "en": "Payesh with date-palm jaggery",
+    "bn": "খেজুর গুড়ের পায়েস"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Chitoi pitha with bhorta, 2 pieces",
+    "bn": "চিতই পিঠা ও ভর্তা, ২টি"
+   },
+   "description": {
+    "en": "With mustard and coriander bhorta.",
+    "bn": "সরষে আর ধনেপাতা ভর্তার সঙ্গে।"
+   }
+  },
+  {
+   "name": {
+    "en": "Patishapta, 2 pieces",
+    "bn": "পাটিসাপটা, ২টি"
+   },
+   "description": {
+    "en": "Thin crepe rolled around kheer.",
+    "bn": "ক্ষীরের পুর ভরা পাতলা পিঠা।"
+   }
+  },
+  {
+   "name": {
+    "en": "Malpoa, 2 pieces",
+    "bn": "মালপোয়া, ২টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Teler pitha, 2 pieces",
+    "bn": "তেলের পিঠা, ২টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  },
+  {
+   "name": {
+    "en": "Nokshi pitha, 4 pieces",
+    "bn": "নকশি পিঠা, ৪টি"
+   },
+   "description": {
+    "en": "",
+    "bn": ""
+   }
+  }
+ ]
+}

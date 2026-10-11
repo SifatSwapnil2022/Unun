@@ -1,0 +1,746 @@
+@import 'tailwindcss';
+
+@import '@fontsource-variable/bricolage-grotesque/wdth.css';
+@import '@fontsource-variable/instrument-sans/wght.css';
+@import '@fontsource-variable/anek-bangla/wght.css';
+@import '@fontsource/dm-mono/latin-400.css';
+@import '@fontsource/dm-mono/latin-500.css';
+
+/*
+ * Design tokens. The palette comes from a clay stove: soot, ember, ash,
+ * plus three kitchen colours used as flat blocks, never as gradients.
+ */
+@theme {
+  --color-soot: #16120e;
+  --color-soot-soft: #2a231c;
+  --color-ember: #ff5b1f;
+  --color-ash: #efe7db;
+  --color-ash-deep: #ddd2c1;
+  --color-turmeric: #ffc247;
+  --color-leaf: #1f6b45;
+  --color-clay: #8a3b22;
+  --color-paper: #fffaf0;
+
+  --font-display:
+    'Bricolage Grotesque Variable', 'Anek Bangla Variable', system-ui, sans-serif;
+  --font-sans: 'Instrument Sans Variable', 'Anek Bangla Variable', system-ui, sans-serif;
+  --font-mono: 'DM Mono', 'Anek Bangla Variable', ui-monospace, monospace;
+
+  --text-hero: clamp(2.75rem, 7.2vw, 6.5rem);
+  --text-section: clamp(2rem, 4.4vw, 3.75rem);
+
+  --ease-out-quint: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+@layer base {
+  :root {
+    /*
+     * The height of the tab bar at the bottom of a phone screen, including the strip a
+     * phone keeps for its own home gesture. Zero on wider screens, where the bar is gone.
+     */
+    --tabbar: calc(3.5rem + env(safe-area-inset-bottom));
+  }
+
+  @media (min-width: 48rem) {
+    :root {
+      --tabbar: 0px;
+    }
+  }
+
+  html {
+    background: var(--color-ash);
+    color: var(--color-soot);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    scroll-behavior: smooth;
+    /* A phone must not enlarge the text by itself when it is turned on its side. */
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    /* The grey flash a phone draws on every tap. Pressed states are drawn here instead. */
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Anek Bangla sits lower and wider than the Latin faces, so Bangla text gets more leading. */
+  html:lang(bn) {
+    line-height: 1.7;
+  }
+
+  body {
+    margin: 0;
+    min-height: 100svh;
+  }
+
+  /* The focus ring is soot on light grounds and turmeric on dark ones. */
+  :focus-visible {
+    outline: 3px solid var(--color-soot);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  :is(.bg-soot, .bg-clay, .bg-leaf) :focus-visible {
+    outline-color: var(--color-turmeric);
+  }
+
+  ::selection {
+    background: var(--color-ember);
+    color: var(--color-soot);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+  }
+}
+
+@layer components {
+  /*
+   * Page column: 12 columns on a 1240px measure with a fluid gutter. On a phone held
+   * sideways the gutter grows to clear the camera cut-out.
+   */
+  .page-column {
+    width: 100%;
+    max-width: 1240px;
+    margin-inline: auto;
+    padding-left: max(clamp(1.25rem, 4vw, 3rem), env(safe-area-inset-left));
+    padding-right: max(clamp(1.25rem, 4vw, 3rem), env(safe-area-inset-right));
+  }
+
+  /* The header clears the status bar when the site runs as an app from the home screen. */
+  .site-header {
+    padding-top: calc(1.5rem + env(safe-area-inset-top));
+  }
+
+  @media (min-width: 40rem) {
+    .site-header {
+      padding-top: calc(1.75rem + env(safe-area-inset-top));
+    }
+  }
+
+  /* The tab bar at the bottom of a phone screen. Words only, like the rest of the site. */
+  .mobile-tabs {
+    position: fixed;
+    inset-inline: 0;
+    bottom: 0;
+    z-index: 40;
+    border-top: 1px solid rgb(239 231 219 / 0.18);
+    background: var(--color-soot);
+    padding-bottom: env(safe-area-inset-bottom);
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+
+  .mobile-tab {
+    display: flex;
+    height: 3.5rem;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    border-top: 3px solid transparent;
+    margin-top: -1px;
+    padding-inline: 0.25rem;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: rgb(239 231 219 / 0.72);
+  }
+
+  .mobile-tab[aria-current='page'] {
+    border-top-color: var(--color-turmeric);
+    color: var(--color-turmeric);
+  }
+
+  .mobile-tab:active {
+    background: var(--color-soot-soft);
+  }
+
+  /* Grey blocks that stand in for content on its way. */
+  .skeleton {
+    background: var(--color-ash-deep);
+    animation: skeleton-breathe 1.4s ease-in-out infinite alternate;
+  }
+
+  .skeleton-dark {
+    background: var(--color-soot-soft);
+    animation: skeleton-breathe 1.4s ease-in-out infinite alternate;
+  }
+
+  @keyframes skeleton-breathe {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0.55;
+    }
+  }
+
+  .display {
+    font-family: var(--font-display);
+    font-stretch: 82%;
+    font-weight: 700;
+    line-height: 0.96;
+    letter-spacing: -0.025em;
+  }
+
+  html:lang(bn) .display {
+    line-height: 1.22;
+    letter-spacing: 0;
+  }
+
+  /* The one-line logo draws itself once when it first appears. */
+  .logo-line {
+    stroke-dasharray: 1;
+    stroke-dashoffset: 0;
+  }
+
+  .logo-line[data-draw='true'] {
+    animation: logo-draw 1.5s var(--ease-out-quint) both;
+  }
+
+  @keyframes logo-draw {
+    0% {
+      stroke-dashoffset: 1;
+      opacity: 0;
+    }
+    6% {
+      opacity: 1;
+    }
+    100% {
+      stroke-dashoffset: 0;
+      opacity: 1;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .logo-line[data-draw='true'] {
+      animation: none;
+    }
+  }
+}
+
+@layer components {
+  /* Firelight behind the hero. The WebGL embers are drawn on top of it. */
+  .hero-glow {
+    background: radial-gradient(
+      62% 58% at 76% 108%,
+      rgb(255 91 31 / 0.42) 0%,
+      rgb(255 91 31 / 0.12) 45%,
+      transparent 72%
+    );
+    animation: hero-breathe 5.5s ease-in-out infinite;
+  }
+
+  @keyframes hero-breathe {
+    0%,
+    100% {
+      opacity: 0.78;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+
+  /* Page-load sequence: the logo draws, the headline lines rise, then the rest fades in. */
+  .hero-line {
+    display: block;
+    overflow: hidden;
+    padding-bottom: 0.08em;
+  }
+
+  .hero-line > span {
+    display: block;
+    animation: hero-rise 0.9s var(--ease-out-quint) both;
+  }
+
+  .hero-fade {
+    animation: hero-fade 0.8s ease-out 0.7s both;
+  }
+
+  @keyframes hero-rise {
+    from {
+      transform: translateY(105%);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes hero-fade {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+
+  /* Torn lower edge of the receipt. */
+  .receipt-edge {
+    height: 14px;
+    background:
+      linear-gradient(135deg, var(--color-paper) 50%, transparent 50%) 0 0 / 14px 14px
+        repeat-x,
+      linear-gradient(225deg, var(--color-paper) 50%, transparent 50%) 0 0 / 14px 14px
+        repeat-x;
+  }
+
+  /* Hero film: three clips, one at a time, cross-faded. */
+  .film-clip {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 0.9s ease;
+  }
+
+  .film-clip[data-active='true'] {
+    opacity: 1;
+  }
+
+  /* The line under a film step fills while its clip plays. */
+  .film-track {
+    display: block;
+    height: 3px;
+    background: rgb(239 231 219 / 0.28);
+  }
+
+  .film-track > span {
+    display: block;
+    height: 100%;
+    background: var(--color-turmeric);
+    transform-origin: left;
+    transform: scaleX(0);
+  }
+
+  .film-track[data-state='done'] > span {
+    transform: scaleX(1);
+  }
+
+  .film-track[data-state='active'] > span {
+    animation: film-fill var(--film-scene, 5.6s) linear forwards;
+  }
+
+  .film-track[data-paused='true'] > span {
+    animation-play-state: paused;
+  }
+
+  @keyframes film-fill {
+    to {
+      transform: scaleX(1);
+    }
+  }
+
+  /* The small outlined links in the header: bag, account, language. */
+  .header-pill {
+    border: 1px solid rgb(239 231 219 / 0.4);
+    border-radius: 9999px;
+    padding: 0.5rem 0.8rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: var(--color-ash);
+    white-space: nowrap;
+    transition:
+      border-color 0.15s ease,
+      color 0.15s ease;
+  }
+
+  .header-pill:hover {
+    border-color: var(--color-turmeric);
+    color: var(--color-turmeric);
+  }
+
+  @media (min-width: 40rem) {
+    .header-pill {
+      padding-inline: 1rem;
+    }
+  }
+
+  /* Tabs of a workspace, on its soot band. */
+  .work-tab {
+    display: block;
+    border-bottom: 3px solid transparent;
+    padding: 0.6rem 0;
+    font-size: 1.0625rem;
+    font-weight: 600;
+    color: rgb(239 231 219 / 0.75);
+    white-space: nowrap;
+  }
+
+  .work-tab:hover {
+    color: var(--color-turmeric);
+  }
+
+  .work-tab[aria-current='page'] {
+    border-bottom-color: var(--color-turmeric);
+    color: var(--color-ash);
+  }
+
+  /* A paper ticket: an order as the kitchen or the rider handles it. */
+  .ticket {
+    background: var(--color-paper);
+    padding: 1.25rem;
+  }
+
+  .ticket-rule {
+    border-top: 2px dashed rgb(22 18 14 / 0.3);
+  }
+
+  /* A small label for an order's state. */
+  .chip {
+    display: inline-block;
+    border-radius: 9999px;
+    padding: 0.15rem 0.7rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    line-height: 1.5;
+    white-space: nowrap;
+  }
+
+  /* An on/off switch. */
+  .switch {
+    position: relative;
+    flex-shrink: 0;
+    width: 3.5rem;
+    height: 2rem;
+    border: 2px solid var(--color-soot);
+    border-radius: 9999px;
+    background: var(--color-paper);
+    transition: background-color 0.15s ease;
+  }
+
+  .switch::after {
+    content: '';
+    position: absolute;
+    top: 0.25rem;
+    left: 0.25rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    border-radius: 9999px;
+    background: var(--color-soot);
+    transition: transform 0.15s ease;
+  }
+
+  .switch[aria-checked='true'] {
+    background: var(--color-leaf);
+  }
+
+  .switch[aria-checked='true']::after {
+    transform: translateX(1.5rem);
+    background: var(--color-paper);
+  }
+
+  .switch:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  /*
+   * The delivery map. The street tiles are tinted towards the page's ash, so the map
+   * sits in the palette and the ember line is the only strong colour on it.
+   */
+  .delivery-map {
+    position: relative;
+    isolation: isolate;
+    z-index: 0;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    border-radius: 1.75rem;
+    overflow: hidden;
+    background: var(--color-ash-deep);
+    font-family: var(--font-sans);
+  }
+
+  @media (min-width: 40rem) {
+    .delivery-map {
+      aspect-ratio: 16 / 9;
+    }
+  }
+
+  .delivery-map .leaflet-tile-pane {
+    filter: grayscale(1) sepia(0.32) brightness(1.02) contrast(0.96);
+  }
+
+  .delivery-map .leaflet-control-attribution {
+    background: rgb(255 250 240 / 0.85);
+    font-size: 0.6875rem;
+    color: var(--color-soot);
+  }
+
+  .delivery-map .leaflet-control-attribution a {
+    color: inherit;
+    text-decoration: underline;
+  }
+
+  .delivery-map .leaflet-bar {
+    border: 2px solid var(--color-soot);
+    border-radius: 0.75rem;
+    overflow: hidden;
+  }
+
+  .delivery-map .leaflet-bar a {
+    width: 2.25rem;
+    height: 2.25rem;
+    line-height: 2.25rem;
+    background: var(--color-paper);
+    color: var(--color-soot);
+  }
+
+  .map-pin-anchor {
+    border: 0;
+    background: none;
+  }
+
+  /* A dot on the spot, and the name on a label next to it. */
+  .map-pin {
+    position: absolute;
+    left: -0.4375rem;
+    top: -0.4375rem;
+    width: 0.875rem;
+    height: 0.875rem;
+    border: 3px solid var(--color-paper);
+    border-radius: 9999px;
+    background: var(--color-soot);
+  }
+
+  .map-pin-name {
+    position: absolute;
+    border-radius: 9999px;
+    background: var(--color-soot);
+    padding: 0.2rem 0.75rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    line-height: 1.5;
+    color: var(--color-ash);
+    white-space: nowrap;
+  }
+
+  .map-pin-name-above {
+    left: 50%;
+    bottom: calc(100% + 0.5rem);
+    transform: translateX(-50%);
+  }
+
+  .map-pin-name-below {
+    left: 50%;
+    top: calc(100% + 0.5rem);
+    transform: translateX(-50%);
+  }
+
+  .map-pin-name-beside {
+    left: calc(100% + 0.625rem);
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  .map-pin-door,
+  .map-pin-door .map-pin-name {
+    background: var(--color-ember);
+    color: var(--color-soot);
+  }
+
+  .map-pin-rider {
+    left: -0.625rem;
+    top: -0.625rem;
+    width: 1.25rem;
+    height: 1.25rem;
+    background: var(--color-turmeric);
+    animation: map-pulse 1.8s ease-out infinite;
+  }
+
+  .map-pin-rider .map-pin-name {
+    background: var(--color-turmeric);
+    color: var(--color-soot);
+  }
+
+  @keyframes map-pulse {
+    from {
+      box-shadow: 0 0 0 0 rgb(255 194 71 / 0.7);
+    }
+    to {
+      box-shadow: 0 0 0 1.1rem rgb(255 194 71 / 0);
+    }
+  }
+
+  /* Buttons. One shape, three weights. */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.6rem;
+    border-radius: 9999px;
+    border: 2px solid transparent;
+    padding: 0.7rem 1.5rem;
+    font-size: 1.0625rem;
+    font-weight: 600;
+    line-height: 1.25;
+    text-align: center;
+    transition:
+      background-color 0.15s ease,
+      color 0.15s ease,
+      border-color 0.15s ease;
+  }
+
+  /* A button answers the finger at once, before the page behind it has changed. */
+  .btn:active:not(:disabled) {
+    transform: scale(0.98);
+  }
+
+  .btn-primary {
+    background: var(--color-ember);
+    color: var(--color-soot);
+  }
+
+  .btn-primary:hover {
+    background: var(--color-turmeric);
+  }
+
+  .btn-dark {
+    background: var(--color-soot);
+    color: var(--color-ash);
+  }
+
+  .btn-dark:hover {
+    background: var(--color-soot-soft);
+  }
+
+  .btn-outline {
+    border-color: currentColor;
+  }
+
+  .btn-outline:hover {
+    background: var(--color-soot);
+    border-color: var(--color-soot);
+    color: var(--color-ash);
+  }
+
+  .btn:disabled,
+  .btn[aria-disabled='true'] {
+    background: var(--color-ash-deep);
+    border-color: transparent;
+    color: rgb(22 18 14 / 0.55);
+    cursor: not-allowed;
+  }
+
+  /* Form fields. */
+  .field-label {
+    display: block;
+    font-size: 1rem;
+    font-weight: 600;
+  }
+
+  .field-input {
+    display: block;
+    width: 100%;
+    margin-top: 0.5rem;
+    border: 2px solid var(--color-soot);
+    border-radius: 0.875rem;
+    background: var(--color-paper);
+    padding: 0.7rem 1rem;
+    font-size: 1.0625rem;
+    line-height: 1.4;
+    color: var(--color-soot);
+  }
+
+  /*
+   * A menu of choices is drawn like the other fields on every phone and browser, with
+   * its own small arrow, instead of each system's different one.
+   */
+  select.field-input {
+    appearance: none;
+    padding-right: 2.75rem;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3 6l5 5 5-5' fill='none' stroke='%2316120e' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 1rem center;
+    background-size: 1rem;
+  }
+
+  .field-input::placeholder {
+    color: rgb(22 18 14 / 0.5);
+  }
+
+  .field-input[aria-invalid='true'] {
+    border-color: var(--color-clay);
+  }
+
+  .field-hint {
+    margin-top: 0.4rem;
+    font-size: 0.9375rem;
+    color: rgb(22 18 14 / 0.72);
+  }
+
+  .field-error {
+    margin-top: 0.4rem;
+    font-size: 0.9375rem;
+    font-weight: 600;
+    color: var(--color-clay);
+  }
+
+  /* The "start a new bag?" dialog. */
+  .sheet {
+    width: min(30rem, calc(100vw - 2.5rem));
+    margin: auto;
+    border: 0;
+    border-radius: 1.75rem;
+    background: var(--color-paper);
+    padding: 1.75rem;
+    color: var(--color-soot);
+  }
+
+  .sheet::backdrop {
+    background: rgb(22 18 14 / 0.6);
+  }
+
+  /* On a phone a dialog rises from the bottom edge, where the thumb already is. */
+  @media (max-width: 39.99rem) {
+    .sheet {
+      width: 100%;
+      max-width: 100%;
+      max-height: 90dvh;
+      margin: auto 0 0;
+      border-radius: 1.75rem 1.75rem 0 0;
+      padding: 1.5rem 1.25rem calc(1.5rem + env(safe-area-inset-bottom));
+      overflow-y: auto;
+    }
+
+    .sheet[open] {
+      animation: sheet-rise 0.24s var(--ease-out-quint);
+    }
+  }
+
+  @keyframes sheet-rise {
+    from {
+      transform: translateY(2.5rem);
+      opacity: 0;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .hero-glow,
+    .hero-line > span,
+    .hero-fade {
+      animation: none;
+    }
+
+    .film-clip,
+    .switch,
+    .switch::after {
+      transition: none;
+    }
+
+    .skeleton,
+    .skeleton-dark,
+    .sheet[open] {
+      animation: none;
+    }
+
+    .btn:active:not(:disabled) {
+      transform: none;
+    }
+
+    .map-pin-rider {
+      animation: none;
+    }
+  }
+}

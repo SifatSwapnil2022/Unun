@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <meta name="theme-color" content="#16120e" />
+    <title>You are offline | Unun</title>
+    <style>
+      :root {
+        color-scheme: dark;
+      }
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        margin: 0;
+        min-height: 100svh;
+        display: grid;
+        align-content: center;
+        background: #16120e;
+        color: #efe7db;
+        font-family:
+          system-ui,
+          -apple-system,
+          'Segoe UI',
+          sans-serif;
+        padding: max(1.5rem, env(safe-area-inset-top))
+          max(1.5rem, env(safe-area-inset-right)) max(1.5rem, env(safe-area-inset-bottom))
+          max(1.5rem, env(safe-area-inset-left));
+      }
+      main {
+        max-width: 30rem;
+      }
+      svg {
+        width: 7rem;
+        height: auto;
+        color: #ff5b1f;
+      }
+      h1 {
+        margin: 2.5rem 0 0;
+        font-size: clamp(2.25rem, 9vw, 3.5rem);
+        line-height: 1;
+        letter-spacing: -0.02em;
+      }
+      p {
+        margin: 1rem 0 0;
+        font-size: 1.125rem;
+        line-height: 1.5;
+        color: rgb(239 231 219 / 0.85);
+      }
+      [lang='bn'] {
+        line-height: 1.7;
+      }
+      h1[lang='bn'] {
+        line-height: 1.25;
+        letter-spacing: 0;
+      }
+      hr {
+        margin: 2.25rem 0;
+        border: 0;
+        border-top: 1px solid rgb(239 231 219 / 0.25);
+      }
+      a {
+        display: inline-block;
+        margin-top: 2.25rem;
+        border-radius: 999px;
+        background: #ff5b1f;
+        padding: 0.8rem 1.6rem;
+        font-size: 1.0625rem;
+        font-weight: 600;
+        color: #16120e;
+        text-decoration: none;
+      }
+      a:focus-visible {
+        outline: 3px solid #ffc247;
+        outline-offset: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <svg viewBox="0 0 400 180" fill="none" role="img" aria-label="Unun">
+        <path
+          d="M20 13V122a45 45 0 0 0 90 0V58a45 45 0 0 1 90 0V122a45 45 0 0 0 90 0V58a45 45 0 0 1 90 0V167"
+          stroke="currentColor"
+          stroke-width="26"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </svg>
+
+      <h1>You are offline</h1>
+      <p>
+        Menus, prices and your order all need a connection, so nothing old is shown here.
+        An order you have already placed is still on its way.
+      </p>
+
+      <hr />
+
+      <h1 lang="bn">আপনি অফলাইনে আছেন</h1>
+      <p lang="bn">
+        মেনু, দাম আর আপনার অর্ডার দেখতে ইন্টারনেট লাগে, তাই এখানে পুরোনো কিছু দেখানো হচ্ছে
+        না। আগে দেওয়া অর্ডার ঠিকই আসছে।
+      </p>
+
+      <!-- A link to the page that failed: following it tries again, with no script needed. -->
+      <a href="">Try again / আবার চেষ্টা করুন</a>
+    </main>
+  </body>
+</html>

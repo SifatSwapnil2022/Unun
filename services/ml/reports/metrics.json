@@ -1,0 +1,128 @@
+{
+  "delivery_time": {
+    "scores": {
+      "rows": 20000.0,
+      "model_mae": 3.8635905641893253,
+      "rule_mae": 5.32141772170251,
+      "model_inside": 0.7913,
+      "rule_inside": 0.53905,
+      "model_late": 0.10655,
+      "rule_late": 0.3439,
+      "model_width": 12.214144962128513,
+      "rule_width": 9.03305,
+      "pinball_p10": 0.7700862118261604,
+      "pinball_p50": 1.9317952820946627,
+      "pinball_p90": 0.9596537563071288
+    },
+    "fitted_line": {
+      "mae": 5.0157766325351085,
+      "inside": 0.79275,
+      "late": 0.1112,
+      "width": 15.618640896251888
+    },
+    "by_day_part": [
+      {
+        "part": "Morning rush, 8 to 10",
+        "orders": 1495,
+        "rule_late": 0.21270903010033446,
+        "model_late": 0.10702341137123746
+      },
+      {
+        "part": "Lunch, 12 to 3",
+        "orders": 5612,
+        "rule_late": 0.3902352102637206,
+        "model_late": 0.10388453314326443
+      },
+      {
+        "part": "Afternoon, 3 to 5",
+        "orders": 572,
+        "rule_late": 0.19055944055944055,
+        "model_late": 0.12062937062937062
+      },
+      {
+        "part": "Evening rush, 5 to 9",
+        "orders": 5597,
+        "rule_late": 0.5354654279078077,
+        "model_late": 0.11005896015722709
+      },
+      {
+        "part": "Late, after 10",
+        "orders": 2569,
+        "rule_late": 0.11638769949396652,
+        "model_late": 0.09653561697158428
+      }
+    ],
+    "importance": {
+      "km": 4.842791123377839,
+      "prep_minutes": 4.7288316929448255,
+      "load": 0.8862398629596232,
+      "hour": 0.6670160423527165,
+      "items": 0.35754133223780127,
+      "weekday": 0.07302887703412866
+    }
+  },
+  "search": {
+    "threshold_chosen_on_tuning_half": 0.55,
+    "threshold_shipped": 0.55,
+    "tuning_scores": {
+      "0.4": 67,
+      "0.45": 67,
+      "0.5": 69,
+      "0.55": 69,
+      "0.6": 67,
+      "0.65": 66,
+      "0.7": 64,
+      "0.75": 60
+    },
+    "held_out": {
+      "exact": {
+        "n": 12,
+        "model": 12,
+        "typed": 12
+      },
+      "spelling": {
+        "n": 23,
+        "model": 22,
+        "typed": 2
+      },
+      "typo": {
+        "n": 6,
+        "model": 6,
+        "typed": 1
+      },
+      "bangla": {
+        "n": 8,
+        "model": 8,
+        "typed": 8
+      },
+      "other-language": {
+        "n": 8,
+        "model": 8,
+        "typed": 1
+      },
+      "not-sold": {
+        "n": 12,
+        "model": 11,
+        "typed": 12
+      }
+    },
+    "misses": [
+      [
+        "elish",
+        "nothing"
+      ],
+      [
+        "steak",
+        "Shutki bhorta"
+      ]
+    ]
+  },
+  "pairings": {
+    "learned_from": 616,
+    "tested_on": 155,
+    "hidden_dishes": 334,
+    "found_by_model": 215,
+    "found_by_popularity": 158,
+    "found_by_chance": 92.2
+  }
+}

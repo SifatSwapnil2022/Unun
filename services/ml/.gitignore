@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+# The trained model is made on each machine: a saved one only loads with the same
+# version of scikit-learn that wrote it.
+models/*.joblib
+models/*.json

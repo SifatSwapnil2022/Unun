@@ -1,0 +1,38 @@
+{
+  "name": "unun",
+  "private": true,
+  "version": "0.4.0",
+  "description": "Unun: a food delivery platform for Dhaka that shows the full price and an honest arrival time.",
+  "packageManager": "pnpm@10.34.6",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "pnpm -r build",
+    "lint": "pnpm -r lint && eslint scripts",
+    "typecheck": "pnpm -r typecheck",
+    "test": "pnpm -r test",
+    "e2e": "pnpm --filter @unun/e2e e2e",
+    "e2e:install": "pnpm --filter @unun/e2e e2e:install",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "media:library": "node scripts/media.mjs library",
+    "media:fetch": "node scripts/media.mjs fetch",
+    "media:check": "node scripts/media.mjs check",
+    "ml:setup": "node scripts/ml.mjs setup",
+    "ml:dev": "node scripts/ml.mjs dev",
+    "ml:train": "node scripts/ml.mjs train",
+    "ml:evaluate": "node scripts/ml.mjs evaluate",
+    "ml:test": "node scripts/ml.mjs test",
+    "ml:export": "node scripts/ml.mjs export",
+    "db:reset": "pnpm --filter @unun/api db:reset"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.39.0",
+    "eslint": "^9.39.0",
+    "prettier": "^3.9.10",
+    "typescript": "~6.0.3",
+    "typescript-eslint": "^8.71.0"
+  }
+}

@@ -1,0 +1,9550 @@
+{
+ "orders": [
+  {
+   "kitchen": "nokshi",
+   "dishes": [
+    "Nokshi pitha, 4 pieces",
+    "Dudh puli",
+    "Payesh with date-palm jaggery",
+    "Chitoi pitha with bhorta, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T01:35:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.4,
+   "minutes": 19
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli",
+    "Malpoa, 2 pieces",
+    "Payesh with date-palm jaggery"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T01:46:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Shingara, 2 pieces",
+    "Red tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T02:26:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 29
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Onion and cucumber salad",
+    "Borhani"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T05:11:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 27
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces",
+    "Sondesh, 4 pieces",
+    "Kalojam, 4 pieces",
+    "Roshogolla, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T05:22:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 21
+  },
+  {
+   "kitchen": "jhaal-bun",
+   "dishes": [
+    "Naga chili burger",
+    "Coleslaw",
+    "Chocolate milkshake"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T06:02:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.3,
+   "minutes": 23
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Soft drink, 250 ml",
+    "French fries",
+    "Masala wedges"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T06:06:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 27
+  },
+  {
+   "kitchen": "ilish-ghat",
+   "dishes": [
+    "Shorshe ilish",
+    "Aloo bhorta",
+    "Mishti doi, cup",
+    "Masoor dal"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T06:18:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.2,
+   "minutes": 27
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken",
+    "Pabda jhol",
+    "Shorshe ilish",
+    "Rui fish curry"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T06:22:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 24
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Tandoor ruti",
+    "Porota, 2 pieces",
+    "Dal bhaji"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T06:39:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 23
+  },
+  {
+   "kitchen": "kettle",
+   "dishes": [
+    "Tandoori tea",
+    "Toast biscuits",
+    "Shingara, 2 pieces",
+    "Somucha, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T06:59:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 19
+  },
+  {
+   "kitchen": "dhoa",
+   "dishes": [
+    "Grilled chicken, half",
+    "Chicken sheek kabab",
+    "Butter naan",
+    "Garlic naan"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T07:02:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.7,
+   "minutes": 29
+  },
+  {
+   "kitchen": "chotpoti-chottor",
+   "dishes": [
+    "Chotpoti with extra egg",
+    "Tamarind sherbet",
+    "Fuchka, 8 pieces",
+    "Mineral water, 500 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T07:02:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "tok-jhal",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Chotpoti",
+    "Lemon sherbet"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T07:14:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 21
+  },
+  {
+   "kitchen": "polao-para",
+   "dishes": [
+    "Morog polao",
+    "Jali kabab",
+    "Onion and cucumber salad"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T07:15:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.9,
+   "minutes": 26
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Black cumin bhorta",
+    "Plain rice",
+    "Masoor dal"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T07:26:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 25
+  },
+  {
+   "kitchen": "lal-tondur",
+   "dishes": [
+    "Tandoori chicken, half",
+    "Chicken kathi roll",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T07:58:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.9,
+   "minutes": 30
+  },
+  {
+   "kitchen": "shahi-haari",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Jali kabab",
+    "Beef tehari",
+    "Plain polao"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T08:19:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.5,
+   "minutes": 38
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Doi fuchka, 8 pieces",
+    "Chotpoti",
+    "Chotpoti with extra egg"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T08:30:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Chocolate milkshake",
+    "Soft drink, 250 ml",
+    "French fries"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T08:35:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 25
+  },
+  {
+   "kitchen": "piyaju",
+   "dishes": [
+    "Beef halim",
+    "Masala tea",
+    "Tandoori tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T10:46:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 21
+  },
+  {
+   "kitchen": "bhapa",
+   "dishes": [
+    "Bhapa pitha, 2 pieces",
+    "Teler pitha, 2 pieces",
+    "Payesh with date-palm jaggery"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T11:19:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 26
+  },
+  {
+   "kitchen": "tong",
+   "dishes": [
+    "Milk tea",
+    "Dal puri, 2 pieces",
+    "Butter toast",
+    "Chola with muri"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T11:23:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Beef sheek kabab",
+    "Raita",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T11:43:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 36
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Hot wings, 6 pieces",
+    "Coleslaw",
+    "Soft drink, 250 ml",
+    "Beef cheeseburger"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T12:55:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 36
+  },
+  {
+   "kitchen": "roshomoy",
+   "dishes": [
+    "Roshmalai, 250 g",
+    "Chomchom, 4 pieces",
+    "Kalojam, 4 pieces",
+    "Roshogolla, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T15:27:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "biye-bari",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Borhani",
+    "Firni",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T15:47:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 25
+  },
+  {
+   "kitchen": "dhoa",
+   "dishes": [
+    "Grilled chicken, half",
+    "Raita",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-14T16:43:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.7,
+   "minutes": 36
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-15T05:23:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 27
+  },
+  {
+   "kitchen": "ilish-ghat",
+   "dishes": [
+    "Shorshe ilish"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-15T05:59:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.2,
+   "minutes": 28
+  },
+  {
+   "kitchen": "koylar-aanch",
+   "dishes": [
+    "Beef boti kabab"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-15T06:15:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.6,
+   "minutes": 35
+  },
+  {
+   "kitchen": "koylar-aanch",
+   "dishes": [
+    "Beef boti kabab"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-15T06:20:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.6,
+   "minutes": 33
+  },
+  {
+   "kitchen": "shahi-haari",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-15T06:51:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.5,
+   "minutes": 27
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Shutki bhorta"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-15T07:00:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 22
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Shutki bhorta"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-15T07:47:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-15T08:23:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 17
+  },
+  {
+   "kitchen": "chow-para",
+   "dishes": [
+    "Chicken chow mein"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-15T08:27:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 27
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-15T08:39:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 16
+  },
+  {
+   "kitchen": "dawat",
+   "dishes": [
+    "Chicken biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-15T10:00:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 32
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-15T10:40:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 21
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-15T12:52:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 23
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Fried chicken, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-15T13:16:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 25
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Chicken chaap"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-15T13:55:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 34
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Prawn bhorta"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-15T15:08:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 23
+  },
+  {
+   "kitchen": "chotpoti-chottor",
+   "dishes": [
+    "Chotpoti with extra egg"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-15T15:16:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 21
+  },
+  {
+   "kitchen": "smash-goli",
+   "dishes": [
+    "Double smash burger"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-15T15:40:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.4,
+   "minutes": 23
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Masala tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-16T01:20:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 14
+  },
+  {
+   "kitchen": "nokshi",
+   "dishes": [
+    "Nokshi pitha, 4 pieces",
+    "Chitoi pitha with bhorta, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T01:20:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.4,
+   "minutes": 18
+  },
+  {
+   "kitchen": "nokshi",
+   "dishes": [
+    "Nokshi pitha, 4 pieces",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T01:32:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.4,
+   "minutes": 28
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces",
+    "Firni"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-16T03:24:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 15
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Borhani"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T05:33:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 27
+  },
+  {
+   "kitchen": "polao-para",
+   "dishes": [
+    "Morog polao",
+    "Borhani"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T05:33:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.9,
+   "minutes": 26
+  },
+  {
+   "kitchen": "jhaal-bun",
+   "dishes": [
+    "Naga chili burger",
+    "Mineral water, 500 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T06:12:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.3,
+   "minutes": 28
+  },
+  {
+   "kitchen": "tehari-bari",
+   "dishes": [
+    "Beef tehari",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T06:24:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 21
+  },
+  {
+   "kitchen": "chinigura",
+   "dishes": [
+    "Morog polao"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T06:37:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.1,
+   "minutes": 38
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "Coleslaw"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T06:40:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 27
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Beef sheek kabab",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T06:41:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 36
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish",
+    "Panta bhat with three bhortas"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T06:52:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 27
+  },
+  {
+   "kitchen": "lal-tondur",
+   "dishes": [
+    "Tandoori chicken, half",
+    "Garlic naan"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T07:16:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.9,
+   "minutes": 44
+  },
+  {
+   "kitchen": "kansha",
+   "dishes": [
+    "Prawn malai curry",
+    "Masoor dal"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T07:16:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 30
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces",
+    "Jilapi, 250 g"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T07:17:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "haarir-khobor",
+   "dishes": [
+    "Set lunch with fish",
+    "Black cumin bhorta"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T07:24:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 24
+  },
+  {
+   "kitchen": "jhaal-bun",
+   "dishes": [
+    "Naga chili burger"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T07:44:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.3,
+   "minutes": 24
+  },
+  {
+   "kitchen": "dhoa",
+   "dishes": [
+    "Grilled chicken, half",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T08:13:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.7,
+   "minutes": 32
+  },
+  {
+   "kitchen": "chinigura",
+   "dishes": [
+    "Morog polao",
+    "Jali kabab"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T08:25:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.1,
+   "minutes": 25
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Chotpoti with extra egg"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T08:44:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti",
+    "Fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T09:12:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 20
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Masoor dal"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T10:53:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 28
+  },
+  {
+   "kitchen": "kansha",
+   "dishes": [
+    "Prawn malai curry",
+    "Begun bhaja, 2 slices"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T11:33:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 36
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Beef sheek kabab",
+    "Chicken tikka"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T11:49:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 29
+  },
+  {
+   "kitchen": "dhoa",
+   "dishes": [
+    "Grilled chicken, half",
+    "Reshmi kabab"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T12:09:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.7,
+   "minutes": 32
+  },
+  {
+   "kitchen": "smash-goli",
+   "dishes": [
+    "Double smash burger",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T12:25:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.4,
+   "minutes": 33
+  },
+  {
+   "kitchen": "haarir-khobor",
+   "dishes": [
+    "Set lunch with fish",
+    "Five-bhorta platter with rice"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T12:37:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 26
+  },
+  {
+   "kitchen": "tehari-bari",
+   "dishes": [
+    "Beef tehari",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T13:53:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 26
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish",
+    "Aloo bhorta"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T14:21:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 22
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-16T16:17:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 26
+  },
+  {
+   "kitchen": "sokal-sokal",
+   "dishes": [
+    "Dal bhaji",
+    "Egg omelette"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T01:13:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.8,
+   "minutes": 25
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Piyaju, 4 pieces",
+    "Shingara, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-17T01:17:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 20
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Dudh puli",
+    "Teler pitha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T01:25:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 35
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Porota, 2 pieces",
+    "Tandoor ruti"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T01:57:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 23
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Milk tea",
+    "Tandoor ruti"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T02:21:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 33
+  },
+  {
+   "kitchen": "bakorkhani",
+   "dishes": [
+    "Bakorkhani, 6 pieces",
+    "Malai tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T02:21:00.000Z",
+   "prepMinutes": 8,
+   "km": 0.6,
+   "minutes": 18
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Porota, 2 pieces",
+    "Beef nehari"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T02:45:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 24
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli",
+    "Payesh with date-palm jaggery",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T03:02:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli",
+    "Payesh with date-palm jaggery",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T03:21:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 25
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g",
+    "Mixed mishti box, 1 kg"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T03:25:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 15
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Teler pitha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T03:53:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 21
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Chicken roast",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T05:17:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 25
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Prawn bhorta",
+    "Plain rice",
+    "Masoor dal"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T06:17:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 27
+  },
+  {
+   "kitchen": "chotpoti-chottor",
+   "dishes": [
+    "Chotpoti with extra egg",
+    "Fuchka, 8 pieces",
+    "Chotpoti"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T06:25:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken",
+    "Shorshe ilish",
+    "Pabda jhol"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T06:29:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 22
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "Coleslaw",
+    "French fries"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T06:33:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 25
+  },
+  {
+   "kitchen": "polao-para",
+   "dishes": [
+    "Beef rezala",
+    "Jorda",
+    "Firni"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T06:49:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.9,
+   "minutes": 33
+  },
+  {
+   "kitchen": "ilish-ghat",
+   "dishes": [
+    "Shorshe ilish",
+    "Aloo bhorta",
+    "Masoor dal"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T07:01:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.2,
+   "minutes": 29
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Shutki bhorta",
+    "Mineral water, 500 ml",
+    "Deshi chicken curry"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T07:41:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 26
+  },
+  {
+   "kitchen": "brishti-din",
+   "dishes": [
+    "Bhuna khichuri with beef",
+    "Begun bhaja, 2 slices",
+    "Egg curry"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T07:57:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 27
+  },
+  {
+   "kitchen": "dragon-goli",
+   "dishes": [
+    "Szechuan chicken",
+    "Chicken fried rice",
+    "Chili chicken"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T08:21:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 27
+  },
+  {
+   "kitchen": "lal-tondur",
+   "dishes": [
+    "Tandoori chicken, half",
+    "Mixed kabab platter",
+    "Raita"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T08:33:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.9,
+   "minutes": 34
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces",
+    "Papri chaat",
+    "Tamarind sherbet"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T08:34:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 18
+  },
+  {
+   "kitchen": "kettle",
+   "dishes": [
+    "Tandoori tea",
+    "Butter toast",
+    "Somucha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T08:38:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 14
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Fried chicken, 2 pieces",
+    "Soft drink, 250 ml",
+    "Coleslaw"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T09:06:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 37
+  },
+  {
+   "kitchen": "aloo-bukhara",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Onion and cucumber salad",
+    "Jali kabab"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T09:34:00.000Z",
+   "prepMinutes": 20,
+   "km": 1,
+   "minutes": 31
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Shutki bhorta",
+    "Plain rice",
+    "Rui fish curry"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T10:30:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 24
+  },
+  {
+   "kitchen": "jhaal-bun",
+   "dishes": [
+    "Naga chili burger",
+    "French fries",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T11:10:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.3,
+   "minutes": 23
+  },
+  {
+   "kitchen": "tok-jhal",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Lemon sherbet"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T11:34:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "koylar-aanch",
+   "dishes": [
+    "Beef boti kabab",
+    "Butter naan",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T14:26:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti",
+    "Tamarind sherbet",
+    "Fuchka, 8 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T15:14:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 17
+  },
+  {
+   "kitchen": "naga",
+   "dishes": [
+    "Naga chili burger",
+    "French fries",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-17T17:38:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 23
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Tandoor ruti",
+    "Porota, 2 pieces",
+    "Morning mixed vegetable"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T00:54:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 34
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Piyaju, 4 pieces",
+    "Dal puri, 2 pieces",
+    "Butter toast"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T01:18:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 21
+  },
+  {
+   "kitchen": "sokal-sokal",
+   "dishes": [
+    "Dal bhaji",
+    "Egg omelette",
+    "Suji halwa"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T01:22:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.8,
+   "minutes": 21
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Tandoor ruti",
+    "Porota, 2 pieces",
+    "Paya"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T01:26:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Tandoor ruti",
+    "Suji halwa"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T01:38:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 26
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mixed mishti box, 1 kg",
+    "Roshmalai, 250 g",
+    "Nimki, 200 g"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T03:14:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "nokshi",
+   "dishes": [
+    "Nokshi pitha, 4 pieces",
+    "Bhapa pitha, 2 pieces",
+    "Dudh puli",
+    "Payesh with date-palm jaggery"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T03:50:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.4,
+   "minutes": 23
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mishti doi, cup",
+    "Roshmalai, 250 g",
+    "Nimki, 200 g"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T04:54:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 13
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Beef tehari",
+    "Onion and cucumber salad",
+    "Borhani"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T05:10:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 25
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces",
+    "Mishti doi, cup",
+    "Mishti doi, 500 g",
+    "Kheer kodom, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T05:22:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 18
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Roshmalai, 250 g",
+    "Nimki, 200 g"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T05:34:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 12
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Masoor dal",
+    "Plain rice"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T05:47:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 27
+  },
+  {
+   "kitchen": "dum-ghor",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Jali kabab",
+    "Beef tehari",
+    "Borhani"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T05:54:00.000Z",
+   "prepMinutes": 20,
+   "km": 1.1,
+   "minutes": 31
+  },
+  {
+   "kitchen": "haarir-khobor",
+   "dishes": [
+    "Set lunch with fish",
+    "Rui fish curry",
+    "Vegetable set lunch",
+    "Prawn malai curry"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T06:22:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 24
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Beef sheek kabab",
+    "Soft drink, 250 ml",
+    "Butter naan"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T06:27:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 31
+  },
+  {
+   "kitchen": "smash-goli",
+   "dishes": [
+    "Double smash burger",
+    "Fried chicken, 4 pieces",
+    "Burger, fries and a drink",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T07:18:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.4,
+   "minutes": 35
+  },
+  {
+   "kitchen": "kansha",
+   "dishes": [
+    "Prawn malai curry",
+    "Begun bhaja, 2 slices",
+    "Plain rice",
+    "Masoor dal"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T07:30:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 30
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Lemon sherbet",
+    "Chotpoti",
+    "Tamarind sherbet"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T07:58:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 16
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "Soft drink, 250 ml",
+    "Beef burger",
+    "Coleslaw"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T08:06:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 26
+  },
+  {
+   "kitchen": "dawat",
+   "dishes": [
+    "Chicken biryani",
+    "Borhani",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T08:15:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 31
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter",
+    "Butter naan",
+    "Plain naan"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T09:03:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 42
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli",
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Payesh with date-palm jaggery",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T09:55:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 29
+  },
+  {
+   "kitchen": "wok-ghor",
+   "dishes": [
+    "Beef chili onion",
+    "Set menu for one",
+    "Mixed fried rice",
+    "Chicken corn soup"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T10:39:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.8,
+   "minutes": 31
+  },
+  {
+   "kitchen": "bakorkhani",
+   "dishes": [
+    "Bakorkhani, 6 pieces",
+    "Milk tea",
+    "Red tea",
+    "Malai tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T10:55:00.000Z",
+   "prepMinutes": 8,
+   "km": 0.6,
+   "minutes": 20
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti",
+    "Tamarind sherbet",
+    "Lemon sherbet"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-18T12:19:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 19
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T00:03:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 29
+  },
+  {
+   "kitchen": "kettle",
+   "dishes": [
+    "Tandoori tea"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-19T01:11:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 14
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T01:43:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 26
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T02:11:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 23
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T02:15:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 19
+  },
+  {
+   "kitchen": "sokal-sokal",
+   "dishes": [
+    "Dal bhaji"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-19T02:43:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T03:15:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 17
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-19T03:32:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 22
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-19T03:43:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 25
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-19T03:51:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 20
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Shutki bhorta"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-19T05:12:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 24
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-19T05:12:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 18
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T06:03:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 36
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Shutki bhorta"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-19T06:11:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 27
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T06:16:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 31
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T06:20:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 30
+  },
+  {
+   "kitchen": "shahi-haari",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T06:28:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.5,
+   "minutes": 25
+  },
+  {
+   "kitchen": "tok-jhal",
+   "dishes": [
+    "Fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-19T06:56:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "aloo-bukhara",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T07:07:00.000Z",
+   "prepMinutes": 20,
+   "km": 1,
+   "minutes": 30
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Prawn bhorta"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-19T07:07:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 24
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-19T08:04:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 23
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T08:40:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 25
+  },
+  {
+   "kitchen": "koylar-aanch",
+   "dishes": [
+    "Beef boti kabab"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T08:43:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.6,
+   "minutes": 31
+  },
+  {
+   "kitchen": "biye-bari",
+   "dishes": [
+    "Chicken roast"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-19T09:08:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 28
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T09:16:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 27
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T09:24:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 28
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-19T09:43:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 15
+  },
+  {
+   "kitchen": "dragon-goli",
+   "dishes": [
+    "Szechuan chicken"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T10:28:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 41
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-19T11:24:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 13
+  },
+  {
+   "kitchen": "dawat",
+   "dishes": [
+    "Chicken biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T12:12:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "brishti-din",
+   "dishes": [
+    "Bhuna khichuri with beef"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T13:00:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 36
+  },
+  {
+   "kitchen": "brishti-din",
+   "dishes": [
+    "Bhuna khichuri with beef"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T14:32:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 23
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-19T15:20:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 23
+  },
+  {
+   "kitchen": "dudh-cha",
+   "dishes": [
+    "Milk tea",
+    "Dal puri, 2 pieces"
+   ],
+   "items": 5,
+   "placedAt": "2026-09-20T02:16:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 16
+  },
+  {
+   "kitchen": "tong",
+   "dishes": [
+    "Milk tea",
+    "Dal puri, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-20T02:53:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 21
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Tandoori tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-20T03:17:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 17
+  },
+  {
+   "kitchen": "roshomoy",
+   "dishes": [
+    "Roshmalai, 250 g",
+    "Sondesh, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T04:36:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 16
+  },
+  {
+   "kitchen": "aloo-bukhara",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Borhani"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T05:28:00.000Z",
+   "prepMinutes": 20,
+   "km": 1,
+   "minutes": 41
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Small fish chorchori",
+    "Aloo bhorta"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T06:00:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 28
+  },
+  {
+   "kitchen": "wok-ghor",
+   "dishes": [
+    "Beef chili onion",
+    "Chicken corn soup"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T06:04:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.8,
+   "minutes": 31
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken",
+    "Masoor dal"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T06:16:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 17
+  },
+  {
+   "kitchen": "wok-ghor",
+   "dishes": [
+    "Beef chili onion",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T06:29:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.8,
+   "minutes": 42
+  },
+  {
+   "kitchen": "naga",
+   "dishes": [
+    "Naga chili burger",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T06:44:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 38
+  },
+  {
+   "kitchen": "tong",
+   "dishes": [
+    "Milk tea",
+    "Masala tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-20T06:49:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "bun-moshla",
+   "dishes": [
+    "Beef burger",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T07:00:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 27
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T07:09:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 26
+  },
+  {
+   "kitchen": "maach-bhaat",
+   "dishes": [
+    "Pabda jhol",
+    "Aloo bhorta"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T07:36:00.000Z",
+   "prepMinutes": 16,
+   "km": 1,
+   "minutes": 25
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Doi fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T08:16:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 22
+  },
+  {
+   "kitchen": "koylar-aanch",
+   "dishes": [
+    "Beef boti kabab",
+    "Garlic naan"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T08:28:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.6,
+   "minutes": 43
+  },
+  {
+   "kitchen": "boti",
+   "dishes": [
+    "Beef boti kabab",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T08:48:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.9,
+   "minutes": 24
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Chola with muri"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-20T09:37:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 14
+  },
+  {
+   "kitchen": "chotpoti-chottor",
+   "dishes": [
+    "Chotpoti with extra egg",
+    "Tamarind sherbet"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T10:25:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 28
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T11:05:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 29
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Teler pitha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-20T12:25:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 32
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T13:17:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 29
+  },
+  {
+   "kitchen": "bun-moshla",
+   "dishes": [
+    "Beef burger",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T13:53:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 23
+  },
+  {
+   "kitchen": "nokshi",
+   "dishes": [
+    "Nokshi pitha, 4 pieces",
+    "Teler pitha, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T14:53:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.4,
+   "minutes": 22
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti",
+    "Tamarind sherbet"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T15:01:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 16
+  },
+  {
+   "kitchen": "soup-bari",
+   "dishes": [
+    "Thai soup",
+    "Vegetable spring roll, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T15:41:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.4,
+   "minutes": 27
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken",
+    "Egg fried rice"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-20T15:57:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 36
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Porota, 2 pieces",
+    "Tandoor ruti"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T00:21:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 19
+  },
+  {
+   "kitchen": "sokal-sokal",
+   "dishes": [
+    "Dal bhaji",
+    "Suji halwa",
+    "Egg omelette"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T01:53:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Milk tea",
+    "Toast biscuits"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-21T02:13:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 18
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g",
+    "Mixed mishti box, 1 kg"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T03:05:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 13
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mishti doi, 500 g",
+    "Nimki, 200 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T04:21:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 15
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg",
+    "Mishti doi, cup",
+    "Mishti doi, 500 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T04:29:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 15
+  },
+  {
+   "kitchen": "dum-ghor",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Firni",
+    "Jali kabab"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T05:01:00.000Z",
+   "prepMinutes": 20,
+   "km": 1.1,
+   "minutes": 32
+  },
+  {
+   "kitchen": "chinigura",
+   "dishes": [
+    "Morog polao",
+    "Chicken roast",
+    "Mutton kacchi biryani"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T05:01:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.1,
+   "minutes": 27
+  },
+  {
+   "kitchen": "dawat",
+   "dishes": [
+    "Chicken biryani",
+    "Chicken roast",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T05:41:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 25
+  },
+  {
+   "kitchen": "biye-bari",
+   "dishes": [
+    "Chicken roast",
+    "Mutton kacchi biryani"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T06:06:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 40
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken",
+    "Kala bhuna",
+    "Egg curry"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T06:13:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 17
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Tandoori tea",
+    "Masala tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T06:14:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 20
+  },
+  {
+   "kitchen": "dhoa",
+   "dishes": [
+    "Grilled chicken, half",
+    "Onion and cucumber salad",
+    "Raita"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T06:21:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.7,
+   "minutes": 35
+  },
+  {
+   "kitchen": "biye-bari",
+   "dishes": [
+    "Chicken roast",
+    "Morog polao",
+    "Jali kabab"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T07:17:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 28
+  },
+  {
+   "kitchen": "boti",
+   "dishes": [
+    "Beef boti kabab",
+    "Garlic naan"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T07:38:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.9,
+   "minutes": 28
+  },
+  {
+   "kitchen": "soup-bari",
+   "dishes": [
+    "Thai soup",
+    "Set menu for one",
+    "Mineral water, 500 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T07:42:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.4,
+   "minutes": 36
+  },
+  {
+   "kitchen": "chow-para",
+   "dishes": [
+    "Chicken chow mein",
+    "Chili chicken"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T08:17:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 33
+  },
+  {
+   "kitchen": "dum-ghor",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Firni",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T09:14:00.000Z",
+   "prepMinutes": 20,
+   "km": 1.1,
+   "minutes": 34
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion",
+    "Mineral water, 500 ml",
+    "Chicken fried rice"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T09:14:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 28
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Milk tea",
+    "Masala tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-21T09:14:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 16
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Chicken chaap",
+    "Onion and cucumber salad",
+    "Luchi, 4 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T12:29:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 30
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg",
+    "Roshmalai, 250 g",
+    "Mishti doi, 500 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T12:42:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 17
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Amriti, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T14:18:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 17
+  },
+  {
+   "kitchen": "wok-ghor",
+   "dishes": [
+    "Beef chili onion",
+    "Mineral water, 500 ml",
+    "Vegetable spring roll, 4 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T14:38:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.8,
+   "minutes": 27
+  },
+  {
+   "kitchen": "dawat",
+   "dishes": [
+    "Chicken biryani",
+    "Chicken roast",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T14:46:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 32
+  },
+  {
+   "kitchen": "aloo-bukhara",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Firni",
+    "Jorda"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T15:14:00.000Z",
+   "prepMinutes": 20,
+   "km": 1,
+   "minutes": 28
+  },
+  {
+   "kitchen": "ilish-ghat",
+   "dishes": [
+    "Shorshe ilish",
+    "Aloo bhorta",
+    "Small fish chorchori"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-21T15:26:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.2,
+   "minutes": 37
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Butter toast",
+    "Toast biscuits",
+    "Shingara, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T01:30:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 22
+  },
+  {
+   "kitchen": "bhapa",
+   "dishes": [
+    "Bhapa pitha, 2 pieces",
+    "Payesh with date-palm jaggery",
+    "Teler pitha, 2 pieces",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T03:42:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Borhani",
+    "Firni",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T05:10:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 36
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mishti doi, cup",
+    "Roshmalai, 250 g",
+    "Nimki, 200 g"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T05:22:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 18
+  },
+  {
+   "kitchen": "ilish-ghat",
+   "dishes": [
+    "Shorshe ilish",
+    "Mixed vegetable bhaji",
+    "Small fish chorchori",
+    "Masoor dal"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T05:42:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.2,
+   "minutes": 35
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Masoor dal",
+    "Deshi chicken curry",
+    "Set lunch with fish"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T06:10:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 31
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Small fish chorchori",
+    "Mixed vegetable bhaji",
+    "Begun bhaja, 2 slices",
+    "Set lunch with fish"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T06:18:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 28
+  },
+  {
+   "kitchen": "brishti-din",
+   "dishes": [
+    "Bhuna khichuri with beef",
+    "Onion and cucumber salad",
+    "Begun bhaja, 2 slices",
+    "Beef bhuna"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T06:34:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 22
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion",
+    "Mixed fried rice",
+    "Thai soup",
+    "Szechuan chicken"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T07:22:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 32
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken",
+    "Red amaranth bhaji",
+    "Mixed vegetable bhaji",
+    "Prawn bhorta"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T07:42:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 21
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces",
+    "Tamarind sherbet",
+    "Chotpoti with extra egg"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T07:42:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 19
+  },
+  {
+   "kitchen": "maach-bhaat",
+   "dishes": [
+    "Pabda jhol",
+    "Mixed vegetable bhaji",
+    "Begun bhaja, 2 slices",
+    "Red amaranth bhaji"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T07:46:00.000Z",
+   "prepMinutes": 16,
+   "km": 1,
+   "minutes": 38
+  },
+  {
+   "kitchen": "lal-tondur",
+   "dishes": [
+    "Tandoori chicken, half",
+    "Raita",
+    "Beef kathi roll",
+    "Plain naan"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T07:54:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.9,
+   "minutes": 35
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Tamarind sherbet",
+    "Chotpoti"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T08:07:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 21
+  },
+  {
+   "kitchen": "koylar-aanch",
+   "dishes": [
+    "Beef boti kabab",
+    "Garlic naan",
+    "Plain naan"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T08:14:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "dhoa",
+   "dishes": [
+    "Grilled chicken, half",
+    "Garlic naan",
+    "Plain naan",
+    "Raita"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T08:14:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.7,
+   "minutes": 31
+  },
+  {
+   "kitchen": "naga",
+   "dishes": [
+    "Naga chili burger",
+    "Coleslaw",
+    "Chocolate milkshake"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T08:14:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 34
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Beef sheek kabab",
+    "Garlic naan",
+    "Plain naan",
+    "Raita"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T08:18:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 31
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken",
+    "Set menu for one",
+    "Chinese mixed vegetable"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T08:50:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 27
+  },
+  {
+   "kitchen": "tehari-bari",
+   "dishes": [
+    "Beef tehari",
+    "Borhani",
+    "Firni",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T08:51:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "bun-moshla",
+   "dishes": [
+    "Beef burger",
+    "French fries",
+    "Coleslaw"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T08:51:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 26
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mishti doi, cup",
+    "Roshmalai, 250 g"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T09:27:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "chow-para",
+   "dishes": [
+    "Chicken chow mein",
+    "Szechuan chicken",
+    "Chili chicken",
+    "Thai soup"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T09:59:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 27
+  },
+  {
+   "kitchen": "dudh-cha",
+   "dishes": [
+    "Milk tea",
+    "Dal puri, 2 pieces",
+    "Butter toast",
+    "Toast biscuits"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T10:27:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 15
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces",
+    "Firni",
+    "Roshmalai, 250 g",
+    "Mishti doi, cup"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T10:47:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 16
+  },
+  {
+   "kitchen": "boti",
+   "dishes": [
+    "Beef boti kabab",
+    "Garlic naan",
+    "Borhani",
+    "Chicken chaap"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T11:59:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.9,
+   "minutes": 25
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Papri chaat",
+    "Chotpoti",
+    "Chotpoti with extra egg"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T13:07:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 21
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Red tea",
+    "Masala tea",
+    "Milk tea"
+   ],
+   "items": 5,
+   "placedAt": "2026-09-22T13:35:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 14
+  },
+  {
+   "kitchen": "angar",
+   "dishes": [
+    "Beef boti kabab",
+    "Chicken chaap",
+    "Butter naan",
+    "Plain naan"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-22T15:51:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.4,
+   "minutes": 39
+  },
+  {
+   "kitchen": "dudh-cha",
+   "dishes": [
+    "Milk tea"
+   ],
+   "items": 5,
+   "placedAt": "2026-09-23T01:51:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-23T03:32:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 14
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-23T03:48:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 14
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T05:04:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T05:11:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 31
+  },
+  {
+   "kitchen": "polao-para",
+   "dishes": [
+    "Beef rezala"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T05:27:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.9,
+   "minutes": 30
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T05:31:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 25
+  },
+  {
+   "kitchen": "tehari-bari",
+   "dishes": [
+    "Beef tehari"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-23T05:59:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 25
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Shutki bhorta"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-23T06:00:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 25
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T06:08:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 15
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T06:11:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 24
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-23T06:12:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 14
+  },
+  {
+   "kitchen": "aloo-bukhara",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T06:15:00.000Z",
+   "prepMinutes": 20,
+   "km": 1,
+   "minutes": 28
+  },
+  {
+   "kitchen": "chinigura",
+   "dishes": [
+    "Morog polao"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T06:39:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.1,
+   "minutes": 25
+  },
+  {
+   "kitchen": "tok-jhal",
+   "dishes": [
+    "Fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-23T06:55:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 16
+  },
+  {
+   "kitchen": "dum-ghor",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T07:03:00.000Z",
+   "prepMinutes": 20,
+   "km": 1.1,
+   "minutes": 26
+  },
+  {
+   "kitchen": "bakorkhani",
+   "dishes": [
+    "Bakorkhani, 6 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-23T07:28:00.000Z",
+   "prepMinutes": 8,
+   "km": 0.6,
+   "minutes": 14
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-23T07:51:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T07:55:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 28
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T08:11:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 26
+  },
+  {
+   "kitchen": "dhoa",
+   "dishes": [
+    "Grilled chicken, half"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T08:47:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.7,
+   "minutes": 30
+  },
+  {
+   "kitchen": "haarir-khobor",
+   "dishes": [
+    "Set lunch with fish"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T09:08:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 33
+  },
+  {
+   "kitchen": "boti",
+   "dishes": [
+    "Beef boti kabab"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T09:36:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.9,
+   "minutes": 29
+  },
+  {
+   "kitchen": "kansha",
+   "dishes": [
+    "Prawn malai curry"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T12:20:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-23T15:28:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 17
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T15:36:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 28
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-23T17:28:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 38
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Morning mixed vegetable"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T01:28:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Dal puri, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-24T01:41:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 18
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Tandoori tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-24T02:40:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg",
+    "Roshmalai, 250 g"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T03:08:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 17
+  },
+  {
+   "kitchen": "bhapa",
+   "dishes": [
+    "Bhapa pitha, 2 pieces",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-24T03:13:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 26
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Jilapi, 250 g"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T03:53:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 14
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Beef nehari"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T04:37:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 24
+  },
+  {
+   "kitchen": "dawat",
+   "dishes": [
+    "Chicken biryani",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T05:04:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion",
+    "Szechuan chicken"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T06:00:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 31
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish",
+    "Plain rice"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T06:04:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 33
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg",
+    "Mishti doi, cup"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T06:13:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "jhaal-bun",
+   "dishes": [
+    "Naga chili burger",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T06:32:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.3,
+   "minutes": 23
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Borhani"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T06:36:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 35
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken",
+    "Aloo bhorta"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T06:52:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 20
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Small fish chorchori",
+    "Black cumin bhorta"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T06:52:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 27
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Jhalmuri"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-24T06:53:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 21
+  },
+  {
+   "kitchen": "biye-bari",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T07:24:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 25
+  },
+  {
+   "kitchen": "smash-goli",
+   "dishes": [
+    "Double smash burger",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T07:25:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.4,
+   "minutes": 23
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Jhalmuri"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-24T07:52:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 18
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Lemon sherbet"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-24T08:08:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 16
+  },
+  {
+   "kitchen": "dragon-goli",
+   "dishes": [
+    "Szechuan chicken",
+    "Set menu for one"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T08:12:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 34
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces",
+    "Tamarind sherbet"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T08:33:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 19
+  },
+  {
+   "kitchen": "koylar-aanch",
+   "dishes": [
+    "Beef boti kabab",
+    "Raita"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T08:44:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T08:48:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 46
+  },
+  {
+   "kitchen": "chotpoti-chottor",
+   "dishes": [
+    "Chotpoti with extra egg",
+    "Tamarind sherbet"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T12:13:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 26
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Borhani"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T13:45:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 35
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken",
+    "Chicken fried rice"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T14:01:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 29
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Milk tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-24T14:45:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 17
+  },
+  {
+   "kitchen": "tehari-bari",
+   "dishes": [
+    "Beef tehari",
+    "Jali kabab"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T15:21:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 27
+  },
+  {
+   "kitchen": "kettle",
+   "dishes": [
+    "Tandoori tea",
+    "Somucha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-24T15:33:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 16
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion",
+    "Chicken fried rice"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T16:25:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 30
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Coleslaw"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-24T16:37:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 25
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Milk tea",
+    "Masala tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-25T02:17:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 14
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Porota, 2 pieces",
+    "Paya"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T02:45:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 25
+  },
+  {
+   "kitchen": "roshomoy",
+   "dishes": [
+    "Roshmalai, 250 g",
+    "Mishti doi, 500 g",
+    "Mishti doi, cup"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T03:25:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 13
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Firni",
+    "Borhani"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T05:09:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 32
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Firni",
+    "Borhani"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T06:33:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 25
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces",
+    "Firni",
+    "Jilapi, 250 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T06:38:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 16
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Soft drink, 250 ml",
+    "Chocolate milkshake"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T06:49:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 25
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken",
+    "Soft drink, 250 ml",
+    "Thai soup"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T07:01:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 30
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Onion and cucumber salad",
+    "Jali kabab"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T07:09:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 30
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "Soft drink, 250 ml",
+    "Coleslaw"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T07:33:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 28
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Jhalmuri",
+    "Chotpoti with extra egg"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T07:33:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 21
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Masala wedges",
+    "French fries"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T08:09:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 27
+  },
+  {
+   "kitchen": "piyaju",
+   "dishes": [
+    "Piyaju, 4 pieces",
+    "Masala tea",
+    "Chola with muri"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-25T09:17:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 17
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mishti doi, 500 g",
+    "Nimki, 200 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T10:06:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 16
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Chotpoti",
+    "Doi fuchka, 8 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T12:06:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "Coleslaw",
+    "French fries"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T13:02:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 23
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Dudh chitoi",
+    "Teler pitha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T13:50:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 34
+  },
+  {
+   "kitchen": "dhoa",
+   "dishes": [
+    "Grilled chicken, half",
+    "Mixed kabab platter"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T13:54:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.7,
+   "minutes": 32
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Shutki bhorta",
+    "Plain rice",
+    "Mixed vegetable bhaji"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T16:02:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 25
+  },
+  {
+   "kitchen": "jhaal-bun",
+   "dishes": [
+    "Naga chili burger",
+    "Crispy chicken burger",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-25T17:54:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.3,
+   "minutes": 24
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Tandoor ruti",
+    "Porota, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T01:11:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 24
+  },
+  {
+   "kitchen": "sokal-sokal",
+   "dishes": [
+    "Dal bhaji",
+    "Porota, 2 pieces",
+    "Egg omelette"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T01:46:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.8,
+   "minutes": 25
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli",
+    "Malpoa, 2 pieces",
+    "Payesh with date-palm jaggery",
+    "Red tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T02:30:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Teler pitha, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T03:50:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 22
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Tandoori tea",
+    "Milk tea",
+    "Egg chop"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T04:35:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 17
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Begun bhorta",
+    "Plain rice",
+    "Masoor dal"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T05:02:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 21
+  },
+  {
+   "kitchen": "polao-para",
+   "dishes": [
+    "Morog polao",
+    "Chicken biryani",
+    "Chicken roast",
+    "Jali kabab"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T05:26:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.9,
+   "minutes": 38
+  },
+  {
+   "kitchen": "chinigura",
+   "dishes": [
+    "Morog polao",
+    "Soft drink, 250 ml",
+    "Chicken roast",
+    "Jali kabab"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T06:38:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.1,
+   "minutes": 33
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Soft drink, 250 ml",
+    "Chicken roast",
+    "Jali kabab"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T06:54:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 26
+  },
+  {
+   "kitchen": "boti",
+   "dishes": [
+    "Beef boti kabab",
+    "Grilled chicken, half",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T07:26:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.9,
+   "minutes": 23
+  },
+  {
+   "kitchen": "angar",
+   "dishes": [
+    "Beef boti kabab",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml",
+    "Butter naan"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T07:38:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.4,
+   "minutes": 34
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Small fish chorchori",
+    "Begun bhaja, 2 slices",
+    "Plain rice",
+    "Masoor dal"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T07:38:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 27
+  },
+  {
+   "kitchen": "dawat",
+   "dishes": [
+    "Chicken biryani",
+    "Soft drink, 250 ml",
+    "Chicken roast",
+    "Jali kabab"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T07:39:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 35
+  },
+  {
+   "kitchen": "wok-ghor",
+   "dishes": [
+    "Beef chili onion",
+    "Set menu for one",
+    "Mixed fried rice",
+    "Chicken corn soup"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T08:22:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.8,
+   "minutes": 34
+  },
+  {
+   "kitchen": "chotpoti-chottor",
+   "dishes": [
+    "Chotpoti with extra egg",
+    "Chotpoti",
+    "Fuchka, 8 pieces",
+    "Tamarind sherbet"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T08:34:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 22
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken",
+    "Set menu for one",
+    "Chinese mixed vegetable"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T08:38:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 27
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Mineral water, 500 ml",
+    "Fuchka, 8 pieces",
+    "Doi fuchka, 8 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T08:50:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion",
+    "Chicken fried rice",
+    "Mineral water, 500 ml",
+    "Vegetable chow mein"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T08:58:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 27
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Vegetable set lunch",
+    "Plain rice",
+    "Masoor dal"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T09:19:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 27
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg",
+    "Mishti doi, 500 g",
+    "Mishti doi, cup",
+    "Roshmalai, 250 g"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T09:39:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 16
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Teler pitha, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T12:43:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 26
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Coleslaw",
+    "Chocolate milkshake",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T13:03:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 35
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg",
+    "Mishti doi, 500 g",
+    "Firni",
+    "Roshmalai, 250 g"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T13:03:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 16
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Beef chaap",
+    "Luchi, 4 pieces",
+    "Onion and cucumber salad"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T13:06:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 34
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Masoor dal"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T13:11:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 21
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Beef chaap",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml",
+    "Luchi, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T13:34:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 41
+  },
+  {
+   "kitchen": "aloo-bukhara",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Soft drink, 250 ml",
+    "Chicken roast",
+    "Jorda"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-26T13:47:00.000Z",
+   "prepMinutes": 20,
+   "km": 1,
+   "minutes": 32
+  },
+  {
+   "kitchen": "bhapa",
+   "dishes": [
+    "Bhapa pitha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-27T01:11:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-27T01:23:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 14
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-27T01:31:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 15
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-27T04:08:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 16
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T04:44:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 20
+  },
+  {
+   "kitchen": "tehari-bari",
+   "dishes": [
+    "Beef tehari"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-27T05:15:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T05:43:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 13
+  },
+  {
+   "kitchen": "maach-bhaat",
+   "dishes": [
+    "Rui fish curry"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T05:47:00.000Z",
+   "prepMinutes": 16,
+   "km": 1,
+   "minutes": 28
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T06:03:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 24
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T06:15:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 25
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-27T06:15:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 19
+  },
+  {
+   "kitchen": "chow-para",
+   "dishes": [
+    "Chicken chow mein"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-27T06:43:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 28
+  },
+  {
+   "kitchen": "jhaal-bun",
+   "dishes": [
+    "Naga chili burger"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T07:03:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.3,
+   "minutes": 25
+  },
+  {
+   "kitchen": "smash-goli",
+   "dishes": [
+    "Double smash burger"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T07:04:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.4,
+   "minutes": 27
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-27T07:47:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 18
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-27T08:11:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 16
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Fried chicken, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-27T08:27:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 30
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T08:40:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 40
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-27T09:32:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "piyaju",
+   "dishes": [
+    "Piyaju, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-27T09:44:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 15
+  },
+  {
+   "kitchen": "angar",
+   "dishes": [
+    "Beef boti kabab"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T09:48:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.4,
+   "minutes": 29
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-27T10:28:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 19
+  },
+  {
+   "kitchen": "bhaji-porota",
+   "dishes": [
+    "Mughlai porota"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T10:56:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 21
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T12:24:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "tong",
+   "dishes": [
+    "Milk tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-27T12:44:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 17
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-27T13:56:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 22
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger"
+   ],
+   "items": 1,
+   "placedAt": "2026-09-27T16:52:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 23
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Chicken chaap"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-27T17:16:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 36
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T01:08:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Tandoor ruti"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T02:00:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 32
+  },
+  {
+   "kitchen": "bakorkhani",
+   "dishes": [
+    "Bakorkhani, 6 pieces",
+    "Milk tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-28T02:09:00.000Z",
+   "prepMinutes": 8,
+   "km": 0.6,
+   "minutes": 17
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Chola with muri"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-28T02:57:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g",
+    "Nimki, 200 g"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T03:53:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Masoor dal"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T05:36:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 22
+  },
+  {
+   "kitchen": "angar",
+   "dishes": [
+    "Beef boti kabab",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T06:33:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.4,
+   "minutes": 31
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Masoor dal"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T06:36:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 28
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Borhani"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T06:40:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 35
+  },
+  {
+   "kitchen": "aloo-bukhara",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Beef kacchi biryani"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T07:33:00.000Z",
+   "prepMinutes": 20,
+   "km": 1,
+   "minutes": 33
+  },
+  {
+   "kitchen": "ilish-ghat",
+   "dishes": [
+    "Shorshe ilish",
+    "Masoor dal"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T07:33:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.2,
+   "minutes": 25
+  },
+  {
+   "kitchen": "chow-para",
+   "dishes": [
+    "Chicken chow mein",
+    "Vegetable chow mein"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T07:36:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 29
+  },
+  {
+   "kitchen": "maach-bhaat",
+   "dishes": [
+    "Pabda jhol",
+    "Begun bhaja, 2 slices"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T08:29:00.000Z",
+   "prepMinutes": 16,
+   "km": 1,
+   "minutes": 29
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Masoor dal"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T09:45:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 22
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Red tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-28T10:13:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 22
+  },
+  {
+   "kitchen": "piyaju",
+   "dishes": [
+    "Beef halim",
+    "Red tea"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T10:48:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 28
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken",
+    "Chinese mixed vegetable"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T11:29:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 27
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion",
+    "Fried wonton, 6 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T12:29:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 30
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T13:41:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 23
+  },
+  {
+   "kitchen": "bhaji-porota",
+   "dishes": [
+    "Mughlai porota",
+    "Milk tea"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T14:41:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 24
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish",
+    "Begun bhorta"
+   ],
+   "items": 2,
+   "placedAt": "2026-09-28T16:25:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 23
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Porota, 2 pieces",
+    "Tandoor ruti"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T02:25:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 19
+  },
+  {
+   "kitchen": "nokshi",
+   "dishes": [
+    "Nokshi pitha, 4 pieces",
+    "Dudh puli",
+    "Bhapa pitha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T02:49:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.4,
+   "minutes": 23
+  },
+  {
+   "kitchen": "nokshi",
+   "dishes": [
+    "Nokshi pitha, 4 pieces",
+    "Bhapa pitha, 2 pieces",
+    "Red tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T03:09:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.4,
+   "minutes": 25
+  },
+  {
+   "kitchen": "bhapa",
+   "dishes": [
+    "Bhapa pitha, 2 pieces",
+    "Payesh with date-palm jaggery",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T03:13:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "bhaji-porota",
+   "dishes": [
+    "Mughlai porota",
+    "Dal bhaji",
+    "Milk tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T03:25:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 25
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Roshogolla, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T03:57:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 15
+  },
+  {
+   "kitchen": "tong",
+   "dishes": [
+    "Milk tea",
+    "Butter toast",
+    "Chola with muri"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T04:18:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg",
+    "Mishti doi, 500 g",
+    "Roshmalai, 250 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T04:57:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 15
+  },
+  {
+   "kitchen": "haarir-khobor",
+   "dishes": [
+    "Set lunch with fish",
+    "Aloo bhorta",
+    "Prawn malai curry"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T05:25:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 21
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Shutki bhorta",
+    "Plain rice",
+    "Masoor dal"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-29T05:45:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "chinigura",
+   "dishes": [
+    "Morog polao",
+    "Firni",
+    "Borhani"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T06:05:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.1,
+   "minutes": 25
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Chicken roast",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T06:21:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 30
+  },
+  {
+   "kitchen": "polao-para",
+   "dishes": [
+    "Beef rezala",
+    "Morog polao",
+    "Chicken biryani"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T06:37:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.9,
+   "minutes": 30
+  },
+  {
+   "kitchen": "chow-para",
+   "dishes": [
+    "Chicken chow mein",
+    "Fried wonton, 6 pieces",
+    "Chicken fried rice"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T06:54:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 31
+  },
+  {
+   "kitchen": "shahi-haari",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Firni",
+    "Jali kabab"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T07:21:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.5,
+   "minutes": 27
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Coleslaw",
+    "Masala wedges"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T07:29:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 26
+  },
+  {
+   "kitchen": "lal-tondur",
+   "dishes": [
+    "Tandoori chicken, half",
+    "Onion and cucumber salad",
+    "Raita"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T08:01:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.9,
+   "minutes": 36
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken",
+    "Chicken fried rice",
+    "Egg fried rice"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T08:01:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 31
+  },
+  {
+   "kitchen": "smash-goli",
+   "dishes": [
+    "Double smash burger",
+    "French fries"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T08:33:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.4,
+   "minutes": 27
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter",
+    "Raita",
+    "Chicken chaap"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T08:53:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 42
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Chicken sheek kabab",
+    "Plain naan",
+    "Raita"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T09:10:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 33
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish",
+    "Panta bhat with three bhortas"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T10:06:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 25
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti",
+    "Fuchka, 8 pieces",
+    "Lemon sherbet"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T10:45:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 19
+  },
+  {
+   "kitchen": "biye-bari",
+   "dishes": [
+    "Chicken roast",
+    "Mutton kacchi biryani"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T10:50:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 38
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Chicken sheek kabab",
+    "Butter naan",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T11:06:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 41
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Fried chicken, 2 pieces",
+    "Soft drink, 250 ml",
+    "Coleslaw"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T11:54:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 34
+  },
+  {
+   "kitchen": "piyaju",
+   "dishes": [
+    "Piyaju, 4 pieces",
+    "Masala tea",
+    "Red tea"
+   ],
+   "items": 5,
+   "placedAt": "2026-09-29T11:57:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 22
+  },
+  {
+   "kitchen": "angar",
+   "dishes": [
+    "Beef boti kabab",
+    "Raita"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T12:46:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.4,
+   "minutes": 32
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces",
+    "Roshogolla, 4 pieces",
+    "Kalojam, 4 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-09-29T15:38:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 18
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Red tea",
+    "Porota, 2 pieces",
+    "Tandoor ruti"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T00:10:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 25
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Paya",
+    "Porota, 2 pieces",
+    "Tandoor ruti"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T00:26:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Tandoor ruti",
+    "Milk tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T00:46:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 29
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Tandoor ruti",
+    "Porota, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T02:06:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "roshomoy",
+   "dishes": [
+    "Roshmalai, 250 g",
+    "Firni",
+    "Chhanar payesh"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T03:22:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 20
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Masala tea",
+    "Aloo chop, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T03:27:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 17
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces",
+    "Mishti doi, cup",
+    "Mishti doi, 500 g",
+    "Kheer kodom, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T03:59:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 27
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Onion and cucumber salad",
+    "Borhani"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T05:14:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 25
+  },
+  {
+   "kitchen": "biye-bari",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Borhani",
+    "Firni",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T06:31:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 32
+  },
+  {
+   "kitchen": "polao-para",
+   "dishes": [
+    "Morog polao",
+    "Jali kabab",
+    "Onion and cucumber salad"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T06:46:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.9,
+   "minutes": 25
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish",
+    "Aloo bhorta",
+    "Panta bhat with three bhortas"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T06:47:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 32
+  },
+  {
+   "kitchen": "tehari-bari",
+   "dishes": [
+    "Beef tehari",
+    "Beef rezala",
+    "Chicken roast",
+    "Jali kabab"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T07:26:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "chinigura",
+   "dishes": [
+    "Morog polao",
+    "Soft drink, 250 ml",
+    "Chicken roast",
+    "Jali kabab"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T07:58:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.1,
+   "minutes": 28
+  },
+  {
+   "kitchen": "wok-ghor",
+   "dishes": [
+    "Beef chili onion",
+    "Chili chicken",
+    "Chicken fried rice",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T08:02:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.8,
+   "minutes": 34
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter",
+    "Raita",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T08:14:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 35
+  },
+  {
+   "kitchen": "kansha",
+   "dishes": [
+    "Prawn malai curry",
+    "Aloo bhorta",
+    "Mixed vegetable bhaji",
+    "Begun bhaja, 2 slices"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T08:15:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 30
+  },
+  {
+   "kitchen": "soup-bari",
+   "dishes": [
+    "Thai soup",
+    "Soft drink, 250 ml",
+    "Mineral water, 500 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T09:15:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.4,
+   "minutes": 27
+  },
+  {
+   "kitchen": "haarir-khobor",
+   "dishes": [
+    "Set lunch with fish",
+    "Prawn bhorta",
+    "Mishti doi, cup",
+    "Red amaranth bhaji"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T09:19:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 24
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Beef chaap",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml",
+    "Luchi, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T12:54:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 42
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Beef chaap",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml",
+    "Luchi, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T13:42:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 30
+  },
+  {
+   "kitchen": "bhaji-porota",
+   "dishes": [
+    "Mughlai porota",
+    "Egg omelette",
+    "Red tea",
+    "Milk tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T14:27:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 24
+  },
+  {
+   "kitchen": "biye-bari",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T15:11:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 25
+  },
+  {
+   "kitchen": "chow-para",
+   "dishes": [
+    "Chicken chow mein",
+    "Chili chicken",
+    "Thai soup",
+    "Fried wonton, 6 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T15:23:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 33
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g",
+    "Kalojam, 4 pieces",
+    "Chomchom, 4 pieces",
+    "Kheer kodom, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T15:27:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti",
+    "Lemon sherbet",
+    "Fuchka, 8 pieces",
+    "Bhelpuri"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T15:51:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 15
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Mishti doi, cup",
+    "Masoor dal"
+   ],
+   "items": 4,
+   "placedAt": "2026-09-30T16:11:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 26
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-01T01:15:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-01T02:39:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 32
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-01T03:07:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-01T03:24:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 24
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-01T04:35:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 13
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-01T05:20:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 15
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-01T05:43:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 12
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-01T06:11:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 22
+  },
+  {
+   "kitchen": "nokshi",
+   "dishes": [
+    "Nokshi pitha, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-01T06:12:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.4,
+   "minutes": 24
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-01T06:24:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 21
+  },
+  {
+   "kitchen": "biye-bari",
+   "dishes": [
+    "Chicken roast"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-01T06:35:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-01T06:43:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 45
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-01T07:08:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 28
+  },
+  {
+   "kitchen": "ilish-ghat",
+   "dishes": [
+    "Shorshe ilish"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-01T07:48:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.2,
+   "minutes": 30
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Chicken sheek kabab"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-01T08:31:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 30
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-01T09:36:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 28
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-01T09:48:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 17
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-01T10:07:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 18
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-01T10:28:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "nokshi",
+   "dishes": [
+    "Nokshi pitha, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-01T11:28:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.4,
+   "minutes": 22
+  },
+  {
+   "kitchen": "piyaju",
+   "dishes": [
+    "Piyaju, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-01T11:35:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 22
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Shutki bhorta"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-01T13:52:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 25
+  },
+  {
+   "kitchen": "roshomoy",
+   "dishes": [
+    "Roshmalai, 250 g"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-01T14:12:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 18
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Prawn bhorta"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-01T14:36:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 22
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-01T15:24:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 14
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Chicken sheek kabab"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-01T16:20:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 35
+  },
+  {
+   "kitchen": "sokal-sokal",
+   "dishes": [
+    "Dal bhaji",
+    "Egg omelette"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-02T01:00:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.8,
+   "minutes": 22
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Red tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-02T01:21:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 29
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Dudh puli"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T02:00:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 35
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Toast biscuits"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-02T02:28:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 16
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Tandoor ruti"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T02:36:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 25
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mishti doi, 500 g"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T03:09:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 16
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T03:12:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 21
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g",
+    "Kheer kodom, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T04:36:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 12
+  },
+  {
+   "kitchen": "dum-ghor",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T05:20:00.000Z",
+   "prepMinutes": 20,
+   "km": 1.1,
+   "minutes": 31
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Masoor dal"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T05:24:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 26
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Doi fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T06:16:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 16
+  },
+  {
+   "kitchen": "aloo-bukhara",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T06:20:00.000Z",
+   "prepMinutes": 20,
+   "km": 1,
+   "minutes": 38
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg",
+    "Mishti doi, cup"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T06:49:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 13
+  },
+  {
+   "kitchen": "chotpoti-chottor",
+   "dishes": [
+    "Chotpoti with extra egg",
+    "Tamarind sherbet"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T07:00:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 16
+  },
+  {
+   "kitchen": "naga",
+   "dishes": [
+    "Naga chili burger",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T07:20:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 38
+  },
+  {
+   "kitchen": "dum-ghor",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Jali kabab"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T07:52:00.000Z",
+   "prepMinutes": 20,
+   "km": 1.1,
+   "minutes": 26
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mishti doi, cup"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T07:53:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 24
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces",
+    "Tamarind sherbet"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T08:04:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 22
+  },
+  {
+   "kitchen": "boti",
+   "dishes": [
+    "Beef boti kabab",
+    "Garlic naan"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T08:33:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.9,
+   "minutes": 27
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mishti doi, cup"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T08:41:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 16
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "Coleslaw"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T08:48:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 26
+  },
+  {
+   "kitchen": "bakorkhani",
+   "dishes": [
+    "Bakorkhani, 6 pieces",
+    "Milk tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-02T09:57:00.000Z",
+   "prepMinutes": 8,
+   "km": 0.6,
+   "minutes": 21
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Aloo chop, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-02T10:09:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 15
+  },
+  {
+   "kitchen": "brishti-din",
+   "dishes": [
+    "Bhuna khichuri with beef",
+    "Onion and cucumber salad"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T10:37:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 27
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Chotpoti"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T13:57:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 21
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Beef chaap",
+    "Luchi, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T14:01:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 46
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g",
+    "Kalojam, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T14:09:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Jali kabab"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T14:33:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 26
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T15:01:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 23
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Chocolate milkshake"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-02T16:17:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 25
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Milk tea",
+    "Tandoor ruti"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T00:13:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 19
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Malai tea",
+    "Egg chop"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-03T02:25:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 22
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli",
+    "Payesh with date-palm jaggery",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T02:29:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mishti doi, 500 g",
+    "Nimki, 200 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T03:30:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 21
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mishti doi, 500 g",
+    "Nimki, 200 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T03:37:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 13
+  },
+  {
+   "kitchen": "roshomoy",
+   "dishes": [
+    "Roshmalai, 250 g",
+    "Mishti doi, 500 g",
+    "Mishti doi, cup"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T04:01:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 20
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Firni",
+    "Borhani"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T05:05:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 25
+  },
+  {
+   "kitchen": "tehari-bari",
+   "dishes": [
+    "Beef tehari",
+    "Onion and cucumber salad",
+    "Jali kabab"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T06:02:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "bun-moshla",
+   "dishes": [
+    "Beef burger",
+    "Soft drink, 250 ml",
+    "Coleslaw"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T06:02:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 26
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion",
+    "Fried wonton, 6 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T06:06:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 27
+  },
+  {
+   "kitchen": "naga",
+   "dishes": [
+    "Naga chili burger",
+    "French fries",
+    "Crispy chicken burger"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T06:06:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 28
+  },
+  {
+   "kitchen": "kettle",
+   "dishes": [
+    "Tandoori tea",
+    "Piyaju, 4 pieces",
+    "Somucha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T06:10:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 29
+  },
+  {
+   "kitchen": "tehari-bari",
+   "dishes": [
+    "Beef tehari",
+    "Onion and cucumber salad",
+    "Jali kabab"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T06:33:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 27
+  },
+  {
+   "kitchen": "kansha",
+   "dishes": [
+    "Prawn malai curry",
+    "Masoor dal",
+    "Plain rice"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T06:33:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 25
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "Soft drink, 250 ml",
+    "Coleslaw"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T06:37:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 26
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces",
+    "Papri chaat",
+    "Mineral water, 500 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T07:13:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 17
+  },
+  {
+   "kitchen": "dudh-cha",
+   "dishes": [
+    "Milk tea",
+    "Shingara, 2 pieces",
+    "Toast biscuits"
+   ],
+   "items": 5,
+   "placedAt": "2026-10-03T07:38:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 15
+  },
+  {
+   "kitchen": "wok-ghor",
+   "dishes": [
+    "Beef chili onion",
+    "Mineral water, 500 ml",
+    "Vegetable spring roll, 4 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T07:41:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.8,
+   "minutes": 27
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion",
+    "Vegetable spring roll, 4 pieces",
+    "Vegetable chow mein"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T08:01:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 28
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Chicken sheek kabab",
+    "Plain naan",
+    "Garlic naan"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T09:34:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 36
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Tamarind sherbet",
+    "Green mango makha"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T10:18:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 15
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces",
+    "Roshmalai, 250 g",
+    "Firni"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T10:30:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 16
+  },
+  {
+   "kitchen": "biye-bari",
+   "dishes": [
+    "Chicken roast",
+    "Plain polao",
+    "Borhani"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T12:14:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 30
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Chicken chaap",
+    "Beef boti kabab",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T12:17:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 30
+  },
+  {
+   "kitchen": "soup-bari",
+   "dishes": [
+    "Thai soup",
+    "Mixed fried rice",
+    "Chicken chow mein"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T12:18:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.4,
+   "minutes": 31
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter",
+    "Plain naan",
+    "Butter naan"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T13:02:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 50
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Chicken chaap",
+    "Soft drink, 250 ml",
+    "Onion and cucumber salad"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T13:05:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 29
+  },
+  {
+   "kitchen": "kansha",
+   "dishes": [
+    "Prawn malai curry",
+    "Begun bhaja, 2 slices",
+    "Mixed vegetable bhaji"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T14:46:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 31
+  },
+  {
+   "kitchen": "haarir-khobor",
+   "dishes": [
+    "Set lunch with fish",
+    "Small fish chorchori",
+    "Five-bhorta platter with rice"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T15:50:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 25
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish",
+    "Begun bhaja, 2 slices",
+    "Fried ilish"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-03T16:18:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 22
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Shingara, 2 pieces",
+    "Red tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T01:46:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 14
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Tandoor ruti"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T02:02:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 24
+  },
+  {
+   "kitchen": "dudh-cha",
+   "dishes": [
+    "Milk tea",
+    "Butter toast",
+    "Toast biscuits"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T03:18:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 14
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g",
+    "Nimki, 200 g",
+    "Roshogolla, 4 pieces",
+    "Kalojam, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T05:02:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "aloo-bukhara",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Jali kabab",
+    "Onion and cucumber salad",
+    "Borhani"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T05:26:00.000Z",
+   "prepMinutes": 20,
+   "km": 1,
+   "minutes": 26
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg",
+    "Mishti doi, 500 g",
+    "Mishti doi, cup",
+    "Roshmalai, 250 g"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T05:39:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 13
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "Coleslaw",
+    "Soft drink, 250 ml",
+    "French fries"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T06:06:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 25
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Mineral water, 500 ml",
+    "Fuchka, 8 pieces",
+    "Doi fuchka, 8 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T06:18:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "bun-moshla",
+   "dishes": [
+    "Beef burger",
+    "Soft drink, 250 ml",
+    "French fries",
+    "Coleslaw"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T06:46:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 36
+  },
+  {
+   "kitchen": "koylar-aanch",
+   "dishes": [
+    "Beef boti kabab",
+    "Garlic naan",
+    "Onion and cucumber salad",
+    "Borhani"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T07:03:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion",
+    "Soft drink, 250 ml",
+    "Chili chicken",
+    "Chicken fried rice"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T07:10:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 28
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Hot wings, 6 pieces",
+    "Coleslaw",
+    "Soft drink, 250 ml",
+    "Beef cheeseburger"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T07:34:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 23
+  },
+  {
+   "kitchen": "soup-bari",
+   "dishes": [
+    "Thai soup",
+    "Mixed fried rice",
+    "Egg fried rice",
+    "Chicken fried rice"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T08:07:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.4,
+   "minutes": 37
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Coleslaw",
+    "Hot wings, 6 pieces",
+    "French fries"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T08:11:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 36
+  },
+  {
+   "kitchen": "piyaju",
+   "dishes": [
+    "Beef halim",
+    "Lemon tea",
+    "Milk tea",
+    "Red tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T10:34:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 17
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "French fries",
+    "Coleslaw",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T10:47:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 28
+  },
+  {
+   "kitchen": "brishti-din",
+   "dishes": [
+    "Bhuna khichuri with beef",
+    "Onion and cucumber salad",
+    "Begun bhaja, 2 slices"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T11:03:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 26
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti",
+    "Tamarind sherbet",
+    "Lemon sherbet"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T11:42:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 14
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Hot wings, 6 pieces",
+    "Mineral water, 500 ml",
+    "French fries",
+    "Coleslaw"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T11:55:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 23
+  },
+  {
+   "kitchen": "dum-ghor",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Soft drink, 250 ml",
+    "Chicken roast",
+    "Jali kabab"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T12:03:00.000Z",
+   "prepMinutes": 20,
+   "km": 1.1,
+   "minutes": 31
+  },
+  {
+   "kitchen": "bhapa",
+   "dishes": [
+    "Bhapa pitha, 2 pieces",
+    "Malpoa, 2 pieces",
+    "Payesh with date-palm jaggery",
+    "Red tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T12:03:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Jali kabab",
+    "Chicken roast",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T14:51:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 25
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces",
+    "Tamarind sherbet",
+    "Chotpoti"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T15:39:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 15
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces",
+    "French fries",
+    "Hot wings, 6 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-04T17:43:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 34
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T00:31:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 22
+  },
+  {
+   "kitchen": "sokal-sokal",
+   "dishes": [
+    "Dal bhaji"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-05T01:35:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "bhaji-porota",
+   "dishes": [
+    "Mughlai porota"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T02:28:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-05T03:23:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 12
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T03:23:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 26
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-05T03:23:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 13
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T03:48:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "haarir-khobor",
+   "dishes": [
+    "Set lunch with fish"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T05:52:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 30
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T06:27:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 27
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T06:28:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 30
+  },
+  {
+   "kitchen": "dhoa",
+   "dishes": [
+    "Grilled chicken, half"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T06:31:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.7,
+   "minutes": 35
+  },
+  {
+   "kitchen": "maach-bhaat",
+   "dishes": [
+    "Rui fish curry"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T06:31:00.000Z",
+   "prepMinutes": 16,
+   "km": 1,
+   "minutes": 34
+  },
+  {
+   "kitchen": "tehari-bari",
+   "dishes": [
+    "Beef tehari"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-05T06:51:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 23
+  },
+  {
+   "kitchen": "murgi-bhaja",
+   "dishes": [
+    "Fried chicken, 4 pieces"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T06:51:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 30
+  },
+  {
+   "kitchen": "kansha",
+   "dishes": [
+    "Prawn malai curry"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T09:04:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 25
+  },
+  {
+   "kitchen": "bakorkhani",
+   "dishes": [
+    "Bakorkhani, 6 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-05T10:44:00.000Z",
+   "prepMinutes": 8,
+   "km": 0.6,
+   "minutes": 16
+  },
+  {
+   "kitchen": "wok-ghor",
+   "dishes": [
+    "Beef chili onion"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T11:00:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.8,
+   "minutes": 29
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Shutki bhorta"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-05T11:08:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 25
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-05T11:08:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 32
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T11:24:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 21
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T12:04:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 40
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T12:56:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 14
+  },
+  {
+   "kitchen": "jhaal-bun",
+   "dishes": [
+    "Naga chili burger"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T14:08:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.3,
+   "minutes": 33
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-05T15:44:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 15
+  },
+  {
+   "kitchen": "wok-ghor",
+   "dishes": [
+    "Beef chili onion"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T16:16:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.8,
+   "minutes": 33
+  },
+  {
+   "kitchen": "lal-tondur",
+   "dishes": [
+    "Tandoori chicken, half"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-05T17:28:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.9,
+   "minutes": 35
+  },
+  {
+   "kitchen": "bhapa",
+   "dishes": [
+    "Bhapa pitha, 2 pieces",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-06T01:16:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 18
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Masala tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-06T02:20:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 19
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T03:08:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 12
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g",
+    "Mixed mishti box, 1 kg"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T04:36:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 20
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T04:49:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 32
+  },
+  {
+   "kitchen": "shahi-haari",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Plain polao"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T06:00:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.5,
+   "minutes": 34
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Mineral water, 500 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-06T06:32:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 17
+  },
+  {
+   "kitchen": "koylar-aanch",
+   "dishes": [
+    "Beef boti kabab",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T07:20:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.6,
+   "minutes": 35
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Hot wings, 6 pieces",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T07:21:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 36
+  },
+  {
+   "kitchen": "angar",
+   "dishes": [
+    "Beef boti kabab",
+    "Mixed kabab platter"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T08:08:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.4,
+   "minutes": 33
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces",
+    "Chotpoti with extra egg"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T08:16:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 18
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Hot wings, 6 pieces",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T08:20:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 27
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Masala wedges"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T08:33:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 24
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Hot wings, 6 pieces",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T08:52:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 29
+  },
+  {
+   "kitchen": "shahi-haari",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T08:53:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.5,
+   "minutes": 25
+  },
+  {
+   "kitchen": "roshomoy",
+   "dishes": [
+    "Roshmalai, 250 g",
+    "Nimki, 200 g"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T09:21:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 15
+  },
+  {
+   "kitchen": "ilish-ghat",
+   "dishes": [
+    "Shorshe ilish",
+    "Masoor dal"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T11:29:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.2,
+   "minutes": 25
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti",
+    "Tamarind sherbet"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T11:52:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 18
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken",
+    "Chicken chow mein"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T13:17:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 31
+  },
+  {
+   "kitchen": "mishti-mukh",
+   "dishes": [
+    "Mixed mishti box, 1 kg",
+    "Amriti, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T13:57:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 15
+  },
+  {
+   "kitchen": "jilapi-goli",
+   "dishes": [
+    "Amriti, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-06T14:17:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 30
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Hot wings, 6 pieces",
+    "Coleslaw"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-06T16:53:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 23
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Egg omelette",
+    "Tandoor ruti"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T00:22:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 22
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Beguni, 4 pieces",
+    "Piyaju, 4 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T01:17:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 23
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Porota, 2 pieces",
+    "Tandoor ruti"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T01:41:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 25
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Milk tea",
+    "Tandoori tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T01:46:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 18
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Milk tea",
+    "Tandoor ruti"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T02:13:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 27
+  },
+  {
+   "kitchen": "dudh-cha",
+   "dishes": [
+    "Milk tea",
+    "Shingara, 2 pieces",
+    "Toast biscuits"
+   ],
+   "items": 5,
+   "placedAt": "2026-10-07T02:30:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 22
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Shingara, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-07T02:49:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 15
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Motichur laddu, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T03:17:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 18
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g",
+    "Firni",
+    "Mishti doi, cup"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T05:05:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 13
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken",
+    "Kala bhuna",
+    "Egg curry"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T05:49:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 21
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Beef burger",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T06:05:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 30
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Prawn bhorta",
+    "Plain rice",
+    "Begun bhaja, 2 slices"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T06:13:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 21
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken",
+    "Plain rice",
+    "Masoor dal"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T06:29:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 19
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken",
+    "Chicken chow mein",
+    "Vegetable chow mein"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T06:53:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 28
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Chicken sheek kabab",
+    "Butter naan",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T07:01:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 35
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Prawn bhorta",
+    "Mixed vegetable bhaji",
+    "Masoor dal"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T07:01:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 21
+  },
+  {
+   "kitchen": "chotpoti-chottor",
+   "dishes": [
+    "Chotpoti with extra egg",
+    "Fuchka, 8 pieces",
+    "Tamarind sherbet"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T07:05:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 23
+  },
+  {
+   "kitchen": "bun-moshla",
+   "dishes": [
+    "Beef burger",
+    "Coleslaw"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T07:09:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 24
+  },
+  {
+   "kitchen": "koylar-aanch",
+   "dishes": [
+    "Beef boti kabab",
+    "Plain naan"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T07:25:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Tamarind sherbet",
+    "Chotpoti"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T07:25:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 15
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Shutki bhorta",
+    "Plain rice",
+    "Black cumin bhorta"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-07T07:38:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 26
+  },
+  {
+   "kitchen": "ilish-ghat",
+   "dishes": [
+    "Shorshe ilish",
+    "Aloo bhorta",
+    "Masoor dal"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T07:53:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.2,
+   "minutes": 28
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Papri chaat"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T08:25:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 21
+  },
+  {
+   "kitchen": "wok-ghor",
+   "dishes": [
+    "Beef chili onion",
+    "Chicken corn soup"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T08:37:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.8,
+   "minutes": 34
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Lemon sherbet",
+    "Tamarind sherbet"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T08:53:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 18
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti",
+    "Fuchka, 8 pieces",
+    "Tamarind sherbet"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T09:21:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 20
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Beguni, 4 pieces",
+    "Chola with muri"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T15:54:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 22
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter",
+    "Soft drink, 250 ml",
+    "Onion and cucumber salad"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-07T15:58:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 33
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Teler pitha, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T02:26:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 30
+  },
+  {
+   "kitchen": "kettle",
+   "dishes": [
+    "Tandoori tea",
+    "Toast biscuits",
+    "Shingara, 2 pieces",
+    "Butter toast"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T02:35:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 14
+  },
+  {
+   "kitchen": "kettle",
+   "dishes": [
+    "Tandoori tea",
+    "Beef halim",
+    "Butter toast",
+    "Toast biscuits"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T02:39:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 17
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli",
+    "Malpoa, 2 pieces",
+    "Payesh with date-palm jaggery",
+    "Chitoi pitha with bhorta, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T02:59:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 29
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Piyaju, 4 pieces",
+    "Dal puri, 2 pieces",
+    "Butter toast"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T03:14:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 29
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish",
+    "Fried ilish",
+    "Begun bhaja, 2 slices",
+    "Red amaranth bhaji"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T05:14:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 25
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Firni",
+    "Roshmalai, 250 g",
+    "Nimki, 200 g"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T05:14:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 16
+  },
+  {
+   "kitchen": "dum-ghor",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Borhani",
+    "Firni",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T05:38:00.000Z",
+   "prepMinutes": 20,
+   "km": 1.1,
+   "minutes": 32
+  },
+  {
+   "kitchen": "ilish-ghat",
+   "dishes": [
+    "Shorshe ilish",
+    "Mixed vegetable bhaji",
+    "Plain rice",
+    "Kala bhuna"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T05:38:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.2,
+   "minutes": 38
+  },
+  {
+   "kitchen": "jhaal-bun",
+   "dishes": [
+    "Naga chili burger",
+    "Coleslaw",
+    "Chocolate milkshake",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T06:14:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.3,
+   "minutes": 25
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces",
+    "Tamarind sherbet",
+    "Chotpoti"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T07:10:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 17
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Chocolate milkshake",
+    "Soft drink, 250 ml",
+    "French fries"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T07:27:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 37
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Chotpoti",
+    "Tamarind sherbet",
+    "Lemon sherbet"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T07:34:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 21
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken",
+    "Egg curry",
+    "Kala bhuna",
+    "Beef bhuna"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T07:51:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 20
+  },
+  {
+   "kitchen": "chow-para",
+   "dishes": [
+    "Chicken chow mein",
+    "Chili chicken",
+    "Thai soup",
+    "Fried wonton, 6 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T08:30:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 30
+  },
+  {
+   "kitchen": "sheek",
+   "dishes": [
+    "Beef sheek kabab",
+    "Plain naan",
+    "Mixed kabab platter",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T08:38:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.8,
+   "minutes": 36
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T08:50:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 49
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter",
+    "Raita",
+    "Onion and cucumber salad"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T09:11:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 34
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken",
+    "Aloo bhorta",
+    "Vegetable set lunch",
+    "Set lunch with fish"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T09:15:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 20
+  },
+  {
+   "kitchen": "chhana",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Mishti doi, cup",
+    "Roshmalai, 250 g",
+    "Nimki, 200 g"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T09:39:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.4,
+   "minutes": 17
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken",
+    "Chinese mixed vegetable",
+    "Vegetable chow mein"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T11:39:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 27
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Dal puri, 2 pieces",
+    "Butter toast",
+    "Tandoori tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T12:15:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 15
+  },
+  {
+   "kitchen": "boti",
+   "dishes": [
+    "Beef boti kabab",
+    "Raita",
+    "Onion and cucumber salad",
+    "Soft drink, 250 ml"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T12:35:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.9,
+   "minutes": 25
+  },
+  {
+   "kitchen": "dragon-goli",
+   "dishes": [
+    "Szechuan chicken",
+    "Egg fried rice",
+    "Mineral water, 500 ml",
+    "Chili chicken"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T13:51:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 32
+  },
+  {
+   "kitchen": "doi-ghor",
+   "dishes": [
+    "Mishti doi, 500 g",
+    "Kalojam, 4 pieces",
+    "Chomchom, 4 pieces",
+    "Kheer kodom, 4 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T13:55:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.7,
+   "minutes": 13
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast",
+    "Chola with muri",
+    "Beguni, 4 pieces",
+    "Masala tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T14:07:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 17
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Milk tea",
+    "Toast biscuits",
+    "Chola with muri"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T14:11:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 24
+  },
+  {
+   "kitchen": "dawat",
+   "dishes": [
+    "Chicken biryani",
+    "Soft drink, 250 ml",
+    "Chicken roast",
+    "Firni"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T15:03:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 41
+  },
+  {
+   "kitchen": "piyaju",
+   "dishes": [
+    "Beef halim",
+    "Butter toast",
+    "Red tea",
+    "Masala tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T15:31:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 21
+  },
+  {
+   "kitchen": "shahi-haari",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Chicken biryani",
+    "Onion and cucumber salad",
+    "Borhani"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T15:43:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.5,
+   "minutes": 29
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion",
+    "Vegetable chow mein",
+    "Vegetable spring roll, 4 pieces",
+    "Set menu for one"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-08T16:43:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 32
+  },
+  {
+   "kitchen": "bhapa",
+   "dishes": [
+    "Bhapa pitha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-09T01:03:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "nokshi",
+   "dishes": [
+    "Nokshi pitha, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T01:19:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.4,
+   "minutes": 25
+  },
+  {
+   "kitchen": "tong",
+   "dishes": [
+    "Milk tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-09T02:07:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 22
+  },
+  {
+   "kitchen": "kettle",
+   "dishes": [
+    "Tandoori tea"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T03:28:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 28
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T04:55:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 16
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Prawn bhorta"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T05:07:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 21
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T05:32:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 39
+  },
+  {
+   "kitchen": "dupur",
+   "dishes": [
+    "Set lunch with chicken"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T05:35:00.000Z",
+   "prepMinutes": 12,
+   "km": 0.4,
+   "minutes": 19
+  },
+  {
+   "kitchen": "nokshi",
+   "dishes": [
+    "Nokshi pitha, 4 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T05:36:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.4,
+   "minutes": 21
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T05:44:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 24
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T05:48:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 21
+  },
+  {
+   "kitchen": "bun-moshla",
+   "dishes": [
+    "Beef burger"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T06:11:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T06:19:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 30
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T06:19:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 23
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T06:19:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 22
+  },
+  {
+   "kitchen": "dragon-goli",
+   "dishes": [
+    "Szechuan chicken"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T06:23:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 33
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T06:32:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 19
+  },
+  {
+   "kitchen": "jhaal-bun",
+   "dishes": [
+    "Naga chili burger"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T06:36:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.3,
+   "minutes": 29
+  },
+  {
+   "kitchen": "koylar-aanch",
+   "dishes": [
+    "Beef boti kabab"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T07:07:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "naga",
+   "dishes": [
+    "Naga chili burger"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T07:07:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 23
+  },
+  {
+   "kitchen": "naga",
+   "dishes": [
+    "Naga chili burger"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T07:24:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.6,
+   "minutes": 28
+  },
+  {
+   "kitchen": "dum-ghor",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T07:27:00.000Z",
+   "prepMinutes": 20,
+   "km": 1.1,
+   "minutes": 30
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-09T07:32:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 16
+  },
+  {
+   "kitchen": "boti",
+   "dishes": [
+    "Beef boti kabab"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T07:35:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.9,
+   "minutes": 28
+  },
+  {
+   "kitchen": "chotpoti-chottor",
+   "dishes": [
+    "Chotpoti with extra egg"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T07:55:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 15
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Fried chicken, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T08:07:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 29
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T08:28:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 41
+  },
+  {
+   "kitchen": "polao-para",
+   "dishes": [
+    "Beef rezala"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T08:28:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.9,
+   "minutes": 25
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T08:28:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 18
+  },
+  {
+   "kitchen": "angar",
+   "dishes": [
+    "Beef boti kabab"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T08:39:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.4,
+   "minutes": 29
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-09T08:43:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 15
+  },
+  {
+   "kitchen": "soup-bari",
+   "dishes": [
+    "Thai soup"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T08:59:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.4,
+   "minutes": 33
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T09:44:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 22
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Chicken chaap"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T11:11:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 35
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Fried chicken, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-09T11:16:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 28
+  },
+  {
+   "kitchen": "jhaal-bun",
+   "dishes": [
+    "Naga chili burger"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T12:28:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.3,
+   "minutes": 27
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken"
+   ],
+   "items": 1,
+   "placedAt": "2026-10-09T12:56:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 27
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-09T14:08:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 16
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Tandoor ruti",
+    "Beef nehari"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T00:00:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "bhor",
+   "dishes": [
+    "Beef nehari",
+    "Tandoor ruti"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T00:00:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 19
+  },
+  {
+   "kitchen": "nolli",
+   "dishes": [
+    "Nolli nehari",
+    "Beef nehari"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T00:44:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.3,
+   "minutes": 29
+  },
+  {
+   "kitchen": "bhaji-porota",
+   "dishes": [
+    "Mughlai porota",
+    "Milk tea"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T01:08:00.000Z",
+   "prepMinutes": 14,
+   "km": 0.7,
+   "minutes": 21
+  },
+  {
+   "kitchen": "dawat",
+   "dishes": [
+    "Chicken biryani",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T05:13:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 39
+  },
+  {
+   "kitchen": "brishti-din",
+   "dishes": [
+    "Bhuna khichuri with beef",
+    "Begun bhaja, 2 slices",
+    "Onion and cucumber salad"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T05:17:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 24
+  },
+  {
+   "kitchen": "adda",
+   "dishes": [
+    "Butter toast"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T05:29:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 27
+  },
+  {
+   "kitchen": "ilish-ghat",
+   "dishes": [
+    "Shorshe ilish",
+    "Aloo bhorta",
+    "Set lunch with fish"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T05:41:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.2,
+   "minutes": 26
+  },
+  {
+   "kitchen": "boro-deg",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Jali kabab"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T06:00:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.4,
+   "minutes": 25
+  },
+  {
+   "kitchen": "shahi-haari",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Chicken roast",
+    "Plain polao"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T06:05:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.5,
+   "minutes": 30
+  },
+  {
+   "kitchen": "dum-ghor",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Borhani"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T07:01:00.000Z",
+   "prepMinutes": 20,
+   "km": 1.1,
+   "minutes": 31
+  },
+  {
+   "kitchen": "panta",
+   "dishes": [
+    "Panta bhat with fried ilish",
+    "Small fish chorchori",
+    "Plain rice"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T07:09:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.9,
+   "minutes": 24
+  },
+  {
+   "kitchen": "chili-onion",
+   "dishes": [
+    "Beef chili onion",
+    "Thai soup",
+    "Mixed fried rice"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T07:09:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 27
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter",
+    "Chicken tikka"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T07:13:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 37
+  },
+  {
+   "kitchen": "kettle",
+   "dishes": [
+    "Tandoori tea",
+    "Dal puri, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T07:13:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 28
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Prawn bhorta",
+    "Plain rice",
+    "Masoor dal"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T07:14:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 23
+  },
+  {
+   "kitchen": "fuchka-mama",
+   "dishes": [
+    "Doi fuchka, 8 pieces",
+    "Fuchka, 8 pieces",
+    "Tamarind sherbet"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T07:17:00.000Z",
+   "prepMinutes": 9,
+   "km": 1,
+   "minutes": 15
+  },
+  {
+   "kitchen": "dragon-goli",
+   "dishes": [
+    "Szechuan chicken",
+    "Mixed fried rice",
+    "Beef chili onion"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T07:29:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 29
+  },
+  {
+   "kitchen": "tok-jhal",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Tamarind sherbet"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T07:40:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 15
+  },
+  {
+   "kitchen": "dragon-goli",
+   "dishes": [
+    "Szechuan chicken",
+    "Beef chili onion"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T07:52:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 43
+  },
+  {
+   "kitchen": "chow-para",
+   "dishes": [
+    "Chicken chow mein",
+    "Sweet and sour prawn"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T07:56:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 31
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Small fish chorchori",
+    "Begun bhaja, 2 slices"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T08:13:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 29
+  },
+  {
+   "kitchen": "wok-ghor",
+   "dishes": [
+    "Beef chili onion",
+    "Mineral water, 500 ml",
+    "Vegetable spring roll, 4 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T08:30:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.8,
+   "minutes": 30
+  },
+  {
+   "kitchen": "tetul",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Lemon sherbet",
+    "Tamarind sherbet"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T08:50:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 22
+  },
+  {
+   "kitchen": "muri-makha",
+   "dishes": [
+    "Ghugni",
+    "Doi fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T08:53:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.7,
+   "minutes": 22
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Borhani"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T09:01:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 28
+  },
+  {
+   "kitchen": "uthan",
+   "dishes": [
+    "Small fish chorchori",
+    "Begun bhaja, 2 slices"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T10:01:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.8,
+   "minutes": 28
+  },
+  {
+   "kitchen": "kettle",
+   "dishes": [
+    "Tandoori tea",
+    "Butter toast",
+    "Dal puri, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T10:02:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 20
+  },
+  {
+   "kitchen": "piyaju",
+   "dishes": [
+    "Beef halim",
+    "Milk tea"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T10:05:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.6,
+   "minutes": 22
+  },
+  {
+   "kitchen": "pitha-puli",
+   "dishes": [
+    "Dudh puli",
+    "Malpoa, 2 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T10:29:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.7,
+   "minutes": 24
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Chicken chaap",
+    "Soft drink, 250 ml",
+    "Onion and cucumber salad"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T11:09:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 36
+  },
+  {
+   "kitchen": "chow-para",
+   "dishes": [
+    "Chicken chow mein",
+    "Chili chicken",
+    "Fried wonton, 6 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T11:34:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 33
+  },
+  {
+   "kitchen": "jafrani-haat",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Chicken roast"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T11:37:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 26
+  },
+  {
+   "kitchen": "polao-para",
+   "dishes": [
+    "Morog polao",
+    "Borhani"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T11:37:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.9,
+   "minutes": 36
+  },
+  {
+   "kitchen": "biye-bari",
+   "dishes": [
+    "Mutton kacchi biryani",
+    "Jali kabab"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T11:45:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 37
+  },
+  {
+   "kitchen": "maach-bhaat",
+   "dishes": [
+    "Rui fish curry",
+    "Masoor dal",
+    "Plain rice"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T12:02:00.000Z",
+   "prepMinutes": 16,
+   "km": 1,
+   "minutes": 29
+  },
+  {
+   "kitchen": "dawat",
+   "dishes": [
+    "Chicken biryani",
+    "Firni"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T12:17:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "baro-bhorta",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Masoor dal"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T12:25:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.4,
+   "minutes": 21
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Masala tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-10T12:29:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 14
+  },
+  {
+   "kitchen": "shorisha",
+   "dishes": [
+    "Five-bhorta platter with rice",
+    "Masoor dal"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T12:37:00.000Z",
+   "prepMinutes": 16,
+   "km": 0.7,
+   "minutes": 26
+  },
+  {
+   "kitchen": "tok-jhal",
+   "dishes": [
+    "Fuchka, 8 pieces",
+    "Chotpoti"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T13:21:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.8,
+   "minutes": 15
+  },
+  {
+   "kitchen": "chaap-ghor",
+   "dishes": [
+    "Beef chaap",
+    "Onion and cucumber salad"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T13:24:00.000Z",
+   "prepMinutes": 24,
+   "km": 1,
+   "minutes": 30
+  },
+  {
+   "kitchen": "bikel",
+   "dishes": [
+    "Chotpoti",
+    "Fuchka, 8 pieces"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T13:25:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.3,
+   "minutes": 17
+  },
+  {
+   "kitchen": "chow-para",
+   "dishes": [
+    "Chicken chow mein",
+    "Thai soup",
+    "Chili chicken"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T13:38:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.7,
+   "minutes": 28
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Piyaju, 4 pieces",
+    "Shingara, 2 pieces"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-10T14:10:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 22
+  },
+  {
+   "kitchen": "sondesh",
+   "dishes": [
+    "Sondesh, 4 pieces",
+    "Nimki, 200 g"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T14:13:00.000Z",
+   "prepMinutes": 7,
+   "km": 0.8,
+   "minutes": 20
+  },
+  {
+   "kitchen": "shiter-sokal",
+   "dishes": [
+    "Chitoi pitha with bhorta, 2 pieces",
+    "Teler pitha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T14:17:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 25
+  },
+  {
+   "kitchen": "sondhya",
+   "dishes": [
+    "Malai tea",
+    "Toast biscuits"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T14:18:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.9,
+   "minutes": 23
+  },
+  {
+   "kitchen": "boti",
+   "dishes": [
+    "Beef boti kabab",
+    "Raita",
+    "Grilled chicken, quarter"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T14:46:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.9,
+   "minutes": 28
+  },
+  {
+   "kitchen": "dawat",
+   "dishes": [
+    "Chicken biryani",
+    "Plain polao",
+    "Jali kabab"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T15:10:00.000Z",
+   "prepMinutes": 20,
+   "km": 0.6,
+   "minutes": 29
+  },
+  {
+   "kitchen": "angar",
+   "dishes": [
+    "Beef boti kabab",
+    "Onion and cucumber salad",
+    "Raita"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T15:14:00.000Z",
+   "prepMinutes": 24,
+   "km": 0.4,
+   "minutes": 40
+  },
+  {
+   "kitchen": "patty-para",
+   "dishes": [
+    "Beef cheeseburger",
+    "Soft drink, 250 ml"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T16:21:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 28
+  },
+  {
+   "kitchen": "jhalsano",
+   "dishes": [
+    "Mixed kabab platter",
+    "Grilled chicken, quarter",
+    "Onion and cucumber salad"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T16:26:00.000Z",
+   "prepMinutes": 28,
+   "km": 1.1,
+   "minutes": 42
+  },
+  {
+   "kitchen": "lal-lonthon",
+   "dishes": [
+    "Chili chicken",
+    "Set menu for one"
+   ],
+   "items": 2,
+   "placedAt": "2026-10-10T16:41:00.000Z",
+   "prepMinutes": 22,
+   "km": 0.3,
+   "minutes": 27
+  },
+  {
+   "kitchen": "mochmoche",
+   "dishes": [
+    "Fried chicken, 2 pieces",
+    "Crispy chicken burger",
+    "Soft drink, 250 ml"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-10T16:46:00.000Z",
+   "prepMinutes": 18,
+   "km": 0.5,
+   "minutes": 23
+  },
+  {
+   "kitchen": "gorom-shingara",
+   "dishes": [
+    "Somucha, 2 pieces",
+    "Milk tea",
+    "Masala tea"
+   ],
+   "items": 4,
+   "placedAt": "2026-10-11T01:13:00.000Z",
+   "prepMinutes": 9,
+   "km": 0.2,
+   "minutes": 16
+  },
+  {
+   "kitchen": "bhapa",
+   "dishes": [
+    "Bhapa pitha, 2 pieces",
+    "Malpoa, 2 pieces",
+    "Teler pitha, 2 pieces"
+   ],
+   "items": 3,
+   "placedAt": "2026-10-11T03:17:00.000Z",
+   "prepMinutes": 13,
+   "km": 0.8,
+   "minutes": 24
+  }
+ ]
+}

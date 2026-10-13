@@ -10,6 +10,12 @@
   command = "pnpm --filter @unun/api run build:netlify && pnpm --filter @unun/web run build"
   publish = "apps/web/.next"
 
+# Netlify's Next.js adapter. Netlify normally adds it when it detects Next.js; naming it
+# here means the site works however the project was created. It is not pinned, so
+# Netlify keeps it up to date.
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
 [functions]
   directory = "apps/api/netlify/functions"
   node_bundler = "esbuild"

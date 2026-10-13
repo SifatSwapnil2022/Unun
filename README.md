@@ -9,6 +9,9 @@ A customer can find a kitchen, order, pay, follow the rider on a map, rate the f
 report a problem. A restaurant owner, a rider and an admin each have their own
 workspace. The site is in English and Bangla, and installs on a phone like an app.
 
+**Live demo: [unun-dhaka.netlify.app](https://unun-dhaka.netlify.app)**. The sign-in page
+has one-click demo accounts for every role.
+
 This is a portfolio project by [Md Sifatullah Sheikh](https://github.com/SifatSwapnil2022).
 The 69 kitchens are invented; the areas, streets, dishes and price levels are real Dhaka.
 No real food is delivered and no real money moves.

@@ -40,8 +40,9 @@ that carry them are not pictured here.
 | `services/ml`   | Python, FastAPI, scikit-learn                 | Arrival-time model, spelling-proof search, suggestions |
 | `e2e`           | Playwright                                    | Browser tests of whole journeys                        |
 
-455 automated tests: 357 in TypeScript, 91 in Python and 7 in a real browser. Sixteen
-short decision records in [`docs/adr`](docs/adr) say why things are the way they are.
+464 automated tests: 366 in TypeScript, 91 in Python and 7 in a real browser.
+Seventeen short decision records in [`docs/adr`](docs/adr) say why things are the way
+they are.
 
 ## Quick start
 
@@ -290,6 +291,33 @@ the code is handed to the page, so set it to `0` wherever real people sign in. C
 are then printed where the API runs until an SMS gateway is connected, and
 `ADMIN_PHONE` creates the first admin.
 
+## Deploy to Netlify
+
+The whole project runs as one Netlify site: the web app, the API as a Netlify function,
+and a PostgreSQL database. The settings live in [`apps/web/netlify.toml`](apps/web/netlify.toml),
+and [decision 17](docs/adr/0017-one-netlify-site-with-the-api-as-a-function.md) explains
+the shape.
+
+1. In Netlify, choose **Add new project**, then **Import an existing project**, and pick
+   this repository on GitHub.
+2. Netlify finds several apps in it. Choose **apps/web**. That sets the package directory
+   to `apps/web` and leaves the base directory empty, which is what the build expects.
+   Leave the build command and publish directory as they are; `netlify.toml` sets them.
+3. Deploy. The first build stops at "No database to prepare", because there is no
+   database yet.
+4. Open the project's **Data & Storage**, then **Database**, and create one. Netlify
+   gives it to the site as `NETLIFY_DB_URL`.
+5. Open **Deploys** and choose **Retry**, or **Trigger deploy**. The build creates the
+   tables, loads the 69 kitchens and four weeks of demo orders, and publishes the site.
+
+If the account does not offer Netlify Database, any PostgreSQL server works. Create a
+free one with a provider such as [Neon](https://neon.tech), and add its connection
+string to the site as the environment variable `DATABASE_URL` before step 5.
+
+Every setting in [Settings](#settings) can be added as an environment variable. On
+Netlify, `WEB_ORIGIN` and `API_PUBLIC_URL` follow the site's address, and the Python
+service is off unless `ML_URL` points at a copy hosted somewhere that runs Python.
+
 ## How it is built
 
 ```
@@ -515,7 +543,8 @@ Things left simple:
   demo; many kitchens at once would want a pushed connection.
 - A guest order is reached through the link shown after checkout. It joins an account
   when someone signs in with the same number.
-- Rate limits and remembered arrival windows are kept in memory, per API process.
+- Rate limits and remembered arrival windows are kept in memory, per API process. On
+  Netlify that means per function instance.
 - The photographs are stock stand-ins, not pictures of these kitchens' food. Free
   photographs of some Bangladeshi dishes, pitha above all, are rare, so a few are only a
   loose match.

@@ -1,11 +1,9 @@
 import { mkdirSync } from 'node:fs';
 import { PGlite } from '@electric-sql/pglite';
-import { drizzle as drizzlePostgres } from 'drizzle-orm/node-postgres';
-import { migrate as migratePostgres } from 'drizzle-orm/node-postgres/migrator';
 import { drizzle as drizzlePglite, type PgliteDatabase } from 'drizzle-orm/pglite';
 import { migrate as migratePglite } from 'drizzle-orm/pglite/migrator';
-import pg from 'pg';
 import { MIGRATIONS_DIR } from '../paths';
+import { openPostgres } from './postgres';
 import * as schema from './schema';
 
 /*
@@ -32,16 +30,7 @@ type OpenOptions = {
 
 /** Opens the database and applies any migrations that have not run yet. */
 export async function openDatabase(options: OpenOptions): Promise<DatabaseHandle> {
-  if (options.databaseUrl) {
-    const pool = new pg.Pool({ connectionString: options.databaseUrl });
-    const db = drizzlePostgres(pool, { schema });
-    await migratePostgres(db, { migrationsFolder: MIGRATIONS_DIR });
-    return {
-      db: db as unknown as Database,
-      kind: 'postgres',
-      close: () => pool.end(),
-    };
-  }
+  if (options.databaseUrl) return openPostgres(options.databaseUrl, { migrate: true });
 
   if (options.dataDir) mkdirSync(options.dataDir, { recursive: true });
   const client = options.dataDir ? new PGlite(options.dataDir) : new PGlite();

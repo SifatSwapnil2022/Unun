@@ -22,3 +22,8 @@ next-env.d.ts
 e2e/test-results/
 e2e/.data/
 playwright-report/
+
+# Netlify CLI
+.netlify/
+# Compiled during the Netlify build
+apps/api/netlify/

@@ -13,6 +13,9 @@ export default defineConfig([
     '**/drizzle/**',
     '**/.venv/**',
     '**/test-results/**',
+    '**/.netlify/**',
+    // Compiled during the Netlify build.
+    'apps/api/netlify/**',
     'apps/web/**',
   ]),
   js.configs.recommended,

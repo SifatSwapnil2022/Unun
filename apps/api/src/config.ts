@@ -4,7 +4,10 @@ import { DEFAULT_DATA_DIR, ENV_FILE } from './paths';
 
 export type Config = {
   port: number;
-  /** A PostgreSQL connection string, or null to use the embedded database. */
+  /**
+   * A PostgreSQL connection string, from DATABASE_URL or else NETLIFY_DB_URL. Null uses
+   * the embedded database.
+   */
   databaseUrl: string | null;
   /** Where the embedded database keeps its files. */
   dataDir: string;
@@ -112,7 +115,8 @@ export function loadConfig(env: NodeJS.ProcessEnv = process.env): Config {
   const production = env.NODE_ENV === 'production';
   return {
     port: wholeNumber('PORT', env.PORT, 4000),
-    databaseUrl: env.DATABASE_URL?.trim() || null,
+    // NETLIFY_DB_URL is set by Netlify Database, on Netlify builds and functions.
+    databaseUrl: env.DATABASE_URL?.trim() || env.NETLIFY_DB_URL?.trim() || null,
     dataDir: env.DATA_DIR?.trim() || DEFAULT_DATA_DIR,
     webOrigin: env.WEB_ORIGIN?.trim() || 'http://localhost:3000',
     demoSpeed: wholeNumber('DEMO_SPEED', env.DEMO_SPEED, 30),

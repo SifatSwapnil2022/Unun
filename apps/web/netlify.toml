@@ -1,0 +1,23 @@
+# Netlify builds the whole site from here: the web app, and the API as a function.
+# In Netlify, set the package directory to apps/web and leave the base directory empty,
+# so installs and the build run from the repository root. Paths below are from there.
+
+[build]
+  # Applies migrations and the demo data to the database, compiles the API function,
+  # then builds the web app.
+  command = "pnpm --filter @unun/api run db:deploy && pnpm --filter @unun/api run build:netlify && pnpm --filter @unun/web run build"
+  publish = "apps/web/.next"
+
+[functions]
+  directory = "apps/api/netlify/functions"
+  node_bundler = "esbuild"
+  # pg looks for an optional native add-on that is not installed; leave it unbundled.
+  external_node_modules = ["pg"]
+
+# The browser calls /api/*. Send it straight to the API function rather than through
+# the web app's server, so the API sees the visitor's own address.
+[[redirects]]
+  from = "/api/*"
+  to = "/.netlify/functions/api/:splat"
+  status = 200
+  force = true

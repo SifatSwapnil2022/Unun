@@ -7,12 +7,14 @@
   "scripts": {
     "dev": "tsx watch --clear-screen=false src/server.ts",
     "build": "tsup",
+    "build:netlify": "tsup --config tsup.netlify.config.ts",
     "start": "node dist/server.js",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "db:generate": "drizzle-kit generate",
-    "db:reset": "tsx src/db/reset.ts"
+    "db:reset": "tsx src/db/reset.ts",
+    "db:deploy": "tsx src/db/deploy.ts"
   },
   "dependencies": {
     "@electric-sql/pglite": "^0.5.8",

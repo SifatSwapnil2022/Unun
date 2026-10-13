@@ -16,3 +16,7 @@ e2e/.data
 
 services/ml/.pytest_cache
 services/ml/.ruff_cache
+
+# Netlify build output
+.netlify
+apps/api/netlify

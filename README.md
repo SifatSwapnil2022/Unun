@@ -1,6 +1,6 @@
 # Unun
 
-[![CI](https://github.com/SifatSwapnil2022/foodieBite_upgraded/actions/workflows/ci.yml/badge.svg)](https://github.com/SifatSwapnil2022/foodieBite_upgraded/actions/workflows/ci.yml)
+[![CI](https://github.com/SifatSwapnil2022/Unun/actions/workflows/ci.yml/badge.svg)](https://github.com/SifatSwapnil2022/Unun/actions/workflows/ci.yml)
 
 Unun (উনুন, the clay stove) is a food delivery platform for Dhaka. Its promise is simple:
 the price you see is the price you pay, and the arrival time shown is the one you get.
@@ -49,8 +49,8 @@ they are.
 Requires Node.js 22 or newer.
 
 ```bash
-git clone https://github.com/SifatSwapnil2022/foodieBite_upgraded.git
-cd foodieBite_upgraded
+git clone https://github.com/SifatSwapnil2022/Unun.git
+cd Unun
 npx pnpm@10 install
 npx pnpm@10 dev
 ```

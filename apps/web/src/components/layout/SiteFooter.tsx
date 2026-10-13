@@ -9,7 +9,7 @@ type SiteFooterProps = {
   nav: Dictionary['nav'];
 };
 
-const SOURCE_URL = 'https://github.com/SifatSwapnil2022/foodieBite_upgraded';
+const SOURCE_URL = 'https://github.com/SifatSwapnil2022/Unun';
 
 export function SiteFooter({ locale, copy, nav }: SiteFooterProps) {
   const links = [

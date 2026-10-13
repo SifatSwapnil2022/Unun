@@ -1,14 +1,19 @@
 import { createApp } from './app';
-import { loadConfig } from './config';
+import { loadConfig, type Config } from './config';
 import type { DatabaseHandle } from './db/client';
 import { openPostgres } from './db/postgres';
+import { prepareDatabase } from './db/prepare';
 import { ApiError } from './http/errors';
 
 /*
  * The API as a Netlify function. Netlify calls the exported handler with a standard
  * Request; the Hono app answers it. The database is opened on the first request and
- * kept while the function instance stays warm. Migrations and demo data are applied
- * by `db:deploy` during the build, not here, so a cold start only connects.
+ * kept while the function instance stays warm.
+ *
+ * Opening it also applies any new migrations and, on an empty database, loads the demo
+ * data. That makes the first deploy work as soon as Netlify has provisioned the
+ * database, which happens during the deploy, after the build. Later cold starts find
+ * nothing to do and pay for two quick queries.
  */
 
 /** What this code reads from the context Netlify passes to a function. */
@@ -46,13 +51,15 @@ export function deployedEnv(env: NodeJS.ProcessEnv, siteUrl: string): NodeJS.Pro
 
 type HandlerOptions = {
   env?: NodeJS.ProcessEnv;
-  /** How the database is opened. Tests pass an in-memory one. */
-  open?: (databaseUrl: string) => Promise<DatabaseHandle>;
+  /** Where the migration files are, next to the deployed function. */
+  migrationsFolder?: string;
+  /** How the database is opened and set up. Tests pass an in-memory one. */
+  open?: (databaseUrl: string, config: Config) => Promise<DatabaseHandle>;
 };
 
 class MissingDatabase extends Error {
   constructor() {
-    super('No DATABASE_URL or NETLIFY_DB_URL is set.');
+    super('Neither DATABASE_URL nor NETLIFY_DB_URL is set.');
     this.name = 'MissingDatabase';
   }
 }
@@ -66,15 +73,20 @@ export function createNetlifyHandler(options: HandlerOptions = {}) {
   const env = options.env ?? process.env;
   const open =
     options.open ??
-    ((databaseUrl: string) =>
-      openPostgres(databaseUrl, { migrate: false, maxConnections: 3 }));
+    ((databaseUrl: string, config: Config) =>
+      openPostgres(databaseUrl, {
+        migrate: true,
+        migrationsFolder: options.migrationsFolder,
+        maxConnections: 3,
+        prepare: (db) => prepareDatabase(db, config, new Date()),
+      }));
 
   let ready: Promise<Handler> | null = null;
 
   async function start(siteUrl: string): Promise<Handler> {
     const config = loadConfig(deployedEnv(env, siteUrl));
     if (!config.databaseUrl) throw new MissingDatabase();
-    const database = await open(config.databaseUrl);
+    const database = await open(config.databaseUrl, config);
     const app = createApp({ db: database.db, config });
     return async (request) => app.fetch(request);
   }
@@ -95,7 +107,7 @@ export function createNetlifyHandler(options: HandlerOptions = {}) {
     } catch (error) {
       if (error instanceof MissingDatabase) {
         return unavailable(
-          'No database is connected. Create one under Data & Storage > Database in Netlify, or set DATABASE_URL, then deploy again.',
+          'No database is connected. Add Netlify Database to the site, or set DATABASE_URL, then deploy again.',
         );
       }
       console.error(error);

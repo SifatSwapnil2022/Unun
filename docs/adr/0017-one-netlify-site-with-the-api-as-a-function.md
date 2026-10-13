@@ -17,9 +17,14 @@ between requests, and nothing written to disk survives.
   at `/.netlify/functions/api`. The browser keeps calling `/api/*`.
 - The data lives in PostgreSQL: Netlify Database where the account offers it, or any
   server named by `DATABASE_URL`. The embedded database is for development only.
-- The build applies migrations and loads the demo data (`db:deploy`) before it builds
-  the site. A function that starts cold only opens a connection, so it does not pay for
-  migrations on a visitor's request.
+  Depending on `@netlify/database` is what makes Netlify provision one.
+- The function applies migrations and, on an empty database, loads the demo data when it
+  first opens the database. On a first deploy the database may not exist until the
+  deploy is under way, so the build cannot count on reaching it. A Postgres advisory lock lets one instance
+  do the work while any others starting at the same moment wait and then find it done.
+  Later cold starts pay for two quick queries.
+- The migrations stay in Drizzle's folder rather than Netlify's own migrations folder,
+  because the same files serve the embedded database in development and the tests.
 - The API needed no rewrite. Order progress was already stored as timed events and read
   against the clock (decision 6), so there is no background loop to keep alive.
 - The Python service is off on Netlify, which runs no Python. The API already falls back
@@ -28,7 +33,11 @@ between requests, and nothing written to disk survives.
 
 ## Consequences
 
-- The site, the API and the database deploy from one push, under one account.
+- The site, the API and the database deploy from one push, under one account, and the
+  first deploy needs no manual step.
+- The first request after a deploy that adds a migration is slower by that migration.
+  Migrations must stay backwards compatible, since the old deploy may still be serving
+  while the new one migrates.
 - The limits kept in memory, such as requests per minute, apply per function instance,
   not across all of them. That is enough for a demo; real traffic would need a shared
   store.

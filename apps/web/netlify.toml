@@ -1,11 +1,13 @@
 # Netlify builds the whole site from here: the web app, and the API as a function.
 # In Netlify, set the package directory to apps/web and leave the base directory empty,
 # so installs and the build run from the repository root. Paths below are from there.
+# The @netlify/database dependency in apps/web/package.json is what tells Netlify to
+# provision a PostgreSQL database for the site; the API reads it as NETLIFY_DB_URL.
 
 [build]
-  # Applies migrations and the demo data to the database, compiles the API function,
-  # then builds the web app.
-  command = "pnpm --filter @unun/api run db:deploy && pnpm --filter @unun/api run build:netlify && pnpm --filter @unun/web run build"
+  # Compiles the API function, then builds the web app. The database is set up by the
+  # function on its first request, since on a first deploy it may not exist yet here.
+  command = "pnpm --filter @unun/api run build:netlify && pnpm --filter @unun/web run build"
   publish = "apps/web/.next"
 
 [functions]
@@ -13,6 +15,8 @@
   node_bundler = "esbuild"
   # pg looks for an optional native add-on that is not installed; leave it unbundled.
   external_node_modules = ["pg"]
+  # The migrations the function applies.
+  included_files = ["apps/api/drizzle/**"]
 
 # The browser calls /api/*. Send it straight to the API function rather than through
 # the web app's server, so the API sees the visitor's own address.

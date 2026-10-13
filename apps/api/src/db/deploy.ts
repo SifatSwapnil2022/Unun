@@ -1,6 +1,7 @@
 /**
- * Prepares a PostgreSQL server for a deploy: applies migrations, then fills an empty
- * database with the demo data. Runs during the Netlify build; safe to run again.
+ * Prepares a PostgreSQL server ahead of time: applies migrations, then fills an empty
+ * database with the demo data. Safe to run again. On Netlify the function does this
+ * itself on its first request, so this is for other hosts or for loading data early.
  */
 import { loadConfig, loadEnvFile } from '../config';
 import { openPostgres } from './postgres';
@@ -16,10 +17,9 @@ if (!config.databaseUrl) {
   process.exit(1);
 }
 
-const database = await openPostgres(config.databaseUrl, { migrate: true });
-try {
-  await prepareDatabase(database.db, config, new Date());
-  console.log('The database is up to date.');
-} finally {
-  await database.close();
-}
+const database = await openPostgres(config.databaseUrl, {
+  migrate: true,
+  prepare: (db) => prepareDatabase(db, config, new Date()),
+});
+await database.close();
+console.log('The database is up to date.');

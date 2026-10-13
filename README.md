@@ -303,16 +303,17 @@ the shape.
 2. Netlify finds several apps in it. Choose **apps/web**. That sets the package directory
    to `apps/web` and leaves the base directory empty, which is what the build expects.
    Leave the build command and publish directory as they are; `netlify.toml` sets them.
-3. Deploy. The first build stops at "No database to prepare", because there is no
-   database yet.
-4. Open the project's **Data & Storage**, then **Database**, and create one. Netlify
-   gives it to the site as `NETLIFY_DB_URL`.
-5. Open **Deploys** and choose **Retry**, or **Trigger deploy**. The build creates the
-   tables, loads the 69 kitchens and four weeks of demo orders, and publishes the site.
+3. Deploy.
 
-If the account does not offer Netlify Database, any PostgreSQL server works. Create a
-free one with a provider such as [Neon](https://neon.tech), and add its connection
-string to the site as the environment variable `DATABASE_URL` before step 5.
+Netlify provisions a PostgreSQL database for the site as part of that deploy, because
+`apps/web` depends on `@netlify/database`. The API reads it as `NETLIFY_DB_URL`. On its
+first request the API creates the tables and loads the 69 kitchens and four weeks of
+demo orders, so the very first visit takes a few seconds longer.
+
+Netlify Database needs one of Netlify's credit-based plans, which new accounts have. On
+an older plan, or to use another server, create a PostgreSQL database with a provider
+such as [Neon](https://neon.tech) and add its connection string to the site as the
+environment variable `DATABASE_URL`. It takes precedence over `NETLIFY_DB_URL`.
 
 Every setting in [Settings](#settings) can be added as an environment variable. On
 Netlify, `WEB_ORIGIN` and `API_PUBLIC_URL` follow the site's address, and the Python
